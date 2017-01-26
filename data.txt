@@ -71,7 +71,7 @@ DESC: "Since Trump was inaugurated on Friday, the White House website has alread
 
 TITLE: Report: Conway punched a man three times at inaugural bal
 URL: http://thehill.com/blogs/blog-briefing-room/news/315811-conway-allegedly-punched-a-man-three-times-at-inauguration-ball
-TAGS: Punch
+TAGS: Punch Punch Punch
 DESC: "witnesses saw Conway punch a man in the face at least three times at the exclusive Liberty Ball in Washington just hours after President Trump was sworn in."
 
 TITLE: A Rogue National Park Is Tweeting Out Climate Change Facts in Defiance of Donald Trump
