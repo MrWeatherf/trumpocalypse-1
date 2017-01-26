@@ -269,6 +269,7 @@ TAGS: Twitter Punch
 TITLE: Barron Trump deserves the chance every child does-to be a kid. Standing up for every kid also means opposing POTUS policies that hurt kids.
 URL: https://www.facebook.com/chelseaclinton/posts/971766646256556
 TAGS: Misc
+DESC: Chelsea Clinton
 
 TITLE: CREW Sues Trump Over Emoluments
 URL: http://www.citizensforethics.org/press-release/crew-sues-trump-emoluments/
@@ -336,7 +337,7 @@ URL: http://www.avclub.com/article/tim-heidecker-wrote-song-about-richard-spence
 TAGS: Punch Nazi
 DESC: "For those Nazi-hating schadenfreude lovers, you now have your very own anthem"
 
-TITLE: http://thehill.com/homenews/administration/315530-conway-trump-isnt-going-to-release-tax-returns
+TITLE: Conway: Trump isn't going to release tax returns
 URL: http://thehill.com/homenews/administration/315530-conway-trump-isnt-going-to-release-tax-returns
 TAGS: News
 DESC: "Conway said during the interview Sunday that the public knows Trump and his family are complying with all the ethical rules regarding the president's business empire."
