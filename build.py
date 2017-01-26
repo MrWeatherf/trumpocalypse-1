@@ -14,6 +14,7 @@ Tags = [
 	'HaHa',
 	'ILoveWomen',
 	'Lawsuit',
+	'Misc',
 	'Nazi',
 	'News',
 	'Punch',
