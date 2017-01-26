@@ -5,6 +5,10 @@ URL: http://www.businessinsider.com/state-department-quitting-trump-2017-1
 TAGS: News
 DESC: "the single biggest simultaneous departure of institutional memory that anyone can remember."
 
+TITLE: #TrumpCheck: President Donald Trump said at least 10 false things in his first major television interview as president.
+URL: https://twitter.com/ddale8/status/824624204649820161
+TAGS: Twitter
+
 DAY 6: Wednesday 25 January 2017
 
 TITLE: Trump announces new White House ethics team
