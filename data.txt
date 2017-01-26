@@ -1,5 +1,10 @@
 DAY 7: Thursday 26 January 2017
 
+TITLE: Trump wants 20% tax on imports from Mexico to pay for wall
+URL: http://www.cnn.com/2017/01/26/politics/donald-trump-mexico-import-tax-border-wall/index.html
+TAGS: TheWall Mexico
+DESC: "Spicer dodged reporters' questions about the impact of the border tax on American consumers"
+
 TITLE: Cockroaches Feeling Very Optimistic About Future Of Planet
 URL: http://www.theonion.com/article/cockroaches-feeling-very-optimistic-about-future-p-55154
 TAGS: Satire
