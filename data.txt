@@ -36,6 +36,16 @@ DESC: "Seriously, it was just a few fields and a warehouse, and you idiots still
 
 DAY 5: Tuesday 24 January 2017
 
+TITLE: NASA Releases Climate Change Images As Trump Still Claims It Doesn't Exist
+URL: http://www.houstonpress.com/news/nasa-releases-climate-change-images-as-trump-still-claims-it-doesnt-exist-9135052
+TAGS: News
+DESC: "Since Trump was inaugurated on Friday, the White House website has already wiped away all mention of climate change."
+
+TITLE: Report: Conway punched a man three times at inaugural bal
+URL: http://thehill.com/blogs/blog-briefing-room/news/315811-conway-allegedly-punched-a-man-three-times-at-inauguration-ball
+TAGS: Punch
+DESC: "witnesses saw Conway punch a man in the face at least three times at the exclusive Liberty Ball in Washington just hours after President Trump was sworn in."
+
 TITLE: A Rogue National Park Is Tweeting Out Climate Change Facts in Defiance of Donald Trump
 URL: http://time.com/4645927/badlands-national-park-climate-change-tweets/
 TAGS: News Twitter
