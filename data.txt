@@ -1,5 +1,10 @@
 DAY 7: Thursday 26 January 2017
 
+TITLE: Hey Sean Spicer, what's up with that cryptic tweet?
+URL: http://mashable.com/2017/01/26/sean-spicer-cryptic-tweet/
+TAGS: Security
+DESC: "n9y25ah7"
+
 TITLE: A Homebody Finds the Ultimate Home Office
 URL: https://www.nytimes.com/2017/01/25/us/politics/president-trump-white-house.html
 TAGS: Commentary
