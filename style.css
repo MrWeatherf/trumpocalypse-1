@@ -1,0 +1,153 @@
+.container {
+	width: 800px;
+	max-width: none !important;
+	font-family: 'Georgia', serif;
+	padding-bottom: 50px;
+}
+
+.main-title {
+	font-size: 36pt;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-align: center;
+	margin: 30px 0 10px 0;
+	border: 2px solid black;
+	border-width: 2px 0 2px 0;
+}
+
+.main-subtitle {
+	font-size: 24pt;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-align: center;
+	margin: 10px 0 20px 0;
+}
+
+.day {
+	font-size: 20pt;
+	font-weight: bold;
+	text-align: center;
+	margin: 30px 0 0 0;
+}
+
+.date {
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: center;
+	margin: 0 0 10px 0;
+}
+
+tr:hover {
+	background: #f8f8f8;
+}
+
+.tag-box {
+	vertical-align: top;
+	margin: 2px;
+	width: 190px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: flex-end;
+}
+
+.info-box {
+	vertical-align: top;
+	margin: 15px;
+	width: 100%;
+}
+
+.title {
+	font-size: 12pt;
+	margin: 2px 2px 0 8px;
+}
+
+.desc {
+	font-size: 10pt;
+	font-style: italic;
+	margin: 0 2px 2px 8px;
+}
+
+.tag {
+	font-family: 'Arial Narrow', Arial, sans-serif;
+	display: inline-block;
+	text-align: center;
+	margin: 1px;
+	padding: 0;
+	font-size: 10pt;
+	min-width: 90px;
+	border-radius: 10px;
+	border: 1px solid black;
+	background-color: #e0e0e0;
+	color: #000000;
+}
+
+.AltFacts {
+	border-color: MediumVioletRed;
+	background-color: MediumVioletRed;
+	color: White;
+}
+
+.BabyHands {
+	border-color: Pink;
+	background-color: MistyRose;
+	color: Black;
+}
+
+.Commentary {
+	border-color: MediumSeaGreen ;
+	background-color: MediumSeaGreen;
+	color: #ffffff;
+}
+
+.GloriousLeader {
+	border-color: #0000ff;
+	background: repeating-linear-gradient(-20deg, #ffd0d0, #ffd0d0 5px, #ffffff 5px, #ffffff 10px);
+	color: #0000ff;
+}
+
+.HaHa {
+	border-color: MediumOrchid;
+	background-color: MediumOrchid;
+	color: White;
+}
+
+.ILoveWomen {
+	border-color: Pink;
+	background-color: White;
+	color: DeepPink;
+}
+
+.Lawsuit {}
+
+.Nazi {
+	border-color: #000000;
+	background-color: #ff0000;
+	color: #ffffff;
+}
+
+.News {
+	border-color: #f0f0f0;
+	background-color: #f0f0f0;
+	color: #000000;
+}
+
+.Punch {
+	border-color: Tomato;
+	background-color: Tomato;
+	color: #ffffff;
+}
+
+.Satire {}
+
+.ThanksObama {
+	border-color: Chocolate;
+	background-color: Chocolate;
+	color: #ffffff;
+}
+
+.Twitter {
+	border-color: #0084b4;
+	background-color: #0084b4;
+	color: #ffffff;
+}
