@@ -182,7 +182,7 @@ class Parser():
 	
 def main():
 	parser = Parser()
-	parser.process('data.txt', 'index.html')
+	parser.process('data.txt', 'year1.html')
 	
 if __name__ == '__main__':
 	main()
