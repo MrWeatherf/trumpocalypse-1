@@ -14,7 +14,7 @@ TAGS: News
 
 TITLE: Trump's most senior staff use a private email server
 URL: https://www.engadget.com/2017/01/25/trumps-most-senior-staff-use-a-private-email-server/
-TAGS: Hmmm
+TAGS: Security
 DESC: "This is the same RNC email server that mysteriously disappeared 22 million messages during George W Bush's administration"
 
 TITLE: Trump says intelligence officials tell him torture works
@@ -52,7 +52,7 @@ TAGS: Twitter
 
 TITLE: Trump is reportedly still using his unsecured Android phone
 URL: http://www.theverge.com/2017/1/25/14386524/trump-unsecure-android-phone-report
-TAGS: News
+TAGS: News Security
 DESC: "Trump did have kind words for the security of the White House phones, saying “words just explode in the air.”"
 
 TITLE: This is what Trump voters said when asked to compare his inauguration crowd with Obama’s
@@ -74,7 +74,7 @@ DAY 5: Tuesday 24 January 2017
 
 TITLE: NASA Releases Climate Change Images As Trump Still Claims It Doesn't Exist
 URL: http://www.houstonpress.com/news/nasa-releases-climate-change-images-as-trump-still-claims-it-doesnt-exist-9135052
-TAGS: News
+TAGS: News Science
 DESC: "Since Trump was inaugurated on Friday, the White House website has already wiped away all mention of climate change."
 
 TITLE: Report: Conway punched a man three times at inaugural bal
@@ -84,7 +84,7 @@ DESC: "witnesses saw Conway punch a man in the face at least three times at the 
 
 TITLE: A Rogue National Park Is Tweeting Out Climate Change Facts in Defiance of Donald Trump
 URL: http://time.com/4645927/badlands-national-park-climate-change-tweets/
-TAGS: News Twitter
+TAGS: Twitter Science
 DESC: "The U.S. Department of Interior was ordered to suspend operations of its Twitter accounts after the National Park Service's official account retweeted two posts that were unflattering toward the Trump administration."
 
 TITLE: If Chicago doesn't fix the horrible "carnage" going on, 228 shootings in 2017 with 42 killings (up 24% from 2016), I will send in the Feds!
@@ -98,7 +98,7 @@ DESC: "The self-ignited controversies in the first five days of his presidency [
 
 TITLE: Trump to take executive action on border security -- including the wall
 URL: http://www.foxnews.com/politics/2017/01/24/trump-to-take-executive-action-on-border-security-including-wall.html
-TAGS: News
+TAGS: TheWall Mexico
 DESC: "Mexico has repeatedly said it will not pay for any border wall."
 
 TITLE: Trump Won’t Back Down From His Voting Fraud Lie. Here Are the Facts.
@@ -132,7 +132,7 @@ DESC: "Spicer did not provide hard data to back up the claim"
 
 TITLE: Trump bans EPA employees from giving social media updates
 URL: http://thehill.com/policy/energy-environment/315876-trump-bans-epa-employees-from-giving-social-media-updates
-TAGS: News
+TAGS: News Science
 DESC: "EPA memo says agency is not allowed to issue press releases, add new content on websites, or post on social media"
 
 TITLE: Trump to sign orders reviving pipeline projects, sources say
@@ -317,7 +317,7 @@ TAGS: Twitter ThanksObama
 
 TITLE: U.S. Eyes Michael Flynn’s Links to Russia
 URL: http://www.wsj.com/articles/u-s-eyes-michael-flynns-links-to-russia-1485134942
-TAGS: News
+TAGS: News Russia
 DESC: "Michael Flynn, President Donald Trump's national security adviser, has been the subject of U.S. counterintelligence investigations over his past communications with Russia's ambassador to the U.S."
 
 TITLE: Donald Trump's team defends 'alternative facts' after widespread protests
