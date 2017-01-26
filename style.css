@@ -122,6 +122,12 @@ tr:hover {
 
 .Lawsuit {}
 
+.Mexico {
+	border-color: #0000ff;
+	background: repeating-linear-gradient(90deg, #cfc, #cfc 30px, #fff 30px, #fff 60px, #fcc 60px, #fcc 90px);
+	color: Black;
+}
+
 .Misc {
 	border-color: #f0f0f0;
 	background-color: #f0f0f0;
@@ -141,17 +147,29 @@ tr:hover {
 }
 
 .Punch {
-	border-color: Tomato;
-	background-color: Tomato;
-	color: #ffffff;
+	border-color: PeachPuff;
+	background-color: PeachPuff;
+	color: Black;
 }
 
+.Russia {}
+
 .Satire {}
+
+.Security {}
+
+.Science {}
 
 .ThanksObama {
 	border-color: Chocolate;
 	background-color: Chocolate;
 	color: #ffffff;
+}
+
+.TheWall {
+	border-color: Black;
+	background-color: White;
+	color: Black;
 }
 
 .Twitter {
