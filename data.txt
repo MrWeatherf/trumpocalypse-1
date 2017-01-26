@@ -21,7 +21,7 @@ TAGS: Twitter GloriousLeader TheWall Mexico
 
 TITLE: GOP leaders to Trump: Congress will pay for border wall
 URL: http://www.foxnews.com/politics/2017/01/26/gop-leaders-to-trump-congress-will-pay-for-border-wall.html
-TAGS: Mexico TheWall
+TAGS: TheWall Mexico
 DESC: "We are going to finance the Secure Fence Act"
 
 TITLE: There's an 'ongoing mass exodus' at the State Department of people who don't want to work for Trump
@@ -31,7 +31,7 @@ DESC: "the single biggest simultaneous departure of institutional memory that an
 
 TITLE: #TrumpCheck: President Donald Trump said at least 10 false things in his first major television interview as president.
 URL: https://twitter.com/ddale8/status/824624204649820161
-TAGS: Twitter
+TAGS: Twitter AltFacts
 
 DAY 6: Wednesday 25 January 2017
 
