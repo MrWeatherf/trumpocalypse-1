@@ -1,5 +1,10 @@
 DAY 7: Thursday 26 January 2017
 
+TITLE: Trump’s Voter Fraud Example? A Troubled Tale With Bernhard Langer
+URL: https://www.nytimes.com/2017/01/25/us/politics/trump-bernhard-langer-voting-fraud.html
+TAGS: AltFacts
+DESC: "voters who did not look as if they should be allowed to vote"
+
 TITLE: Mexico's Peña Nieto cancels meeting with President Trump over wall impasse
 URL: http://www.foxnews.com/politics/2017/01/26/mexicos-pe-nieto-cancels-meeting-with-president-trump-over-wall-impasse.html
 TAGS: TheWall Mexico
