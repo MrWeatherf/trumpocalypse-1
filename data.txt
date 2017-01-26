@@ -1,5 +1,15 @@
 DAY 7: Thursday 26 January 2017
 
+TITLE: Cockroaches Feeling Very Optimistic About Future Of Planet
+URL: http://www.theonion.com/article/cockroaches-feeling-very-optimistic-about-future-p-55154
+TAGS: Satire
+DESC: "“With everything that’s been happening in the world, I just can’t help but be encouraged,” said a 6-month-old brown-banded cockroach from a Queens, NY, bathtub drain"
+
+TITLE: Why Doomsday Is Closer Than You Think
+URL: http://time.com/4650303/doomsday-clock-nuclear-war-donald-trump/
+TAGS: News
+DESC: "moved the hands of the clock 30 seconds nearer to midnight, the closest it has been since 1953"
+
 TITLE: Trump’s Budget Pick Didn’t Pay Taxes on His Nanny Because He Didn’t Think She Was Doing Real Work
 URL: http://www.slate.com/blogs/xx_factor/2017/01/25/trump_s_budget_pick_didn_t_pay_taxes_on_his_nanny_because_he_didn_t_think.html
 TAGS: News
