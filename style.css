@@ -123,7 +123,7 @@ tr:hover {
 .Lawsuit {}
 
 .Mexico {
-	border-color: #0000ff;
+	border-color: #f00;
 	background: repeating-linear-gradient(90deg, #cfc, #cfc 30px, #fff 30px, #fff 60px, #fcc 60px, #fcc 90px);
 	color: Black;
 }
@@ -152,7 +152,11 @@ tr:hover {
 	color: Black;
 }
 
-.Russia {}
+.Russia {
+	border-color: #0000ff;
+	background: repeating-linear-gradient(0deg, #fcc, #fcc 5px, #ccf 5px, #ccf 13px, #fff 13px, #fff 20px);
+	color: Black;
+}
 
 .Satire {}
 
