@@ -1,5 +1,10 @@
 DAY 7: Thursday 26 January 2017
 
+TITLE: A Homebody Finds the Ultimate Home Office
+URL: https://www.nytimes.com/2017/01/25/us/politics/president-trump-white-house.html
+TAGS: Commentary
+DESC: "But his meetings now begin at 9 a.m., earlier than they used to, which significantly curtails his television time. Still, Mr. Trump, who does not read books, is able to end his evenings with plenty of television."
+
 TITLE: Trump’s Voter Fraud Example? A Troubled Tale With Bernhard Langer
 URL: https://www.nytimes.com/2017/01/25/us/politics/trump-bernhard-langer-voting-fraud.html
 TAGS: AltFacts
