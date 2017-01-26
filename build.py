@@ -109,7 +109,7 @@ class Parser():
 		self.outfile.write('\t<meta charset="utf-8">\n')
 		self.outfile.write('\t<meta http-equiv="X-UA-Compatible" content="IE=edge">\n')
 		self.outfile.write('\t<meta name="viewport" content="width=device-width, initial-scale=1">\n')
-		self.outfile.write('\t<title>Trumpacolypse</title></head>\n')
+		self.outfile.write('\t<title>Trumpocalypse</title></head>\n')
 		self.outfile.write('\t<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">\n')
 		self.outfile.write('\t<link rel="stylesheet" type="text/css" href="style.css"/>\n')
 		self.outfile.write('</head>\n')
