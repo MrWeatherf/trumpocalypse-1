@@ -91,6 +91,15 @@ DESC: "...do hereby proclaim January 20, 2017, as National Day of Patriotic Devo
 
 DAY 4: Monday 23 January 2017
 
+TITLE: Why Trump's Staff Is Lying
+URL: https://www.bloomberg.com/view/articles/2017-01-23/why-trump-s-staff-is-lying
+TAGS: AltFacts
+DESC: "One of the most striking features of the early Trump administration has been its political uses of lying."
+
+TITLE: inside the ball we see a fight between two guys in tuxes and then suddenly out of nowhere came trump adviser Kellyanne Conway
+URL: https://www.facebook.com/charles.gasparino.7/posts/10212183089111108
+TAGS: Punch
+
 TITLE: Senate confirms Mike Pompeo to lead CIA
 URL: http://www.washingtontimes.com/news/2017/jan/23/mike-pompeo-confirmed-head-trumps-cia-senate/
 TAGS: News
@@ -141,8 +150,19 @@ TITLE: Donald Trump Breaks Almost All of His ‘Day One’ Promises
 URL: http://time.com/4644646/donald-trumps-day-one-promises/
 TAGS: News
 
+TITLE: Katie Rich of ‘S.N.L.’ Is Suspended for Tweet Mocking Barron Trump
+URL: https://www.nytimes.com/2017/01/23/arts/television/katie-rich-snl-suspended-barron-trump-tweet.html
+TAGS: Misc
 
 DAY 3: Sunday 22 January 2017
+
+TITLE: it is a fact of history that nonviolence cannot function without threat of inevitable violence by the oppressed should nonviolent means fail
+URL: https://twitter.com/Synapsid/status/823091721940647936
+TAGS: Twitter Punch
+
+TITLE: Barron Trump deserves the chance every child does-to be a kid. Standing up for every kid also means opposing POTUS policies that hurt kids.
+URL: https://www.facebook.com/chelseaclinton/posts/971766646256556
+TAGS: Misc
 
 TITLE: CREW Sues Trump Over Emoluments
 URL: http://www.citizensforethics.org/press-release/crew-sues-trump-emoluments/
