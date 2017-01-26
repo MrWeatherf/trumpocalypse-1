@@ -9,6 +9,11 @@ TITLE: Germany will abolish law against insulting foreign heads of state
 URL: http://www.cbsnews.com/news/germany-will-abolish-law-against-insulting-foreign-heads-of-state/
 TAGS: News
 
+TITLE: Trump's most senior staff use a private email server
+URL: https://www.engadget.com/2017/01/25/trumps-most-senior-staff-use-a-private-email-server/
+TAGS: Hmmm
+DESC: "This is the same RNC email server that mysteriously disappeared 22 million messages during George W Bush's administration"
+
 TITLE: Trump says intelligence officials tell him torture works
 URL: http://www.cbsnews.com/news/trump-says-intelligence-officials-tell-him-torture-works/
 TAGS: News
