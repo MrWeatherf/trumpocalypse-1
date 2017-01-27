@@ -5,6 +5,11 @@
 #          ###    ###    ###    ###
 DAY 8: Friday 27 January 2017
 
+TITLE: Republicans Quietly Admit There Will Be No Obamacare Replacement
+URL: http://nymag.com/daily/intelligencer/2017/01/gop-quietly-admits-there-will-be-no-obamacare-replacement.html
+TAGS: News ThanksObama
+DESC: "There appears to be no consensus on anything."
+
 TITLE: The leaks coming out of the Trump White House cast the president as a clueless child
 URL: https://www.washingtonpost.com/news/the-fix/wp/2017/01/26/the-leaks-coming-out-the-trump-white-house-cast-the-boss-as-a-clueless-child/
 TAGS: Commentary
