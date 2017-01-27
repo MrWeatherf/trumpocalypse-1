@@ -3,8 +3,12 @@
 #         #   #  #   #  #   #   ###
 #         #   #  #   #  #   #  #   #
 #          ###    ###    ###    ###
-#DAY 8: Friday 27 January 2017
+DAY 8: Friday 27 January 2017
 
+TITLE: Trump signs executive order stripping non-citizens of privacy rights
+URL: https://www.engadget.com/2017/01/26/trump-signs-executive-order-stripping-non-citizens-of-privacy-ri/
+TAGS: News
+DESC: "This agreement -- as well as the legal ability for US companies to serve European customers -- in now in very real danger of unravelling."
 
 #          ###    ###    ###   #####
 #         #   #  #   #  #   #      #
