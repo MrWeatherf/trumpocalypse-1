@@ -197,7 +197,7 @@ class Parser():
 			self.day_end()
 		self.outfile.write('<div class="day" id="%d">Day %d</div>\n' % (self.day, self.day))
 		self.outfile.write('<div class="date" id="%04d-%02d-%02d">%s</div>\n' % (self.year, Months[self.month], self.day_of_month, html_escape(self.date)))
-		self.outfile.write('<table>\n')
+		self.outfile.write('<table class="day-table">\n')
 		self.in_day = True
 	
 	def day_end(self):

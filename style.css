@@ -1,9 +1,51 @@
 .container {
 	width: 800px;
 	max-width: none !important;
-	font-family: 'Georgia', serif;
+	font-family: 'Georgia', 'Palatino', 'Times New Roman', serif;
 	padding-bottom: 50px;
 }
+
+/* Month by month view */
+
+.month-div {
+	text-align: center;
+	margin: 10px auto 20px auto;
+}
+
+.year {
+	font-size: 20pt;
+	font-weight: bold;
+	text-align: center;
+	margin: 30px 0 30px 0;
+}
+
+.month-name {
+	text-align: center;
+	font-size: 14pt;
+	font-weight: bold;
+	font-variant: small-caps;
+}
+
+.dom {
+	text-align: center;
+	min-width: 25px;
+	padding: 2px;
+}
+
+.disabled {
+	color: #c0c0c0;
+}
+
+.dom a {
+	text-decoration: none;
+	color: Black;
+}
+
+.dom a:hover {
+	font-weight: bold;
+}
+
+/* Day by day view */
 
 .main-title {
 	font-size: 36pt;
@@ -37,7 +79,10 @@
 	margin: 0 0 10px 0;
 }
 
-tr:hover {
+.day-table {
+}
+
+.day-table tr:hover {
 	background: #f8f8f8;
 }
 
@@ -97,13 +142,13 @@ tr:hover {
 .Commentary {
 	border-color: MediumSeaGreen ;
 	background-color: MediumSeaGreen;
-	color: #ffffff;
+	color: White;
 }
 
 .GloriousLeader {
-	border-color: #0000ff;
+	border-color: Blue;
 	background: repeating-linear-gradient(-20deg, #ffd0d0, #ffd0d0 5px, #ffffff 5px, #ffffff 10px);
-	color: #0000ff;
+	color: Blue;
 }
 
 .HaHa {
@@ -131,19 +176,19 @@ tr:hover {
 .Misc {
 	border-color: #f0f0f0;
 	background-color: #f0f0f0;
-	color: #000000;
+	color: Black;
 }
 
 .Nazi {
 	border-color: #000000;
 	background-color: #ff0000;
-	color: #ffffff;
+	color: White;
 }
 
 .News {
 	border-color: #f0f0f0;
 	background-color: #f0f0f0;
-	color: #000000;
+	color: Black;
 }
 
 .Punch {
@@ -153,7 +198,7 @@ tr:hover {
 }
 
 .Russia {
-	border-color: #0000ff;
+	border-color: Blue;
 	background: repeating-linear-gradient(0deg, #fcc, #fcc 5px, #ccf 5px, #ccf 13px, #fff 13px, #fff 20px);
 	color: Black;
 }
@@ -167,7 +212,7 @@ tr:hover {
 .ThanksObama {
 	border-color: Chocolate;
 	background-color: Chocolate;
-	color: #ffffff;
+	color: White;
 }
 
 .TheWall {
@@ -179,5 +224,5 @@ tr:hover {
 .Twitter {
 	border-color: #0084b4;
 	background-color: #0084b4;
-	color: #ffffff;
+	color: White;
 }
