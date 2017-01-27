@@ -1,9 +1,22 @@
+#          ###    ###    ###    ###
+#         #   #  #   #  #   #  #   #
+#         #   #  #   #  #   #   ###
+#         #   #  #   #  #   #  #   #
+#          ###    ###    ###    ###
+#DAY 8: Friday 27 January 2017
+
+
 #          ###    ###    ###   #####
 #         #   #  #   #  #   #      #
 #         #   #  #   #  #   #     #
 #         #   #  #   #  #   #    #
 #          ###    ###    ###     #
 DAY 7: Thursday 26 January 2017
+
+TITLE: ‘The Economist’ Just Downgraded the US From a ‘Full Democracy’ to a ‘Flawed Democracy’
+URL: https://www.thenation.com/article/the-economist-just-downgraded-the-us-from-a-full-democracy-to-a-flawed-democracy/
+TAGS: News
+DESC: " The US, a standard-bearer of democracy for the world, has become a ‘flawed democracy,’ as popular confidence in the functioning of public institutions has declined"
 
 TITLE: At least twice, Sean Spicer has accidentally tweeted the password to his official White House spokesman Twitter account
 URL: https://boingboing.net/2017/01/26/at-least-twice-sean-spicer-ha.html
