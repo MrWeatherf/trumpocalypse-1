@@ -5,6 +5,16 @@
 #          ###    ###    ###    ###
 DAY 8: Friday 27 January 2017
 
+TITLE: Trump closed the White House comment line so people are calling his hotels
+URL: http://mashable.com/2017/01/27/people-are-calling-trumps-hotels/
+TAGS: News
+DESC: "Since entering office, Donald Trump has yet to re-open the comments line, which was shut down during the transition process"
+
+TITLE: Trump Backs Mexico into a Corner
+URL: http://www.politico.com/magazine/story/2017/01/trump-backs-mexico-into-a-corner-214700
+TAGS: Mexico News
+DESC: "Even before Jan. 20, Mexico was already a tinderbox."
+
 TITLE: No, the White House didn’t Photoshop an image of the president’s hand
 URL: https://www.washingtonpost.com/news/politics/wp/2017/01/27/no-the-white-house-didnt-photoshop-an-image-of-the-presidents-hand/
 TAGS: BabyHands
