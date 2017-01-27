@@ -16,7 +16,7 @@ DAY 7: Thursday 26 January 2017
 TITLE: ‘The Economist’ Just Downgraded the US From a ‘Full Democracy’ to a ‘Flawed Democracy’
 URL: https://www.thenation.com/article/the-economist-just-downgraded-the-us-from-a-full-democracy-to-a-flawed-democracy/
 TAGS: News
-DESC: " The US, a standard-bearer of democracy for the world, has become a ‘flawed democracy,’ as popular confidence in the functioning of public institutions has declined"
+DESC: "The US, a standard-bearer of democracy for the world, has become a ‘flawed democracy,’ as popular confidence in the functioning of public institutions has declined"
 
 TITLE: At least twice, Sean Spicer has accidentally tweeted the password to his official White House spokesman Twitter account
 URL: https://boingboing.net/2017/01/26/at-least-twice-sean-spicer-ha.html
@@ -403,7 +403,7 @@ TAGS: Twitter Punch
 TITLE: Barron Trump deserves the chance every child does-to be a kid. Standing up for every kid also means opposing POTUS policies that hurt kids.
 URL: https://www.facebook.com/chelseaclinton/posts/971766646256556
 TAGS: Misc
-DESC: Chelsea Clinton
+DESC: —Chelsea Clinton
 
 TITLE: CREW Sues Trump Over Emoluments
 URL: http://www.citizensforethics.org/press-release/crew-sues-trump-emoluments/
