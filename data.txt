@@ -1,4 +1,29 @@
+#          ###    ###    ###   #####
+#         #   #  #   #  #   #      #
+#         #   #  #   #  #   #     #
+#         #   #  #   #  #   #    #
+#          ###    ###    ###     #
 DAY 7: Thursday 26 January 2017
+
+TITLE: Harper's Weekly Review
+URL: http://harpers.org/blog/2017/01/weekly-review-2/
+TAGS: Commentary
+DESC: "Trump delivered a sixteen-minute inaugural address, the first in American history to use the words “bleed,” “ravages,” and “carnage.”"
+
+TITLE: Accurate sign is accurate
+URL: https://www.reddit.com/r/pics/comments/5qccno/accurate_sign_is_accurate/
+TAGS: HaHa
+DESC: "Don't blame Trump - He did everything he could to prove he was unfit to be President"
+
+TITLE: Trump Strategist Steve Bannon Says Media Should ‘Keep Its Mouth Shut’
+URL: https://www.nytimes.com/2017/01/26/business/media/stephen-bannon-trump-news-media.html
+TAGS: Misc
+DESC: "“I want you to quote this,” Mr. Bannon added. “The media here is the opposition party.”"
+
+TITLE: While other outlets fact-check Trump, Infowars provides alternative facts
+URL: http://money.cnn.com/2017/01/26/media/infowars-alex-jones-donald-trump/index.html
+TAGS: AltFacts
+DESC: "Much of what it presents is misinformation wrapped in right-wing opinion."
 
 TITLE: Trump wants 20% tax on imports from Mexico to pay for wall
 URL: http://www.cnn.com/2017/01/26/politics/donald-trump-mexico-import-tax-border-wall/index.html
@@ -13,7 +38,7 @@ DESC: "“With everything that’s been happening in the world, I just can’t h
 TITLE: Why Doomsday Is Closer Than You Think
 URL: http://time.com/4650303/doomsday-clock-nuclear-war-donald-trump/
 TAGS: News
-DESC: "moved the hands of the clock 30 seconds nearer to midnight, the closest it has been since 1953"
+DESC: "...moved the hands of the clock 30 seconds nearer to midnight, the closest it has been since 1953"
 
 TITLE: Trump’s Budget Pick Didn’t Pay Taxes on His Nanny Because He Didn’t Think She Was Doing Real Work
 URL: http://www.slate.com/blogs/xx_factor/2017/01/25/trump_s_budget_pick_didn_t_pay_taxes_on_his_nanny_because_he_didn_t_think.html
@@ -59,6 +84,11 @@ URL: https://twitter.com/ddale8/status/824624204649820161
 TAGS: Twitter AltFacts
 
 
+#          ###    ###    ###    ###
+#         #   #  #   #  #   #  #
+#         #   #  #   #  #   #  ####
+#         #   #  #   #  #   #  #   #
+#          ###    ###    ###    ###
 DAY 6: Wednesday 25 January 2017
 
 TITLE: Trump announces new White House ethics team
@@ -133,6 +163,11 @@ TAGS: Satire
 DESC: "Seriously, it was just a few fields and a warehouse, and you idiots still appointed a special prosecutor and spent six months investigating it."
 
 
+#          ###    ###    ###   #####
+#         #   #  #   #  #   #  #
+#         #   #  #   #  #   #  ####
+#         #   #  #   #  #   #      #
+#          ###    ###    ###   ####
 DAY 5: Tuesday 24 January 2017
 
 TITLE: NASA Releases Climate Change Images As Trump Still Claims It Doesn't Exist
@@ -214,6 +249,11 @@ TAGS: News GloriousLeader
 DESC: "...do hereby proclaim January 20, 2017, as National Day of Patriotic Devotion..."
 
 
+#          ###    ###    ###      #
+#         #   #  #   #  #   #    ##
+#         #   #  #   #  #   #   # #
+#         #   #  #   #  #   #  #####
+#          ###    ###    ###      #
 DAY 4: Monday 23 January 2017
 
 TITLE: Free lesson from a concerned martial arts instructor 👊#WomensMarch #art #comics #illustration #feminism #punchmorenazis
@@ -327,6 +367,11 @@ URL: https://www.nytimes.com/2017/01/23/arts/television/katie-rich-snl-suspended
 TAGS: Misc
 
 
+#          ###    ###    ###   #####
+#         #   #  #   #  #   #     #
+#         #   #  #   #  #   #    ##
+#         #   #  #   #  #   #      #
+#          ###    ###    ###   ####
 DAY 3: Sunday 22 January 2017
 
 TITLE: White House Pushes ‘Alternative Facts.’ Here Are the Real Ones.
@@ -423,6 +468,11 @@ TAGS: HaHa
 DESC: "Ah, Betsy. Education. Right?"
 
 
+#          ###    ###    ###    ###
+#         #   #  #   #  #   #  #   #
+#         #   #  #   #  #   #     #
+#         #   #  #   #  #   #   #
+#          ###    ###    ###   #####
 DAY 2: Saturday 21 January 2017
 
 TITLE: My favorite signs at the Women’s March on Washington
@@ -476,9 +526,12 @@ TAGS: AltFacts
 DESC: "THE FACTS: Trump is wrong."
 
 
+#          ###    ###    ###     #
+#         #   #  #   #  #   #   ##
+#         #   #  #   #  #   #    #
+#         #   #  #   #  #   #    #
+#          ###    ###    ###   #####
 DAY 1: Friday 20 January 2017
-
-# Inauguration
 
 TITLE: Donald Trump Just Replaced the White House Climate Website With…This
 URL: http://www.motherjones.com/environment/2017/01/donald-trump-climate-white-house-website
