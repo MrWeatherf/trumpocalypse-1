@@ -5,6 +5,11 @@
 #          ###    ###    ###    ###
 DAY 8: Friday 27 January 2017
 
+TITLE: 'Teresa May': White House spells Theresa May's name wrong three times in memo ahead of visit
+URL: http://www.telegraph.co.uk/news/2017/01/27/white-house-spells-theresa-mays-name-wrong-three-times-memo/
+TAGS: HaHa
+DESC: "The wrong Teresa: Teresa May is a soft porn actress"
+
 TITLE: Republicans Quietly Admit There Will Be No Obamacare Replacement
 URL: http://nymag.com/daily/intelligencer/2017/01/gop-quietly-admits-there-will-be-no-obamacare-replacement.html
 TAGS: News ThanksObama
