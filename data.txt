@@ -5,6 +5,11 @@
 #          ###    ###    ###    ###
 DAY 8: Friday 27 January 2017
 
+TITLE: Memos: CEO of Russia's state oil company offered Trump adviser, allies a cut of huge deal if sanctions were lifted
+URL: http://www.businessinsider.com/carter-page-trump-russia-igor-sechin-dossier-2017-1
+TAGS: News Russia
+DESC: "A dossier with unverified claims about President Donald Trump's ties to Russia..."
+
 TITLE: Anti-abortion marchers celebrate a new era under Trump
 URL: http://www.politico.com/story/2017/01/march-life-washington-anti-abortion-trump-234238
 TAGS: News
