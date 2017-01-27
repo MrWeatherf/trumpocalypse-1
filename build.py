@@ -12,6 +12,7 @@ Tags = [
 	'Commentary',
 	'GloriousLeader',
 	'HaHa',
+	'Hate',
 	#'Hmmm',
 	'ILoveWomen',
 	'Lawsuit',
