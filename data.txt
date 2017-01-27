@@ -35,7 +35,7 @@ DESC: "But the Trump Administration has been nothing if not erratic and has repe
 
 TITLE: Donald Trump is the sole reliable source of truth, says chair of House Science Committee
 URL: http://www.vox.com/science-and-health/2017/1/27/14395978/donald-trump-lamar-smith
-TAGS: AltFacts
+TAGS: AltFacts Science
 DESC: "“Better to get your news directly from the president,” Smith said. “In fact, it might be the only way to get the unvarnished truth.”"
 
 TITLE: Trump Supporter Attacks Muslim Woman at JFK
