@@ -5,6 +5,11 @@
 #          ###    ###    ###     #
 DAY 7: Thursday 26 January 2017
 
+TITLE: At least twice, Sean Spicer has accidentally tweeted the password to his official White House spokesman Twitter account
+URL: https://boingboing.net/2017/01/26/at-least-twice-sean-spicer-ha.html
+TAGS: Security
+DESC: "It's also a pretty shitty password."
+
 TITLE: Harper's Weekly Review
 URL: http://harpers.org/blog/2017/01/weekly-review-2/
 TAGS: Commentary
