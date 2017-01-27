@@ -119,6 +119,16 @@ class Parser():
 		self.outfile.write('\t<title>Trumpocalypse</title></head>\n')
 		self.outfile.write('\t<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">\n')
 		self.outfile.write('\t<link rel="stylesheet" type="text/css" href="style.css"/>\n')
+
+		self.outfile.write('\t<script>\n')
+		self.outfile.write("\t\t(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n")
+		self.outfile.write("\t\t(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n")
+		self.outfile.write("\t\tm=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n")
+		self.outfile.write("\t\t})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n")
+		self.outfile.write("\t\tga('create', 'UA-1163903-6', 'auto');\n")
+		self.outfile.write("\t\tga('send', 'pageview');\n")
+		self.outfile.write('\t</script>\n')
+
 		self.outfile.write('</head>\n')
 		self.outfile.write('<body>\n')
 		self.outfile.write('<div class="container">\n')
