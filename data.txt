@@ -5,6 +5,11 @@
 #          ###    ###    ###    ###
 DAY 8: Friday 27 January 2017
 
+TITLE: The leaks coming out of the Trump White House cast the president as a clueless child
+URL: https://www.washingtonpost.com/news/the-fix/wp/2017/01/26/the-leaks-coming-out-the-trump-white-house-cast-the-boss-as-a-clueless-child/
+TAGS: Commentary
+DESC: "Time and again, the image of Trump pushed by his “aides” is one of a clueless child — someone who acts on impulse, disregarding the better advice of people who know better."
+
 TITLE: Memos: CEO of Russia's state oil company offered Trump adviser, allies a cut of huge deal if sanctions were lifted
 URL: http://www.businessinsider.com/carter-page-trump-russia-igor-sechin-dossier-2017-1
 TAGS: News Russia
