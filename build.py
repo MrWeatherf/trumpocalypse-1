@@ -29,6 +29,31 @@ Tags = [
 	'Twitter',
 ]
 
+DaysOfTheWeek = [
+	'Sunday',
+	'Monday',
+	'Tuesday',
+	'Wednesday',
+	'Thursday',
+	'Friday',
+	'Saturday',
+]
+
+Months = {
+	'January': 1,
+	'February': 2,
+	'March': 3,
+	'April': 4,
+	'May': 5,
+	'June': 6,
+	'July': 7,
+	'August': 8,
+	'September': 9,
+	'October': 10,
+	'November': 11,
+	'December': 12,
+}
+
 def error(msg):
 	print 'Error: %s' % (msg)
 	sys.exit(1)
@@ -75,10 +100,25 @@ class Parser():
 			self.in_entry = False
 			return
 
-		m = re.match(r'^DAY (?P<day>\d+): (?P<date>.+)$', line)
+		m = re.match(r'^DAY (?P<day>\d+): (?P<date>[A-Za-z]+ \d+ [A-Za-z]+ \d+)$', line)
 		if m:
 			self.day = int(m.group('day'))
 			self.date = m.group('date')
+			date = self.date.split()
+			self.day_of_week = date[0]
+			self.day_of_month = int(date[1])
+			self.month = date[2]
+			self.year = int(date[3])
+			
+			if not self.day_of_week in DaysOfTheWeek:
+				error('Invalid day of week: %s' % line)
+			if self.day_of_month < 1 or self.day_of_month > 31:
+				error('Invalid day of month: %s' % line)
+			if not self.month in Months:
+				error('Invalid month: %s' % line)
+			if self.year < 2017 or self.year > 2017:
+				error('Invalid year: %s' % line)
+			
 			self.day_start()
 			return
 
@@ -155,8 +195,8 @@ class Parser():
 	def day_start(self):
 		if self.in_day:
 			self.day_end()
-		self.outfile.write('<div class="day">Day %d</div>\n' % self.day)
-		self.outfile.write('<div class="date">%s</div>\n' % html_escape(self.date))
+		self.outfile.write('<div class="day" id="%d">Day %d</div>\n' % (self.day, self.day))
+		self.outfile.write('<div class="date" id="%04d-%02d-%02d">%s</div>\n' % (self.year, Months[self.month], self.day_of_month, html_escape(self.date)))
 		self.outfile.write('<table>\n')
 		self.in_day = True
 	
