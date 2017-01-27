@@ -5,6 +5,11 @@
 #          ###    ###    ###    ###
 DAY 8: Friday 27 January 2017
 
+TITLE: Trump signs 'no privacy for non-Americans' order – what does that mean for rest of us?
+URL: https://www.theregister.co.uk/2017/01/26/trump_blows_up_transatlantic_privacy_shield/
+TAGS: News
+DESC: "But the Trump Administration has been nothing if not erratic and has repeatedly shown it is willing to tear up existing agreements and protocols."
+
 TITLE: Donald Trump is the sole reliable source of truth, says chair of House Science Committee
 URL: http://www.vox.com/science-and-health/2017/1/27/14395978/donald-trump-lamar-smith
 TAGS: AltFacts
