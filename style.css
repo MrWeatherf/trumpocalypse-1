@@ -165,7 +165,11 @@
 	color: DeepPink;
 }
 
-.Lawsuit {}
+.Lawsuit {
+	border-color: DarkGray;
+	background-color: DarkGray;
+	color: White;
+}
 
 .Mexico {
 	border-color: #f00;
@@ -174,7 +178,7 @@
 }
 
 .Misc {
-	border-color: #f0f0f0;
+	border-color: DarkGray;
 	background-color: #f0f0f0;
 	color: Black;
 }
@@ -203,11 +207,23 @@
 	color: Black;
 }
 
-.Satire {}
+.Satire {
+	border-color: MediumSlateBlue;
+	background-color: MediumSlateBlue;
+	color: White;
+}
 
-.Security {}
+.Security {
+	border-color: Plum;
+	background-color: Plum;
+	color: Black;
+}
 
-.Science {}
+.Science {
+	border-color: MediumSpringGreen;
+	background-color: MediumSpringGreen;
+	color: Black;
+}
 
 .ThanksObama {
 	border-color: Chocolate;
