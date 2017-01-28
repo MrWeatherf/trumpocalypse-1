@@ -15,6 +15,11 @@ URL: http://www.politico.com/magazine/story/2017/01/donald-trump-lies-liar-effec
 TAGS: AltFacts Commentary
 DESC: When we are in an environment headed by someone who lies, so often, something frightening happens: We stop reacting to the liar as a liar.
 
+TITLE: How fast would deceased U.S. Presidents need to spin in their graves to meet the energy demands of the entire United States?
+URL: https://www.quora.com/How-fast-would-deceased-U-S-Presidents-need-to-spin-in-their-graves-to-meet-the-energy-demands-of-the-entire-United-States
+TAGS: HaHa
+DESC: There are 38 dead presidents. Let’s model dead presidents as a cylinder that rotates along its long axis (as a body might in a coffin).
+
 TITLE: I Was Trained for the Culture Wars in Home School, Awaiting Someone Like Mike Pence as a Messiah
 URL: https://www.autostraddle.com/i-was-trained-for-the-culture-wars-in-home-school-awaiting-someone-like-mike-pence-as-a-messiah-367057/
 TAGS: Commentary
