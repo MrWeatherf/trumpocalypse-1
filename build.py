@@ -187,7 +187,7 @@ class Parser():
 		if len(self.tags) == 0:
 			error('No tags for: %s' % self.title)
 		for t in self.tags:
-			self.outfile.write('<a href="#"><span class="tag %s">%s</span></a> ' % (t, t))
+			self.outfile.write('<span class="tag %s">%s</span> ' % (t, t))
 		self.outfile.write('</td><td class="info-box">')
 		self.outfile.write('<div class="title"><a href="%s">%s</a></div>' % (html_escape(self.url), html_escape(self.title)))
 		self.outfile.write('<div class="desc">%s</div>' % html_escape(self.desc))
