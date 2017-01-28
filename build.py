@@ -14,7 +14,6 @@ Tags = [
 	'HaHa',
 	'Hate',
 	'Hmmm',
-	'Humor',
 	'ILoveWomen',
 	'Lawsuit',
 	'Mexico',
