@@ -5,6 +5,11 @@
 #          ###    ###    ###    ###
 DAY 8: Friday 27 January 2017
 
+TITLE: Trump is getting payments from foreign governments. We have no idea what they are.
+URL: https://www.washingtonpost.com/posteverything/wp/2017/01/26/trump-is-getting-payments-from-foreign-governments-we-have-no-idea-what-they-are/
+TAGS: Lawsuit
+DESC: The emoluments clause, however, does not require direct proof of anything untoward, and that is essential to its effectiveness.
+
 TITLE: Trump closed the White House comment line so people are calling his hotels
 URL: http://mashable.com/2017/01/27/people-are-calling-trumps-hotels/
 TAGS: News
@@ -12,7 +17,7 @@ DESC: Since entering office, Donald Trump has yet to re-open the comments line, 
 
 TITLE: Trump Backs Mexico into a Corner
 URL: http://www.politico.com/magazine/story/2017/01/trump-backs-mexico-into-a-corner-214700
-TAGS: Mexico News
+TAGS: Mexico Commentary
 DESC: Even before Jan. 20, Mexico was already a tinderbox.
 
 TITLE: No, the White House didn’t Photoshop an image of the president’s hand
