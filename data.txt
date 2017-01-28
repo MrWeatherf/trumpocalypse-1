@@ -5,6 +5,25 @@
 #          ###    ###    ###    ###
 DAY 8: Friday 27 January 2017
 
+TITLE: In leaked audio, Republicans destroy their own public talking points on Obamacare
+URL: https://www.washingtonpost.com/blogs/plum-line/wp/2017/01/27/in-leaked-audio-republicans-destroy-their-own-public-talking-points-on-obamacare/
+TAGS: News ThanksObama
+DESC: Now, to be clear, these private comments reveal Republicans actually wrestling with the policy challenges that repeal (and replace) will create, which is a good thing as far as it goes.
+
+TITLE: Trump’s Lies vs. Your Brain
+URL: http://www.politico.com/magazine/story/2017/01/donald-trump-lies-liar-effect-brain-214658
+TAGS: AltFacts Commentary
+DESC: When we are in an environment headed by someone who lies, so often, something frightening happens: We stop reacting to the liar as a liar.
+
+TITLE: I Was Trained for the Culture Wars in Home School, Awaiting Someone Like Mike Pence as a Messiah
+URL: https://www.autostraddle.com/i-was-trained-for-the-culture-wars-in-home-school-awaiting-someone-like-mike-pence-as-a-messiah-367057/
+TAGS: Commentary
+DESC: I was homeschooled and my parents were part of a subculture called Quiverfull, whose aim is to outbreed everyone for Jesus.
+
+TITLE: Trump says US will prioritize Christian refugees
+URL: http://www.cnn.com/2017/01/27/politics/trump-christian-refugees/index.html
+TAGS: News
+
 TITLE: Trump is getting payments from foreign governments. We have no idea what they are.
 URL: https://www.washingtonpost.com/posteverything/wp/2017/01/26/trump-is-getting-payments-from-foreign-governments-we-have-no-idea-what-they-are/
 TAGS: Lawsuit
