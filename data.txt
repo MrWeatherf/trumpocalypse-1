@@ -1,9 +1,40 @@
 #          ###    ###    ###    ###
 #         #   #  #   #  #   #  #   #
+#         #   #  #   #  #   #   ####
+#         #   #  #   #  #   #      #
+#          ###    ###    ###    ###
+DAY 9: Saturday 28 January 2017
+
+TITLE: On a busy Saturday, Trump to call world leaders and sign more orders
+URL: http://www.usatoday.com/story/news/politics/2017/01/28/busy-saturday-trump-call-world-leaders-and-sign-more-orders/97181086/
+TAGS: News
+DESC: Most watched will be the call with Putin, whose interference in the 2016 U.S. presidential election has led to questions about Trump's relationship to the Russian leader
+
+TITLE: Thr coverage about me in the @nytimes and the @washingtonpost gas been so false and angry that the times actually apologized to its.....
+URL: https://twitter.com/realDonaldTrump/status/825329757646618624
+TAGS: Twitter GloriousLeader
+
+#          ###    ###    ###    ###
+#         #   #  #   #  #   #  #   #
 #         #   #  #   #  #   #   ###
 #         #   #  #   #  #   #  #   #
 #          ###    ###    ###    ###
 DAY 8: Friday 27 January 2017
+
+TITLE: The President of the United States Explicitly Endorses Torture — a Crime Against Humanity
+URL: https://theintercept.com/2017/01/27/the-president-of-the-united-states-explicitly-endorses-torture-a-crime-against-humanity/
+TAGS: News
+DESC: I happen to feel that it does work. I’ve been open about that for a long period of time.
+
+TITLE: Jewish groups pan Trump for signing refugee ban on Holocaust Remembrance Day
+URL: http://www.cnn.com/2017/01/27/politics/trump-refugee-holocaust-remembrance-day/
+TAGS: Commentary
+DESC: "It was during the Holocaust that the world shamefully refused to give asylum to Jews and to others who were being murdered or about to be murdered in Nazi Germany"
+
+TITLE: It's Not Just The Park Service: 'Rogue' Federal Twitter Accounts Multiply
+URL: http://www.npr.org/sections/alltechconsidered/2017/01/27/512007632/its-not-just-the-park-service-rogue-federal-twitter-accounts-multiply
+TAGS: Science Misc
+DESC: ...they are choosing to remain anonymous and continue tweeting out facts about climate change and directly opposing the Trump administration.
 
 TITLE: In leaked audio, Republicans destroy their own public talking points on Obamacare
 URL: https://www.washingtonpost.com/blogs/plum-line/wp/2017/01/27/in-leaked-audio-republicans-destroy-their-own-public-talking-points-on-obamacare/
@@ -25,6 +56,11 @@ URL: https://www.autostraddle.com/i-was-trained-for-the-culture-wars-in-home-sch
 TAGS: Commentary
 DESC: I was homeschooled and my parents were part of a subculture called Quiverfull, whose aim is to outbreed everyone for Jesus.
 
+TITLE: No mention of Jews in White House's Holocaust Remembrance Day tribute
+URL: https://www.theguardian.com/us-news/2017/jan/27/white-house-holocaust-remembrance-day-no-jews
+TAGS: Commentary
+DESC: the statement “misses that it was six million Jews who perished, not just ‘innocent people’”
+	
 TITLE: Trump says US will prioritize Christian refugees
 URL: http://www.cnn.com/2017/01/27/politics/trump-christian-refugees/index.html
 TAGS: News
@@ -243,6 +279,11 @@ TITLE: I will be asking for a major investigation into VOTER FRAUD, including th
 URL: https://twitter.com/realDonaldTrump/status/824227824903090176
 TAGS: Twitter GloriousLeader
 
+TITLE: Top Russian Cybercrimes Agent Arrested on Charges of Treason
+URL: https://www.nytimes.com/2017/01/25/world/europe/sergei-mikhailov-russian-cybercrimes-agent-arrested.html
+TAGS: Russia
+DESC: ...the detention of an official who would have been in a position to engage in the election hacking in America could indicate a good-will gesture to the United States
+
 TITLE: Trump Knows You Better Than You Know Yourself
 URL: https://antidotezine.com/2017/01/22/trump-knows-you/
 TAGS: Commentary
@@ -298,6 +339,11 @@ TITLE: A Rogue National Park Is Tweeting Out Climate Change Facts in Defiance of
 URL: http://time.com/4645927/badlands-national-park-climate-change-tweets/
 TAGS: Twitter Science
 DESC: The U.S. Department of Interior was ordered to suspend operations of its Twitter accounts after the National Park Service's official account retweeted two posts that were unflattering toward the Trump administration.
+
+TITLE: #AlternateFacts pizza
+URL: https://www.facebook.com/VillaItalianKitchen/photos/a.407183233566.184417.64497808566/10154827651913567/
+TAGS: AltFacts HaHa
+DESC: ...a zero-calorie 6-slice pizza loaded with all your favorites: bacon, pepperoni, ham, sausage, house made sauce and 100% whole-milk mozzarella.
 
 TITLE: If Chicago doesn't fix the horrible "carnage" going on, 228 shootings in 2017 with 42 killings (up 24% from 2016), I will send in the Feds!
 URL: https://twitter.com/realDonaldTrump/status/824080766288228352
@@ -487,6 +533,11 @@ TAGS: Misc
 #         #   #  #   #  #   #      #
 #          ###    ###    ###   ####
 DAY 3: Sunday 22 January 2017
+
+TITLE: Trump’s press secretary has been fighting with Dippin’ Dots for 5 years
+URL: http://www.avclub.com/article/trumps-new-press-secretary-five-year-running-feud--248859
+TAGS: Misc
+DESC: Could he get through an entire five minute speech to the press without slipping in an attack on his arch-enemy Dippin’ Dots, The Ice Cream Of The Future?
 
 TITLE: White House Pushes ‘Alternative Facts.’ Here Are the Real Ones.
 URL: https://www.nytimes.com/2017/01/22/us/politics/president-trump-inauguration-crowd-white-house.html
