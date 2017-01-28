@@ -82,9 +82,11 @@
 .day-table {
 }
 
+/*
 .day-table tr:hover {
 	background: #f8f8f8;
 }
+*/
 
 .tag-box {
 	vertical-align: top;
@@ -127,21 +129,36 @@
 	color: #000000;
 }
 
-.AltFacts {
+.AltFacts { /* MediumVioletRed = #c71585 */
 	border-color: MediumVioletRed;
 	background-color: MediumVioletRed;
 	color: White;
 }
+.AltFacts:hover {
+	border-color: #f745b5;
+	background-color: #f745b5;
+	color: White;
+}
 
-.BabyHands {
+.BabyHands { /* Pink = #ffc0cb; MistyRose = #fee4e1 */
 	border-color: Pink;
 	background-color: MistyRose;
 	color: Black;
 }
+.BabyHands:hover {
+	border-color: #ffc0cb;
+	background-color: #dec4c1;
+	color: Black;
+}
 
-.Commentary {
-	border-color: MediumSeaGreen ;
+.Commentary { /* MediumSeaGreen = #3cb371 */
+	border-color: MediumSeaGreen;
 	background-color: MediumSeaGreen;
+	color: White;
+}
+.Commentary:hover {
+	border-color: #6ce3a1;
+	background-color: #6ce3a1;
 	color: White;
 }
 
@@ -150,16 +167,31 @@
 	background: repeating-linear-gradient(-20deg, #ffd0d0, #ffd0d0 5px, #ffffff 5px, #ffffff 10px);
 	color: Blue;
 }
+.GloriousLeader:hover {
+	border-color: Blue;
+	background: repeating-linear-gradient(-20deg, #ffb0b0, #ffb0b0 5px, #b0b0ff 5px, #b0b0ff 10px);
+	color: White;
+}
 
-.HaHa {
+.HaHa { /* MediumOrchid = #ba55d3 */
 	border-color: MediumOrchid;
 	background-color: MediumOrchid;
 	color: White;
 }
+.HaHa:hover {
+	border-color: #ea85ff;
+	background-color: #ea85ff;
+	color: White;
+}
 
-.Hate {
+.Hate { /* Black = #000000 */
 	border-color: Black;
 	background-color: Black;
+	color: White;
+}
+.Hate:hover {
+	border-color: #606060;
+	background-color: #606060;
 	color: White;
 }
 
@@ -170,10 +202,20 @@
 	background-color: White;
 	color: DeepPink;
 }
+.ILoveWomen:hover {
+	border-color: Pink;
+	background-color: #c0c0c0;
+	color: DeepPink;
+}
 
-.Lawsuit {
+.Lawsuit { /* DarkGray = #a9a9a9 */
 	border-color: DarkGray;
 	background-color: DarkGray;
+	color: White;
+}
+.Lawsuit:hover{
+	border-color: #d9d9d9;
+	background-color: #d9d9d9;
 	color: White;
 }
 
@@ -182,10 +224,20 @@
 	background: repeating-linear-gradient(90deg, #cfc, #cfc 30px, #fff 30px, #fff 60px, #fcc 60px, #fcc 90px);
 	color: Black;
 }
+.Mexico:hover {
+	border-color: #f00;
+	background: repeating-linear-gradient(90deg, #9f9, #9f9 30px, #fff 30px, #fff 60px, #f99 60px, #f99 90px);
+	color: Black;
+}
 
-.Misc {
+.Misc { /* DarkGray = #a9a9a9 */
 	border-color: DarkGray;
 	background-color: #f0f0f0;
+	color: Black;
+}
+.Misc:hover {
+	border-color: DarkGray;
+	background-color: #c0c0c0;
 	color: Black;
 }
 
@@ -194,16 +246,31 @@
 	background-color: #ff0000;
 	color: White;
 }
+.Nazi:hover {
+	border-color: #000000;
+	background-color: #bf0000;
+	color: White;
+}
 
 .News {
 	border-color: #f0f0f0;
 	background-color: #f0f0f0;
 	color: Black;
 }
+.News:hover {
+	border-color: #d0d0d0;
+	background-color: #d0d0d0;
+	color: Black;
+}
 
-.Punch {
+.Punch { /* PeachPuff = #ffdab9 */
 	border-color: PeachPuff;
 	background-color: PeachPuff;
+	color: Black;
+}
+.Punch:hover {
+	border-color: #cfaa89;
+	background-color: #cfaa89;
 	color: Black;
 }
 
@@ -212,28 +279,53 @@
 	background: repeating-linear-gradient(0deg, #fcc, #fcc 5px, #ccf 5px, #ccf 13px, #fff 13px, #fff 20px);
 	color: Black;
 }
+.Russia:hover {
+	border-color: Blue;
+	background: repeating-linear-gradient(0deg, #f99, #f99 5px, #99f 5px, #99f 13px, #fff 13px, #fff 20px);
+	color: Black;
+}
 
-.Satire {
+.Satire { /* MediumSlateBlue = #7b68ee */
 	border-color: MediumSlateBlue;
 	background-color: MediumSlateBlue;
 	color: White;
 }
+.Satire:hover {
+	border-color: #ab98ff;
+	background-color: #ab98ff;
+	color: White;
+}
 
-.Security {
+.Security { /* Plum = #dda0dd */
 	border-color: Plum;
 	background-color: Plum;
 	color: Black;
 }
-
-.Science {
-	border-color: MediumSpringGreen;
-	background-color: MediumSpringGreen;
+.Security:hover {
+	border-color: #bd80bd;
+	background-color: #bd80bd;
 	color: Black;
 }
 
-.ThanksObama {
+.Science { /* MediumSpringGreen = #00fa9a */
+	border-color: #00ca9a;
+	background-color: #00ca9a;
+	color: Black;
+}
+.Science:hover {
+	border-color: #30faca;
+	background-color: #30faca;
+	color: Black;
+}
+
+.ThanksObama { /* Chocolate = #d2691e */
 	border-color: Chocolate;
 	background-color: Chocolate;
+	color: White;
+}
+.ThanksObama:hover {
+	border-color: #a23900;
+	background-color: #a23900;
 	color: White;
 }
 
@@ -242,9 +334,19 @@
 	background-color: White;
 	color: Black;
 }
+.TheWall:hover {
+	border-color: Black;
+	background-color: #c0c0c0;
+	color: Black;
+}
 
 .Twitter {
 	border-color: #0084b4;
 	background-color: #0084b4;
+	color: White;
+}
+.Twitter:hover {
+	border-color: #30b4e4;
+	background-color: #30b4e4;
 	color: White;
 }
