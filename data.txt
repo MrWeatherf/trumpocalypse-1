@@ -5,6 +5,11 @@
 #          ###    ###    ###    ###
 DAY 9: Saturday 28 January 2017
 
+TITLE: Here Comes The First Suit Challenging Trump's "Muslim Ban"
+URL: http://www.motherjones.com/politics/2017/01/lawsuit-muslim-ban
+TAGS: Lawsuit News
+DESC: "There is no evidence that refugees—the most thoroughly vetted of all people entering our nation—are a threat to national security"
+
 TITLE: On a busy Saturday, Trump to call world leaders and sign more orders
 URL: http://www.usatoday.com/story/news/politics/2017/01/28/busy-saturday-trump-call-world-leaders-and-sign-more-orders/97181086/
 TAGS: News
