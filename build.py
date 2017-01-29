@@ -288,10 +288,15 @@ class Parser():
 
 	def process(self):
 		self.write_html_header()
+
 		for line in self.infile:
 			line = line.strip()
 			self.process_line(line)
+
+		if self.in_entry:
+			self.record_entry()
 		self.day_end()
+
 		self.write_html_footer()
 
 		self.infile.close()
