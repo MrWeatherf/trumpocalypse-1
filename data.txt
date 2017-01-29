@@ -271,7 +271,7 @@ DESC: The emoluments clause, however, does not require direct proof of anything 
 
 TITLE: Trump closed the White House comment line so people are calling his hotels
 URL: http://mashable.com/2017/01/27/people-are-calling-trumps-hotels/
-TAGS: News
+TAGS: HaHa
 DESC: Since entering office, Donald Trump has yet to re-open the comments line, which was shut down during the transition process
 
 TITLE: Trump Backs Mexico into a Corner
@@ -670,7 +670,7 @@ TAGS: Twitter HaHa BabyHands
 
 TITLE: Trump Abandons Trans-Pacific Partnership, Obama’s Signature Trade Deal
 URL: https://www.nytimes.com/2017/01/23/us/politics/tpp-trump-trade-nafta.html
-TAGS: News
+TAGS: News ThanksObama
 
 TITLE: He ditched her at the car & what I saw of their dance was painful to watch as well. Terrible human.
 URL: https://twitter.com/DonetaKP/status/823568178441818113
@@ -783,6 +783,7 @@ DESC: ...and launch the "new right," which he said would be free of the racist t
 TITLE: Shut Up, Chuck Todd, The Crowd Was Huge
 URL: https://plus.google.com/u/0/+ReverendEricHa/posts/DG5iQT9P3HQ
 TAGS: AltFacts HaHa
+DESC: Choose Your Alternative Facts
 
 TITLE: On Twitter, a debate has emerged in the past few days about punching Nazis. 
 URL: https://plus.google.com/+YonatanZunger/posts/MitZvt45hiN
