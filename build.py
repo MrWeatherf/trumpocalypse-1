@@ -18,6 +18,7 @@ Tags = [
 	'Hate',
 	#'Hmmm',
 	'ILoveWomen',
+	'Irony',
 	'Lawsuit',
 	'Mexico',
 	'Misc',

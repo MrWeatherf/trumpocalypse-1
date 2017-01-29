@@ -225,6 +225,17 @@
 	color: DeepPink;
 }
 
+.Irony { /* Black = #000000 */
+	border-color: Black;
+	background-color: White;
+	color: Black;
+}
+.day-table .Irony:hover {
+	border-color: Black;
+	background-color: #303030;
+	color: Black;
+}
+
 .Lawsuit { /* DarkGray = #a9a9a9 */
 	border-color: DarkGray;
 	background-color: DarkGray;
