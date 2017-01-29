@@ -6,6 +6,8 @@ import re
 import subprocess
 import sys
 
+from sets import Set
+
 Tags = [
 	'AltFacts',
 	'BabyHands',
@@ -78,9 +80,15 @@ class Parser():
 		self.day = 0
 		self.date = ''
 		
-		self.reset()
+		self.reset_day()
 
-	def reset(self):
+	def reset_day(self):
+		self.day_entries = []
+		self.day_tags = Set([])
+		
+		self.reset_entry()
+		
+	def reset_entry(self):
 		self.title = ''
 		self.url = ''
 		self.tags = []
@@ -96,31 +104,16 @@ class Parser():
 
 		if line == '':
 			if self.in_entry:
-				self.write_entry()
-				self.reset()
+				self.record_entry()
+				self.reset_entry()
 			self.in_entry = False
 			return
 
 		m = re.match(r'^DAY (?P<day>\d+): (?P<date>[A-Za-z]+ \d+ [A-Za-z]+ \d+)$', line)
 		if m:
-			self.day = int(m.group('day'))
-			self.date = m.group('date')
-			date = self.date.split()
-			self.day_of_week = date[0]
-			self.day_of_month = int(date[1])
-			self.month = date[2]
-			self.year = int(date[3])
-			
-			if not self.day_of_week in DaysOfTheWeek:
-				error('Invalid day of week: %s' % line)
-			if self.day_of_month < 1 or self.day_of_month > 31:
-				error('Invalid day of month: %s' % line)
-			if not self.month in Months:
-				error('Invalid month: %s' % line)
-			if self.year < 2017 or self.year > 2017:
-				error('Invalid year: %s' % line)
-			
-			self.day_start()
+			day = int(m.group('day'))
+			date = m.group('date')
+			self.day_start(day, date)
 			return
 
 		m = re.match(r'^TITLE: (?P<title>.+)$', line)
@@ -181,29 +174,60 @@ class Parser():
 		self.outfile.write('</div>\n')
 		self.outfile.write('</body>\n')
 		self.outfile.write('</html>\n')
-
-	def write_entry(self):
-		self.outfile.write('<tr><td class="tag-box">')
-		if len(self.tags) == 0:
-			error('No tags for: %s' % self.title)
-		for t in self.tags:
-			self.outfile.write('<span class="tag %s">%s</span> ' % (t, t))
-		self.outfile.write('</td><td class="info-box">')
-		self.outfile.write('<div class="title"><a href="%s">%s</a></div>' % (html_escape(self.url), html_escape(self.title)))
-		self.outfile.write('<div class="desc">%s</div>' % html_escape(self.desc))
-		self.outfile.write('</td></tr>\n')
 	
-	def day_start(self):
-		if self.in_day:
-			self.day_end()
+	def write_day(self):
 		self.outfile.write('<div class="day" id="%d">Day %d</div>\n' % (self.day, self.day))
 		self.outfile.write('<div class="date" id="%04d-%02d-%02d">%s</div>\n' % (self.year, Months[self.month], self.day_of_month, html_escape(self.date)))
 		self.outfile.write('<table class="day-table">\n')
+		
+		for e in self.day_entries:
+			title = e[0]
+			url = e[1]
+			tags = e[2]
+			desc = e[3]
+			self.outfile.write('<tr><td class="tag-box">')
+			for t in tags:
+				self.outfile.write('<span class="tag %s">%s</span> ' % (t, t))
+			self.outfile.write('</td><td class="info-box">')
+			self.outfile.write('<div class="title"><a href="%s">%s</a></div>' % (html_escape(url), html_escape(title)))
+			self.outfile.write('<div class="desc">%s</div>' % html_escape(desc))
+			self.outfile.write('</td></tr>\n')
+
+		self.outfile.write('</table>\n')
+	
+	def record_entry(self):
+		if len(self.tags) == 0:
+			error('No tags for: %s' % self.title)
+		self.day_entries.append([self.title, self.url, self.tags, self.desc])
+	
+	def day_start(self, day, date):
+		if self.in_day:
+			self.day_end()
+
+		self.day = day
+		self.date = date
+		
+		date = self.date.split()
+		self.day_of_week = date[0]
+		self.day_of_month = int(date[1])
+		self.month = date[2]
+		self.year = int(date[3])
+		
+		if not self.day_of_week in DaysOfTheWeek:
+			error('Invalid day of week: %s' % line)
+		if self.day_of_month < 1 or self.day_of_month > 31:
+			error('Invalid day of month: %s' % line)
+		if not self.month in Months:
+			error('Invalid month: %s' % line)
+		if self.year < 2017 or self.year > 2017:
+			error('Invalid year: %s' % line)
+		
 		self.in_day = True
 	
 	def day_end(self):
 		if self.in_day:
-			self.outfile.write('</table>\n')
+			self.write_day()
+			self.reset_day()
 		self.in_day = False
 
 	def process(self, src, dst):
