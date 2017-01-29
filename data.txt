@@ -40,6 +40,15 @@
 #          ###    ###    ###    ###
 DAY 10: Sunday 29 January 2017
 
+TITLE: Trump's Immigration Fiasco Might Be More Premeditated Than We Think
+URL: http://www.motherjones.com/kevin-drum/2017/01/trumps-immigration-fiasco-might-be-more-premeditated-we-think
+TAGS: Commentary
+DESC: In cases like this, the smart money is usually on incompetence, not malice. But this looks more like deliberate malice to me. Bannon wanted turmoil and condemnation.
+
+TITLE: Steve Bannon personally overruled DHS decision not to include green card holders in travel ban: CNN
+URL: http://www.rawstory.com/2017/01/steve-bannon-personally-overruled-dhs-decision-not-to-include-green-card-holders-in-travel-ban-cnn/
+TAGS: News
+
 TITLE: White House Official, in Reversal, Says Green Card Holders Won’t Be Barred
 URL: https://www.nytimes.com/2017/01/29/us/politics/white-house-official-in-reversal-says-green-card-holders-wont-be-barred.html
 TAGS: News
