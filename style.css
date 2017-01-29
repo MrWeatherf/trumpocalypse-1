@@ -168,6 +168,17 @@
 	color: White;
 }
 
+.Ethics { /* DarkOrange = #ff8c00 */
+	border-color: DarkOrange;
+	background-color: DarkOrange;
+	color: White;
+}
+.day-table .Ethics:hover {
+	border-color: #df6c00;
+	background-color: #df6c00;
+	color: White;
+}
+
 .GloriousLeader {
 	border-color: Blue;
 	background: repeating-linear-gradient(-20deg, #ffd0d0, #ffd0d0 5px, #ffffff 5px, #ffffff 10px);

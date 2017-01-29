@@ -12,6 +12,7 @@ Tags = [
 	'AltFacts',
 	'BabyHands',
 	'Commentary',
+	'Ethics',
 	'GloriousLeader',
 	'HaHa',
 	'Hate',
