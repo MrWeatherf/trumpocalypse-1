@@ -5,6 +5,39 @@
 #          ###    ###    ###    ###
 DAY 9: Saturday 28 January 2017
 
+TITLE: Trump and Putin discuss stabilizing ties, Kremlin says
+URL: http://www.cnn.com/2017/01/28/politics/trump-calls-putin-world-leaders/
+TAGS: News Russia
+DESC: However, relations between Trump and his team and Russia have been under scrutiny following allegations that Moscow meddled in the US election last year.
+
+TITLE: Federal judge stays deportations under Trump Muslim country travel ban
+URL: https://www.theguardian.com/us-news/2017/jan/28/federal-judge-stays-deportations-trump-muslim-executive-order
+TAGS: News
+DESC: The stay will last at least until a hearing scheduled for 21 February
+
+TITLE: Trump Has Suspended Due Process for Muslims in America. This Is a Constitutional Crisis.
+URL: http://www.slate.com/blogs/the_slatest/2017/01/28/trump_has_suspended_due_process_for_muslims.html
+TAGS: Commentary
+DESC: Trump’s executive order has led to the flagrantly unconstitutional detention of perfectly legal immigrants whose lone crime is their national origin and religion.
+
+TITLE: FBI Uncovers Al-Qaeda Plot To Just Sit Back And Enjoy Collapse Of United States
+URL: http://www.theonion.com/article/fbi-uncovers-al-qaeda-plot-to-just-sit-back-and-en-35788
+TAGS: Satire
+DESC: “And unfortunately, based on information we have from intelligence assets on the ground, this plot is already well under way”
+
+TITLE: Green card holders from Trump-restricted countries may not be allowed into US
+URL: http://www.cnn.com/2017/01/28/politics/green-card-donald-trump-travel-ban/index.html
+TAGS: News
+
+TITLE: Trump's Immigration Ban Sets In Causing Chaos, Fear And Protests In U.S. And Abroad
+URL: http://www.npr.org/sections/thetwo-way/2017/01/28/512158238/arrivals-to-u-s-blocked-and-detained-as-trumps-immigration-freeze-sets-in
+TAGS: News
+DESC: "doesn't include any countries from which radicalized Muslims have actually killed Americans in the U.S. since Sept. 11, 2001."
+
+TITLE: Hours after Trump signs Muslim ban, Texas mosque goes up in flames
+URL: https://thinkprogress.org/islamic-center-of-victoria-fire-8a683f632a7a
+TAGS: Hate
+
 TITLE: Countries where Trump does business are not hit by new travel restrictions
 URL: https://www.washingtonpost.com/politics/countries-where-trump-does-business-are-not-hit-by-new-travel-restrictions/2017/01/28/dd40535a-e56b-11e6-a453-19ec4b3d09ba_story.html
 TAGS: News Ethics
