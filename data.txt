@@ -10,6 +10,10 @@ URL: http://www.cnn.com/2017/01/28/politics/trump-calls-putin-world-leaders/
 TAGS: News Russia
 DESC: However, relations between Trump and his team and Russia have been under scrutiny following allegations that Moscow meddled in the US election last year.
 
+TITLE: Executive Order: ETHICS COMMITMENTS BY EXECUTIVE BRANCH APPOINTEES
+URL: https://www.whitehouse.gov/the-press-office/2017/01/28/executive-order-ethics-commitments-executive-branch-appointees
+TAGS: Ethics GloriousLeader
+
 TITLE: Federal judge stays deportations under Trump Muslim country travel ban
 URL: https://www.theguardian.com/us-news/2017/jan/28/federal-judge-stays-deportations-trump-muslim-executive-order
 TAGS: News
@@ -47,6 +51,11 @@ TITLE: Here Comes The First Suit Challenging Trump's "Muslim Ban"
 URL: http://www.motherjones.com/politics/2017/01/lawsuit-muslim-ban
 TAGS: Lawsuit News
 DESC: "There is no evidence that refugees—the most thoroughly vetted of all people entering our nation—are a threat to national security"
+
+TITLE: President Trump is right. I built a wall along Israel's southern border. It stopped all illegal immigration. Great success. Great idea 🇮🇱🇺🇸
+URL: https://twitter.com/netanyahu/status/825371795972825089
+TAGS: Twitter TheWall
+DESC: —Benjamin Netanyahu
 
 TITLE: On a busy Saturday, Trump to call world leaders and sign more orders
 URL: http://www.usatoday.com/story/news/politics/2017/01/28/busy-saturday-trump-call-world-leaders-and-sign-more-orders/97181086/
