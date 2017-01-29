@@ -15,7 +15,7 @@ Tags = [
 	'GloriousLeader',
 	'HaHa',
 	'Hate',
-	'Hmmm',
+	#'Hmmm',
 	'ILoveWomen',
 	'Lawsuit',
 	'Mexico',
@@ -69,19 +69,40 @@ def html_escape(str):
 class Parser():
 	"""Build script for Trumpocalypse"""
 
-	def __init__(self):
+	def __init__(self, src, dst):
 		self.in_day = False
 		self.in_entry = False
 
-		self.validTags = {}
-		for t in Tags:
-			self.validTags[t] = True
-			
 		self.day = 0
 		self.date = ''
 		
 		self.reset_day()
 
+		self.base_name = dst
+		
+		if not os.path.isfile(src):
+			error('File "%s" doesn\'t exist' % src)
+
+		try:
+			self.infile = open(src, 'r')
+		except IOError as e:
+			error('Unable to open "%s" for reading: %s' % (src, e))
+
+		try:
+			self.outfile_all = open('%s.html' % dst, 'w')
+		except IOError as e:
+			error('Unable to open "%s" for writing: %s' % (dst, e))
+
+		self.tagFiles = {}
+		for t in Tags:
+			try:
+				out = 'tag/%s/%s.html' % (t, dst)
+				if not os.path.exists(os.path.dirname(out)):
+					os.makedirs(os.path.dirname(out))
+				self.tagFiles[t] = open(out, 'w')
+			except (IOError, OSError) as e:
+				error('Unable to open "%s" for writing: %s' % (dst, e))
+			
 	def reset_day(self):
 		self.day_entries = []
 		self.day_tags = Set([])
@@ -131,7 +152,7 @@ class Parser():
 		if m:
 			tags = m.group('tags').split(' ')
 			for t in tags:
-				if not t in self.validTags:
+				if not t in self.tagFiles:
 					error('Invalid tag: %s' % t)
 			self.tags = tags
 			return
@@ -144,60 +165,94 @@ class Parser():
 		error('Unrecognized line: %s' % line)
 					
 	def write_html_header(self):
-		self.outfile.write('<!DOCTYPE html>\n')
-		self.outfile.write('<html lang="en">\n')
-		self.outfile.write('<head>\n')
-		self.outfile.write('\t<meta charset="utf-8">\n')
-		self.outfile.write('\t<meta http-equiv="X-UA-Compatible" content="IE=edge">\n')
-		self.outfile.write('\t<meta name="viewport" content="width=device-width, initial-scale=1">\n')
-		self.outfile.write('\t<title>Trumpocalypse</title></head>\n')
-		self.outfile.write('\t<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">\n')
-		self.outfile.write('\t<link rel="stylesheet" type="text/css" href="style.css"/>\n')
+		self.write_html_header_for_tag(None, self.outfile_all)
+		for t in Tags:
+			self.write_html_header_for_tag(t, self.tagFiles[t])
+	
+	def write_html_header_for_tag(self, tag, out):
+		out.write('<!DOCTYPE html>\n')
+		out.write('<html lang="en">\n')
+		out.write('<head>\n')
+		out.write('\t<meta charset="utf-8">\n')
+		out.write('\t<meta http-equiv="X-UA-Compatible" content="IE=edge">\n')
+		out.write('\t<meta name="viewport" content="width=device-width, initial-scale=1">\n')
+		if tag == None:
+			out.write('\t<title>Trumpocalypse</title></head>\n')
+		else:
+			out.write('\t<title>Trumpocalypse - %s</title></head>\n' % tag)
+		out.write('\t<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">\n')
+		if tag == None:
+			out.write('\t<link rel="stylesheet" type="text/css" href="style.css"/>\n')
+		else:
+			out.write('\t<link rel="stylesheet" type="text/css" href="../../style.css"/>\n')
 
-		self.outfile.write('\t<script>\n')
-		self.outfile.write("\t\t(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n")
-		self.outfile.write("\t\t(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n")
-		self.outfile.write("\t\tm=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n")
-		self.outfile.write("\t\t})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n")
-		self.outfile.write("\t\tga('create', 'UA-1163903-6', 'auto');\n")
-		self.outfile.write("\t\tga('send', 'pageview');\n")
-		self.outfile.write('\t</script>\n')
+		out.write('\t<script>\n')
+		out.write("\t\t(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n")
+		out.write("\t\t(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n")
+		out.write("\t\tm=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n")
+		out.write("\t\t})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n")
+		out.write("\t\tga('create', 'UA-1163903-6', 'auto');\n")
+		out.write("\t\tga('send', 'pageview');\n")
+		out.write('\t</script>\n')
 
-		self.outfile.write('</head>\n')
-		self.outfile.write('<body>\n')
-		self.outfile.write('<div class="container">\n')
+		out.write('</head>\n')
+		out.write('<body>\n')
+		out.write('<div class="container">\n')
 
-		self.outfile.write('<div class="main-title">The Trump Administration</div>\n')
-		self.outfile.write('<div class="main-subtitle">Day by Day</div>\n')
+		out.write('<div class="main-title">The Trump Administration</div>\n')
+		out.write('<div class="main-subtitle">Day by Day</div>\n')
+		if tag != None:
+			out.write('<div class="main-entry-info"><span class="tag %s">%s</span></div>\n' % (tag, tag))
 
 	def write_html_footer(self):
-		self.outfile.write('</div>\n')
-		self.outfile.write('</body>\n')
-		self.outfile.write('</html>\n')
+		self.write_html_footer_for_tag(None, self.outfile_all)
+		for t in Tags:
+			self.write_html_footer_for_tag(t, self.tagFiles[t])
+
+	def write_html_footer_for_tag(self, tag, out):
+		out.write('</div>\n')
+		out.write('</body>\n')
+		out.write('</html>\n')
 	
 	def write_day(self):
-		self.outfile.write('<div class="day" id="%d">Day %d</div>\n' % (self.day, self.day))
-		self.outfile.write('<div class="date" id="%04d-%02d-%02d">%s</div>\n' % (self.year, Months[self.month], self.day_of_month, html_escape(self.date)))
-		self.outfile.write('<table class="day-table">\n')
+		self.outfile = self.outfile_all
+		self.write_day_with_tag(None)
 		
-		for e in self.day_entries:
-			title = e[0]
-			url = e[1]
-			tags = e[2]
-			desc = e[3]
-			self.outfile.write('<tr><td class="tag-box">')
-			for t in tags:
-				self.outfile.write('<span class="tag %s">%s</span> ' % (t, t))
-			self.outfile.write('</td><td class="info-box">')
-			self.outfile.write('<div class="title"><a href="%s">%s</a></div>' % (html_escape(url), html_escape(title)))
-			self.outfile.write('<div class="desc">%s</div>' % html_escape(desc))
-			self.outfile.write('</td></tr>\n')
+		for t in Tags:
+			self.outfile = self.tagFiles[t]
+			self.write_day_with_tag(t)
+	
+	def write_day_with_tag(self, tag):
+		if tag == None or tag in self.day_tags:
+			self.outfile.write('<div class="day" id="%d">Day %d</div>\n' % (self.day, self.day))
+			self.outfile.write('<div class="date" id="%04d-%02d-%02d">%s</div>\n' % (self.year, Months[self.month], self.day_of_month, html_escape(self.date)))
+			self.outfile.write('<table class="day-table">\n')
+		
+			for e in self.day_entries:
+				title = e[0]
+				url = e[1]
+				tags = e[2]
+				desc = e[3]
+				if tag == None or tag in tags:
+					self.outfile.write('<tr><td class="tag-box">')
+					if tag == None:
+						base_path = ''
+					else:
+						base_path = '../../'
+					for t in tags:
+						self.outfile.write('<a href="%stag/%s/%s.html"><span class="tag %s">%s</span></a> ' % (base_path, t, self.base_name, t, t))
+					self.outfile.write('</td><td class="info-box">')
+					self.outfile.write('<div class="title"><a href="%s">%s</a></div>' % (html_escape(url), html_escape(title)))
+					self.outfile.write('<div class="desc">%s</div>' % html_escape(desc))
+					self.outfile.write('</td></tr>\n')
 
-		self.outfile.write('</table>\n')
+			self.outfile.write('</table>\n')
 	
 	def record_entry(self):
 		if len(self.tags) == 0:
 			error('No tags for: %s' % self.title)
+		for t in self.tags:
+			self.day_tags.add(t)
 		self.day_entries.append([self.title, self.url, self.tags, self.desc])
 	
 	def day_start(self, day, date):
@@ -230,34 +285,22 @@ class Parser():
 			self.reset_day()
 		self.in_day = False
 
-	def process(self, src, dst):
-		if not os.path.isfile(src):
-			error('File "%s" doesn\'t exist' % src)
-
-		try:
-			infile = open(src, 'r')
-		except IOError as e:
-			error('Unable to open "%s" for reading: %s' % (src, e))
-
-		try:
-			outfile = open(dst, 'w')
-		except IOError as e:
-			error('Unable to open "%s" for writing: %s' % (dst, e))
-
-		self.outfile = outfile
+	def process(self):
 		self.write_html_header()
-		for line in infile:
+		for line in self.infile:
 			line = line.strip()
 			self.process_line(line)
 		self.day_end()
 		self.write_html_footer()
 
-		outfile.close()
-		infile.close()
+		self.infile.close()
+
+	def close_output_files(self):
+		self.outfile_all.close()
 	
 def main():
-	parser = Parser()
-	parser.process('data.txt', 'year1.html')
+	parser = Parser('data.txt', 'year1')
+	parser.process()
 	
 if __name__ == '__main__':
 	main()

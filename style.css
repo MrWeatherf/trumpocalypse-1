@@ -65,6 +65,12 @@
 	margin: 10px 0 20px 0;
 }
 
+.main-entry-info {
+	font-size: 14pt;
+	text-align: center;
+	margin: 10px 0 20px 0;
+}
+
 .day {
 	font-size: 20pt;
 	font-weight: bold;
@@ -134,7 +140,7 @@
 	background-color: MediumVioletRed;
 	color: White;
 }
-.AltFacts:hover {
+.day-table .AltFacts:hover {
 	border-color: #f745b5;
 	background-color: #f745b5;
 	color: White;
@@ -145,7 +151,7 @@
 	background-color: MistyRose;
 	color: Black;
 }
-.BabyHands:hover {
+.day-table .BabyHands:hover {
 	border-color: #ffc0cb;
 	background-color: #dec4c1;
 	color: Black;
@@ -156,7 +162,7 @@
 	background-color: MediumSeaGreen;
 	color: White;
 }
-.Commentary:hover {
+.day-table .Commentary:hover {
 	border-color: #6ce3a1;
 	background-color: #6ce3a1;
 	color: White;
@@ -167,7 +173,7 @@
 	background: repeating-linear-gradient(-20deg, #ffd0d0, #ffd0d0 5px, #ffffff 5px, #ffffff 10px);
 	color: Blue;
 }
-.GloriousLeader:hover {
+.day-table .GloriousLeader:hover {
 	border-color: Blue;
 	background: repeating-linear-gradient(-20deg, #ffb0b0, #ffb0b0 5px, #b0b0ff 5px, #b0b0ff 10px);
 	color: White;
@@ -178,7 +184,7 @@
 	background-color: MediumOrchid;
 	color: White;
 }
-.HaHa:hover {
+.day-table .HaHa:hover {
 	border-color: #ea85ff;
 	background-color: #ea85ff;
 	color: White;
@@ -189,7 +195,7 @@
 	background-color: Black;
 	color: White;
 }
-.Hate:hover {
+.day-table .Hate:hover {
 	border-color: #606060;
 	background-color: #606060;
 	color: White;
@@ -202,7 +208,7 @@
 	background-color: White;
 	color: DeepPink;
 }
-.ILoveWomen:hover {
+.day-table .ILoveWomen:hover {
 	border-color: Pink;
 	background-color: #c0c0c0;
 	color: DeepPink;
@@ -213,7 +219,7 @@
 	background-color: DarkGray;
 	color: White;
 }
-.Lawsuit:hover{
+.day-table .Lawsuit:hover{
 	border-color: #d9d9d9;
 	background-color: #d9d9d9;
 	color: White;
@@ -224,7 +230,7 @@
 	background: repeating-linear-gradient(90deg, #cfc, #cfc 30px, #fff 30px, #fff 60px, #fcc 60px, #fcc 90px);
 	color: Black;
 }
-.Mexico:hover {
+.day-table .Mexico:hover {
 	border-color: #f00;
 	background: repeating-linear-gradient(90deg, #9f9, #9f9 30px, #fff 30px, #fff 60px, #f99 60px, #f99 90px);
 	color: Black;
@@ -235,7 +241,7 @@
 	background-color: #f0f0f0;
 	color: Black;
 }
-.Misc:hover {
+.day-table .Misc:hover {
 	border-color: DarkGray;
 	background-color: #c0c0c0;
 	color: Black;
@@ -246,7 +252,7 @@
 	background-color: #ff0000;
 	color: White;
 }
-.Nazi:hover {
+.day-table .Nazi:hover {
 	border-color: #000000;
 	background-color: #bf0000;
 	color: White;
@@ -257,7 +263,7 @@
 	background-color: #f0f0f0;
 	color: Black;
 }
-.News:hover {
+.day-table .News:hover {
 	border-color: #d0d0d0;
 	background-color: #d0d0d0;
 	color: Black;
@@ -268,7 +274,7 @@
 	background-color: PeachPuff;
 	color: Black;
 }
-.Punch:hover {
+.day-table .Punch:hover {
 	border-color: #cfaa89;
 	background-color: #cfaa89;
 	color: Black;
@@ -279,7 +285,7 @@
 	background: repeating-linear-gradient(0deg, #fcc, #fcc 5px, #ccf 5px, #ccf 13px, #fff 13px, #fff 20px);
 	color: Black;
 }
-.Russia:hover {
+.day-table .Russia:hover {
 	border-color: Blue;
 	background: repeating-linear-gradient(0deg, #f99, #f99 5px, #99f 5px, #99f 13px, #fff 13px, #fff 20px);
 	color: Black;
@@ -290,7 +296,7 @@
 	background-color: MediumSlateBlue;
 	color: White;
 }
-.Satire:hover {
+.day-table .Satire:hover {
 	border-color: #ab98ff;
 	background-color: #ab98ff;
 	color: White;
@@ -301,7 +307,7 @@
 	background-color: Plum;
 	color: Black;
 }
-.Security:hover {
+.day-table .Security:hover {
 	border-color: #bd80bd;
 	background-color: #bd80bd;
 	color: Black;
@@ -312,7 +318,7 @@
 	background-color: #00ca9a;
 	color: Black;
 }
-.Science:hover {
+.day-table .Science:hover {
 	border-color: #30faca;
 	background-color: #30faca;
 	color: Black;
@@ -323,7 +329,7 @@
 	background-color: Chocolate;
 	color: White;
 }
-.ThanksObama:hover {
+.day-table .ThanksObama:hover {
 	border-color: #a23900;
 	background-color: #a23900;
 	color: White;
@@ -334,7 +340,7 @@
 	background-color: White;
 	color: Black;
 }
-.TheWall:hover {
+.day-table .TheWall:hover {
 	border-color: Black;
 	background-color: #c0c0c0;
 	color: Black;
@@ -345,7 +351,7 @@
 	background-color: #0084b4;
 	color: White;
 }
-.Twitter:hover {
+.day-table .Twitter:hover {
 	border-color: #30b4e4;
 	background-color: #30b4e4;
 	color: White;
