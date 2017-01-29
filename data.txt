@@ -1,3 +1,38 @@
+#          ###    ###     #    #####
+#         #   #  #   #   ##    #
+#         #   #  #   #    #    ####
+#         #   #  #   #    #        #
+#          ###    ###    ###   ####
+#DAY 15: Friday 3 February 2017
+
+#          ###    ###     #       #
+#         #   #  #   #   ##      ##
+#         #   #  #   #    #     # #
+#         #   #  #   #    #    #####
+#          ###    ###    ###      #
+#DAY 14: Thursday 2 February 2017
+
+#          ###    ###     #    #####
+#         #   #  #   #   ##       #
+#         #   #  #   #    #      ##
+#         #   #  #   #    #        #
+#          ###    ###    ###   ####
+#DAY 13: Wednesday 1 February 2017
+
+#          ###    ###     #     ###
+#         #   #  #   #   ##    #   #
+#         #   #  #   #    #       #
+#         #   #  #   #    #     #
+#          ###    ###    ###   #####
+#DAY 12: Tuesday 31 January 2017
+
+#          ###    ###     #      #
+#         #   #  #   #   ##     ##
+#         #   #  #   #    #      #
+#         #   #  #   #    #      #
+#          ###    ###    ###    ###
+#DAY 11: Monday 30 January 2017
+
 #          ###    ###     #     ###
 #         #   #  #   #   ##    #   #
 #         #   #  #   #    #    #   #
@@ -350,7 +385,6 @@ TITLE: #TrumpCheck: President Donald Trump said at least 10 false things in his 
 URL: https://twitter.com/ddale8/status/824624204649820161
 TAGS: Twitter AltFacts
 
-
 #          ###    ###    ###    ###
 #         #   #  #   #  #   #  #
 #         #   #  #   #  #   #  ####
@@ -438,7 +472,6 @@ TITLE: You People Made Me Give Up My Peanut Farm Before I Got To Be President
 URL: http://www.theonion.com/blogpost/you-people-made-me-give-my-peanut-farm-i-got-be-pr-55143
 TAGS: Satire Ethics
 DESC: Seriously, it was just a few fields and a warehouse, and you idiots still appointed a special prosecutor and spent six months investigating it.
-
 
 #          ###    ###    ###   #####
 #         #   #  #   #  #   #  #
@@ -529,7 +562,6 @@ TITLE: Special Observances: National Day of Patriotic Devotion (Proc. 9570)
 URL: https://www.federalregister.gov/documents/2017/01/24/2017-01798/special-observances-national-day-of-patriotic-devotion-proc-9570
 TAGS: News GloriousLeader
 DESC: ...do hereby proclaim January 20, 2017, as National Day of Patriotic Devotion...
-
 
 #          ###    ###    ###      #
 #         #   #  #   #  #   #    ##
@@ -648,7 +680,6 @@ TITLE: Katie Rich of ‘S.N.L.’ Is Suspended for Tweet Mocking Barron Trump
 URL: https://www.nytimes.com/2017/01/23/arts/television/katie-rich-snl-suspended-barron-trump-tweet.html
 TAGS: Misc
 
-
 #          ###    ###    ###   #####
 #         #   #  #   #  #   #     #
 #         #   #  #   #  #   #    ##
@@ -754,7 +785,6 @@ URL: https://www.washingtonpost.com/news/answer-sheet/wp/2017/01/22/what-trump-s
 TAGS: HaHa
 DESC: Ah, Betsy. Education. Right?
 
-
 #          ###    ###    ###    ###
 #         #   #  #   #  #   #  #   #
 #         #   #  #   #  #   #     #
@@ -817,7 +847,6 @@ URL: http://www.foxnews.com/us/2017/01/21/fact-check-trump-overstates-crowd-size
 TAGS: AltFacts
 DESC: THE FACTS: Trump is wrong.
 
-
 #          ###    ###    ###     #
 #         #   #  #   #  #   #   ##
 #         #   #  #   #  #   #    #
@@ -866,4 +895,3 @@ TITLE: Searching for Time-Travelers on the Eve of the Trump Inauguration
 URL: https://psmag.com/searching-for-time-travelers-on-the-eve-of-the-trump-inauguration-c67fcd8b990f#.d99f8y5hf
 TAGS: Satire
 DESC: It occurs to me that this inauguration is exactly the sort of historical event that attracts time travelers eager to change the course of the future.
-
