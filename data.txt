@@ -40,6 +40,15 @@
 #          ###    ###    ###    ###
 DAY 10: Sunday 29 January 2017
 
+TITLE: ...Senators should focus their energies on ISIS, illegal immigration and border security instead of always looking to start World War III.
+URL: https://twitter.com/realDonaldTrump/status/825823217025691648
+TAGS: Twitter GloriousLeader Irony
+
+TITLE: Statement by Senators McCain & Graham on Excutive Order on Immigration
+URL: http://www.mccain.senate.gov/public/index.cfm/2017/1/statement-by-senators-mccain-graham-on-executive-order-on-immigration
+TAGS: News
+DESC: We are particularly concerned by reports that this order went into effect with little to no consultation with the Departments of State, Defense, Justice, and Homeland Security.
+
 TITLE: Trump's Immigration Fiasco Might Be More Premeditated Than We Think
 URL: http://www.motherjones.com/kevin-drum/2017/01/trumps-immigration-fiasco-might-be-more-premeditated-we-think
 TAGS: Commentary
@@ -52,6 +61,10 @@ TAGS: News
 TITLE: White House Official, in Reversal, Says Green Card Holders Won’t Be Barred
 URL: https://www.nytimes.com/2017/01/29/us/politics/white-house-official-in-reversal-says-green-card-holders-wont-be-barred.html
 TAGS: News
+
+TITLE: "Everyone suffered in the Holocaust, including the Jewish people," said @Reince Priebus on @MeetThePress, the understatement of the century.
+URL: https://twitter.com/elizabethics/status/825732613587496962
+TAGS: Twitter
 
 TITLE: White House discussing asking foreign visitors for social media info and cell phone contacts
 URL: http://www.cnn.com/2017/01/29/politics/donald-trump-immigrant-policy-social-media-contacts/index.html
