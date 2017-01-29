@@ -1,9 +1,55 @@
+#          ###    ###     #     ###
+#         #   #  #   #   ##    #   #
+#         #   #  #   #    #    #   #
+#         #   #  #   #    #    #   #
+#          ###    ###    ###    ###
+DAY 10: Sunday 29 January 2017
+
+TITLE: White House discussing asking foreign visitors for social media info and cell phone contacts
+URL: http://www.cnn.com/2017/01/29/politics/donald-trump-immigrant-policy-social-media-contacts/index.html
+TAGS: News
+DESC: How such a policy would be implemented remains under discussion.
+
+TITLE: Trump’s Border Patrol Defies Judge, U.S. Senator at Dulles Airport as His First Constitutional Crisis Unfolds
+URL: http://www.thedailybeast.com/articles/2017/01/29/trump-s-border-patrol-defies-judge-u-s-senator-at-dulles-airport-at-his-first-constitutional-crisis-unfolds.html
+TAGS: News
+DESC: ...it’s also unheard of for government agencies like CBP to prevent people who have the legal right to live in the U.S. from seeing their lawyers. And that’s what was happening.
+
+TITLE: Spicer defends Bannon role at National Security Council
+URL: http://www.politico.com/story/2017/01/spicer-defends-bannon-role-at-national-security-council-234327
+TAGS: News
+DESC: "He's got a tremendous understanding of the world and the geopolitical landscape that we have now," he said.
+
+TITLE: Giuliani: Trump asked me how to do a Muslim ban 'legally'
+URL: http://thehill.com/homenews/administration/316726-giuliani-trump-asked-me-how-to-do-a-muslim-ban-legally
+TAGS: News
+DESC: "And what we did was we focused on, instead of religion, danger," Giuliani said.
+
+TITLE: Somebody with aptitude and conviction should buy the FAKE NEWS and failing @nytimes and either run it correctly or let it fold with dignity!
+URL: https://twitter.com/realDonaldTrump/status/825690087857995776
+TAGS: Twitter GloriousLeader
+
+TITLE: Social media users troll Trump Hotels post with their 'favorite travel memories'
+URL: http://thehill.com/blogs/in-the-know/in-the-know/316738-social-media-users-troll-trump-hotel-post-with-their-favorite
+TAGS: HaHa
+DESC: My asylum grant. Thanks for asking
+
 #          ###    ###    ###    ###
 #         #   #  #   #  #   #  #   #
 #         #   #  #   #  #   #   ####
 #         #   #  #   #  #   #      #
 #          ###    ###    ###    ###
 DAY 9: Saturday 28 January 2017
+
+TITLE: Trump boots top officials — but includes Steve Bannon — in reshuffled National Security Council
+URL: https://www.rawstory.com/2017/01/trump-boots-top-officials-but-includes-steve-bannon-in-reshuffled-national-security-council/
+TAGS: News
+DESC: Unlike previous presidential administrations, Trump’s Saturday memo specified that the director of national intelligence and the chairman of the Joint Chiefs will only attend principals committee meetings that pertain to their specific “responsibilities and expertise.”
+
+TITLE: Republican redistricting is taking a beating in the courts, right now
+URL: https://www.washingtonpost.com/news/the-fix/wp/2017/01/28/republican-redistricting-is-taking-a-beating-in-the-courts-right-now/
+TAGS: News
+DESC: Wisconsin is one of the most gerrymandered states in the nation.
 
 TITLE: Trump and Putin discuss stabilizing ties, Kremlin says
 URL: http://www.cnn.com/2017/01/28/politics/trump-calls-putin-world-leaders/
@@ -19,10 +65,20 @@ URL: https://www.theguardian.com/us-news/2017/jan/28/federal-judge-stays-deporta
 TAGS: News
 DESC: The stay will last at least until a hearing scheduled for 21 February
 
+TITLE: http://www.realclearpolitics.com/video/2017/01/27/watch_live_donald_trump_and_theresa_may_hold_a_joint_press_conference.html
+URL: Full Replay: Donald Trump And Theresa May Hold A Joint Press Conference
+TAGS: News
+DESC: There goes that relationship.
+
 TITLE: Trump Has Suspended Due Process for Muslims in America. This Is a Constitutional Crisis.
 URL: http://www.slate.com/blogs/the_slatest/2017/01/28/trump_has_suspended_due_process_for_muslims.html
 TAGS: Commentary
 DESC: Trump’s executive order has led to the flagrantly unconstitutional detention of perfectly legal immigrants whose lone crime is their national origin and religion.
+
+TITLE: Protest Grows ‘Out of Nowhere’ at Kennedy Airport After Iraqis Are Detained
+URL: https://www.nytimes.com/2017/01/28/nyregion/jfk-protests-trump-refugee-ban.html
+TAGS: News
+DESC: ...the police were letting only people with airplane tickets onto the public transportation system.
 
 TITLE: FBI Uncovers Al-Qaeda Plot To Just Sit Back And Enjoy Collapse Of United States
 URL: http://www.theonion.com/article/fbi-uncovers-al-qaeda-plot-to-just-sit-back-and-en-35788
@@ -46,6 +102,11 @@ TITLE: Countries where Trump does business are not hit by new travel restriction
 URL: https://www.washingtonpost.com/politics/countries-where-trump-does-business-are-not-hit-by-new-travel-restrictions/2017/01/28/dd40535a-e56b-11e6-a453-19ec4b3d09ba_story.html
 TAGS: News Ethics
 DESC: Trump is now facing questions about whether he designed the new rules with his own business at least partly in mind.
+
+TITLE: Full text of Trump's executive order on 7-nation ban, refugee suspension
+URL: http://edition.cnn.com/2017/01/28/politics/text-of-trump-executive-order-nation-ban-refugees/
+TAGS: News
+DESC: Those countries were named in a 2016 law concerning immigration visas as "countries of concern."
 
 TITLE: Here Comes The First Suit Challenging Trump's "Muslim Ban"
 URL: http://www.motherjones.com/politics/2017/01/lawsuit-muslim-ban
@@ -111,7 +172,7 @@ DESC: I was homeschooled and my parents were part of a subculture called Quiverf
 TITLE: No mention of Jews in White House's Holocaust Remembrance Day tribute
 URL: https://www.theguardian.com/us-news/2017/jan/27/white-house-holocaust-remembrance-day-no-jews
 TAGS: Commentary
-DESC: the statement “misses that it was six million Jews who perished, not just ‘innocent people’”
+DESC: ...the statement “misses that it was six million Jews who perished, not just ‘innocent people’”
 	
 TITLE: Trump says US will prioritize Christian refugees
 URL: http://www.cnn.com/2017/01/27/politics/trump-christian-refugees/index.html
@@ -320,6 +381,11 @@ TITLE: Trump administration tells EPA to cut climate page from website
 URL: http://www.reuters.com/article/us-usa-trump-epa-climatechange-idUSKBN15906G
 TAGS: News
 DESC: If the website goes dark, years of work we have done on climate change will disappear
+
+TITLE: Trump hangs portrait of Andrew Jackson in Oval Office
+URL: http://thehill.com/homenews/administration/316115-trump-hangs-portrait-of-andrew-jackson-in-oval-office
+TAGS: Misc
+DESC: Jackson’s legacy is also rife with controversy. He signed the Indian Removal Act of 1830, paving the way for what is now known as the "Trail of Tears"
 
 TITLE: More National Parks employees appear to taunt Trump on Twitter
 URL: http://www.cnbc.com/2017/01/25/national-parks-employees-are-still-going-rogue-on-twitter.html
@@ -638,7 +704,7 @@ TAGS: AltFacts HaHa
 
 TITLE: On Twitter, a debate has emerged in the past few days about punching Nazis. 
 URL: https://plus.google.com/+YonatanZunger/posts/MitZvt45hiN
-TAGS: Punch Nazi Ethics Commentary
+TAGS: Punch Nazi Ethics
 
 TITLE: Some pictures are worth like a billion words.
 URL: https://twitter.com/stevesilberman/status/823318373110947840
@@ -736,6 +802,11 @@ URL: https://www.nytimes.com/interactive/2017/01/21/world/womens-march-pictures.
 TAGS: Commentary
 DESC: Crowds in hundreds of cities around the world gathered Saturday in conjunction with the Women’s March on Washington.
 
+TITLE: Trump’s inaugural cake was commissioned to look exactly like Obama’s, baker says
+URL: https://www.washingtonpost.com/news/food/wp/2017/01/21/trump-had-a-huge-luxurious-inauguration-cake-was-it-plagiarized/
+TAGS: Misc
+DESC: ...the Trump cake was intended to be more of a prop: All but a three-inch slice at the bottom was inedible.
+
 TITLE: The Inauguration, and the Counter-Inauguration
 URL: https://www.theatlantic.com/entertainment/archive/2017/01/the-inauguration-and-the-counter-inauguration/514055/
 TAGS: News
@@ -777,9 +848,9 @@ TITLE: January 20th 2017, will be remembered as the day the people became the ru
 URL: https://twitter.com/realDonaldTrump/status/822502270503972872
 TAGS: Twitter GloriousLeader
 
-# Mattis
-
-# Kelly
+TITLE: Gen. James Mattis, Gen. John Kelly confirmed for Trump Cabinet spots
+URL: http://www.foxnews.com/politics/2017/01/20/gen-james-mattis-confirmed-as-secretary-defense.html
+TAGS: News
 
 TITLE: Donald Trump Plagiarized Bane in His Inaugural Speech
 URL: http://theslot.jezebel.com/donald-trump-plagiarized-bane-in-his-inaugural-speech-1791429625
