@@ -52,7 +52,7 @@ DESC: ...it’s also unheard of for government agencies like CBP to prevent peop
 
 TITLE: Spicer defends Bannon role at National Security Council
 URL: http://www.politico.com/story/2017/01/spicer-defends-bannon-role-at-national-security-council-234327
-TAGS: News
+TAGS: Misc
 DESC: "He's got a tremendous understanding of the world and the geopolitical landscape that we have now," he said.
 
 TITLE: Giuliani: Trump asked me how to do a Muslim ban 'legally'
@@ -75,6 +75,11 @@ DESC: My asylum grant. Thanks for asking
 #         #   #  #   #  #   #      #
 #          ###    ###    ###    ###
 DAY 9: Saturday 28 January 2017
+
+TITLE: Malevolence Tempered by Incompetence: Trump’s Horrifying Executive Order on Refugees and Visas
+URL: https://lawfareblog.com/malevolence-tempered-incompetence-trumps-horrifying-executive-order-refugees-and-visas
+TAGS: Commentary
+DESC: NBC is reporting that the document was not reviewed by DHS, the Justice Department, the State Department, or the Department of Defense, and that National Security Council lawyers were prevented from evaluating it.
 
 TITLE: Get used to it. @POTUS is a man of action and impact. Promises made, promises kept. Shock to the system. And he's just getting started
 URL: https://twitter.com/KellyannePolls/status/825358733945475073
