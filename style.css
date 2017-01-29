@@ -153,7 +153,7 @@
 }
 .day-table .BabyHands:hover {
 	border-color: #ffc0cb;
-	background-color: #dec4c1;
+	background-color: #eed4d1;
 	color: Black;
 }
 
@@ -163,8 +163,8 @@
 	color: White;
 }
 .day-table .Commentary:hover {
-	border-color: #6ce3a1;
-	background-color: #6ce3a1;
+	border-color: #5cd391;
+	background-color: #5cd391;
 	color: White;
 }
 
@@ -174,20 +174,20 @@
 	color: White;
 }
 .day-table .Ethics:hover {
-	border-color: #df6c00;
-	background-color: #df6c00;
+	border-color: #ef7c00;
+	background-color: #ef7c00;
 	color: White;
 }
 
 .GloriousLeader {
 	border-color: Blue;
-	background: repeating-linear-gradient(-20deg, #ffd0d0, #ffd0d0 5px, #ffffff 5px, #ffffff 10px);
+	background: repeating-linear-gradient(-20deg, #fdd, #fdd 5px, #fff 5px, #fff 10px);
 	color: Blue;
 }
 .day-table .GloriousLeader:hover {
 	border-color: Blue;
-	background: repeating-linear-gradient(-20deg, #ffb0b0, #ffb0b0 5px, #b0b0ff 5px, #b0b0ff 10px);
-	color: White;
+	background: repeating-linear-gradient(-20deg, #ecc, #ecc 5px, #eee 5px, #eee 10px);
+	color: Blue;
 }
 
 .HaHa { /* MediumOrchid = #ba55d3 */
@@ -221,7 +221,7 @@
 }
 .day-table .ILoveWomen:hover {
 	border-color: Pink;
-	background-color: #c0c0c0;
+	background-color: #f0f0f0;
 	color: DeepPink;
 }
 
@@ -231,8 +231,8 @@
 	color: White;
 }
 .day-table .Lawsuit:hover{
-	border-color: #d9d9d9;
-	background-color: #d9d9d9;
+	border-color: #c0c0c0;
+	background-color: #c0c0c0;
 	color: White;
 }
 
@@ -243,7 +243,7 @@
 }
 .day-table .Mexico:hover {
 	border-color: #f00;
-	background: repeating-linear-gradient(90deg, #9f9, #9f9 30px, #fff 30px, #fff 60px, #f99 60px, #f99 90px);
+	background: repeating-linear-gradient(90deg, #aea, #aea 30px, #eee 30px, #eee 60px, #eaa 60px, #eaa 90px);
 	color: Black;
 }
 
@@ -254,7 +254,7 @@
 }
 .day-table .Misc:hover {
 	border-color: DarkGray;
-	background-color: #c0c0c0;
+	background-color: #e0e0e0;
 	color: Black;
 }
 
@@ -275,8 +275,8 @@
 	color: Black;
 }
 .day-table .News:hover {
-	border-color: #d0d0d0;
-	background-color: #d0d0d0;
+	border-color: #e0e0e0;
+	background-color: #e0e0e0;
 	color: Black;
 }
 
@@ -286,8 +286,8 @@
 	color: Black;
 }
 .day-table .Punch:hover {
-	border-color: #cfaa89;
-	background-color: #cfaa89;
+	border-color: #efcaa9;
+	background-color: #efcaa9;
 	color: Black;
 }
 
@@ -298,7 +298,7 @@
 }
 .day-table .Russia:hover {
 	border-color: Blue;
-	background: repeating-linear-gradient(0deg, #f99, #f99 5px, #99f 5px, #99f 13px, #fff 13px, #fff 20px);
+	background: repeating-linear-gradient(0deg, #eaa, #eaa 5px, #aae 5px, #aae 13px, #eee 13px, #eee 20px);
 	color: Black;
 }
 
@@ -330,8 +330,8 @@
 	color: Black;
 }
 .day-table .Science:hover {
-	border-color: #30faca;
-	background-color: #30faca;
+	border-color: #20eaba;
+	background-color: #20eaba;
 	color: Black;
 }
 
@@ -348,12 +348,12 @@
 
 .TheWall {
 	border-color: Black;
-	background-color: White;
+	background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAK0lEQVQoU2N88ODBfwYiACNMDUiDgoICnI+udyAVkuwZdMejew6nL2mvEADwmydJ088CoQAAAABJRU5ErkJggg==) repeat;
 	color: Black;
 }
 .day-table .TheWall:hover {
 	border-color: Black;
-	background-color: #c0c0c0;
+	background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAL0lEQVQoU2M8cODAfwYiAOODBw/ACh88eMCgoKCAU8tAKiTZM+i+QPcc3DP0VwgALVI7gVoQJwwAAAAASUVORK5CYII=) repeat;
 	color: Black;
 }
 
