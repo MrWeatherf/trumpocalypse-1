@@ -76,6 +76,16 @@ DESC: My asylum grant. Thanks for asking
 #          ###    ###    ###    ###
 DAY 9: Saturday 28 January 2017
 
+TITLE: Get used to it. @POTUS is a man of action and impact. Promises made, promises kept. Shock to the system. And he's just getting started
+URL: https://twitter.com/KellyannePolls/status/825358733945475073
+TAGS: Twitter
+DESC: —Kellyanne Conway
+
+TITLE: Trump says his immigration ban is ‘working out very nicely’
+URL: https://www.yahoo.com/news/trump-my-immigration-ban-is-working-out-very-nicely-010501350.html
+TAGS: News
+DESC: Trump denied that the order was meant to target Muslims and cited the scenes at American airports as evidence that the ban is a success.
+
 TITLE: Trump boots top officials — but includes Steve Bannon — in reshuffled National Security Council
 URL: https://www.rawstory.com/2017/01/trump-boots-top-officials-but-includes-steve-bannon-in-reshuffled-national-security-council/
 TAGS: News
