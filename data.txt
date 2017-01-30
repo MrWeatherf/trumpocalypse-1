@@ -40,6 +40,11 @@
 #          ###    ###    ###    ###
 DAY 10: Sunday 29 January 2017
 
+TITLE: Republicans Begin to Break With President Trump
+URL: http://time.com/4652966/donald-trump-refugee-ban-executive-order-republicans/
+TAGS: News
+DESC: By Sunday evening, more than a dozen GOP members of Congress had spoken out against Trump’s executive order on immigration.
+
 TITLE: Trump's state department purge sparks worries of 'know-nothing approach' to foreign policy
 URL: https://www.theguardian.com/us-news/2017/jan/29/state-department-purge-trump-foreign-policy
 TAGS: News
