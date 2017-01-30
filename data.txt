@@ -33,7 +33,6 @@
 #          ###    ###    ###    ###
 #DAY 11: Monday 30 January 2017
 
-
 #          ###    ###     #     ###
 #         #   #  #   #   ##    #   #
 #         #   #  #   #    #    #   #
@@ -48,13 +47,18 @@ DESC: One posting hailed the U.S. president as “the best caller to Islam,” w
 
 TITLE: Republicans Begin to Break With President Trump
 URL: http://time.com/4652966/donald-trump-refugee-ban-executive-order-republicans/
-TAGS: News
+TAGS: News TravelBan
 DESC: By Sunday evening, more than a dozen GOP members of Congress had spoken out against Trump’s executive order on immigration.
 
 TITLE: Trump's state department purge sparks worries of 'know-nothing approach' to foreign policy
 URL: https://www.theguardian.com/us-news/2017/jan/29/state-department-purge-trump-foreign-policy
-TAGS: News
+TAGS: Commentary
 DESC: Others saw it as a wrecking operation, aimed at debilitating the state department at a time of upheaval
+
+TITLE: Kellyanne Conway on President Trump's ambitious agenda
+URL: http://www.foxnews.com/transcript/2017/01/29/kellyanne-conway-on-president-trump-ambitious-agenda-sen-dick-durbin-on/
+TAGS: Commentary TravelBan
+DESC: You know, I was stopped many times, weren’t you, after 9/11.  I didn't resemble, or share a name with or be part of any kind of terrorist conspiracy, but this is what we do to keep a nation safe.
 
 TITLE: IMPORTANT. Donald Trump filed with @FEC for 2020 reelection on January 20th, 2017. This is major for several reasons. /1
 URL: https://twitter.com/resisterhood/status/825435325535252480
