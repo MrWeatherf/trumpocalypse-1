@@ -33,6 +33,20 @@
 #          ###    ###    ###    ###
 DAY 11: Monday 30 January 2017
 
+TITLE: Trump signs executive order to drastically cut federal regs
+URL: http://www.foxnews.com/politics/2017/01/30/trump-signs-executive-order-to-drastically-cut-federal-regs.html
+TAGS: News
+DESC: ...requiring federal agencies to effectively eliminate at least two regulations for each new one issued.
+
+TITLE: Billionaire Republican donor Charles Koch likens Donald Trump's Muslim ban to Adolf Hitler's policies in Nazi Germany
+URL: http://www.independent.co.uk/news/world/americas/donald-trump-muslim-travel-ban-billionaire-republican-donor-charles-koch-likens-policy-to-adolf-a7552531.html
+TAGS: Commentary Nazi TravelBan
+DESC: ...he warned that the nation is facing a moment of “tremendous danger”
+
+TITLE: The very long list of Republicans in Congress who have taken no position on Trump's refugee ban
+URL: http://www.vox.com/2017/1/29/14427466/republican-congress-silent-trump-refugee
+TAGS: News TravelBan
+
 TITLE: Google Doodle commemorates Japanese-American activist who fought internment
 URL: http://www.theverge.com/2017/1/30/14437844/google-doodle-fred-korematsu-japanese-internment
 TAGS: Misc
@@ -57,6 +71,11 @@ TITLE: Jihadist groups hail Trump’s travel ban as a victory
 URL: https://www.washingtonpost.com/world/national-security/jihadist-groups-hail-trumps-travel-ban-as-a-victory/2017/01/29/50908986-e66d-11e6-b82f-687d6e6a3e7c_story.html
 TAGS: News TravelBan
 DESC: One posting hailed the U.S. president as “the best caller to Islam,” while others predicted that Trump would soon launch a new war in the Middle East.
+
+TITLE: Trial Balloon for a Coup?
+URL: https://medium.com/@yonatanzunger/trial-balloon-for-a-coup-e024990891d5#.gqju1wpe9
+TAGS: Commentary
+DESC: That is to say, the administration is testing the extent to which the DHS (and other executive agencies) can act and ignore orders from the other branches of government.
 
 TITLE: Republicans Begin to Break With President Trump
 URL: http://time.com/4652966/donald-trump-refugee-ban-executive-order-republicans/
@@ -95,6 +114,11 @@ DESC: In cases like this, the smart money is usually on incompetence, not malice
 TITLE: Steve Bannon personally overruled DHS decision not to include green card holders in travel ban: CNN
 URL: http://www.rawstory.com/2017/01/steve-bannon-personally-overruled-dhs-decision-not-to-include-green-card-holders-in-travel-ban-cnn/
 TAGS: News TravelBan
+
+TITLE: Only 1 suspect in deadly Quebec mosque shooting, police say
+URL: http://www.cbc.ca/news/canada/montreal/quebec-city-mosque-gun-shots-1.3957686
+TAGS: Canada Hate
+DESC: Six men died in the shooting during evening prayers at the Centre Culturel Islamique de Québec (Islamic cultural centre of Quebec). Nineteen people were also wounded.
 
 TITLE: Trump Is Doing What He Said He’d Do
 URL: https://fivethirtyeight.com/features/trump-is-doing-what-he-said-hed-do/
@@ -173,6 +197,10 @@ TITLE: Trump boots top officials — but includes Steve Bannon — in reshuffled
 URL: https://www.rawstory.com/2017/01/trump-boots-top-officials-but-includes-steve-bannon-in-reshuffled-national-security-council/
 TAGS: News
 DESC: Unlike previous presidential administrations, Trump’s Saturday memo specified that the director of national intelligence and the chairman of the Joint Chiefs will only attend principals committee meetings that pertain to their specific “responsibilities and expertise.”
+
+TITLE: PM Trudeau says Canada welcomes refugees
+URL: https://www.washingtonpost.com/world/the_americas/pm-trudeau-says-canada-will-take-refugees/2017/01/28/bb270054-e5aa-11e6-a419-eefe8eff0835_story.html
+TAGS: News Canada
 
 TITLE: Republican redistricting is taking a beating in the courts, right now
 URL: https://www.washingtonpost.com/news/the-fix/wp/2017/01/28/republican-redistricting-is-taking-a-beating-in-the-courts-right-now/
@@ -518,6 +546,11 @@ TITLE: Trump hangs portrait of Andrew Jackson in Oval Office
 URL: http://thehill.com/homenews/administration/316115-trump-hangs-portrait-of-andrew-jackson-in-oval-office
 TAGS: Misc
 DESC: Jackson’s legacy is also rife with controversy. He signed the Indian Removal Act of 1830, paving the way for what is now known as the "Trail of Tears"
+
+TITLE: How Russia sold its oil jewel: without saying who bought it
+URL: http://www.reuters.com/article/us-russia-rosneft-privatisation-insight-idUSKBN1582OH
+TAGS: News Russia
+DESC: If the full identity of the new owners of the Rosneft stake is a mystery, so too is the complete source of the funds with which they bought it.
 
 TITLE: More National Parks employees appear to taunt Trump on Twitter
 URL: http://www.cnbc.com/2017/01/25/national-parks-employees-are-still-going-rogue-on-twitter.html

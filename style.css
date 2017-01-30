@@ -166,6 +166,17 @@
 	color: Black;
 }
 
+.Canada {
+	border-color: #f00;
+	background: repeating-linear-gradient(90deg, #fcc, #fcc 30px, #fff 30px, #fff 60px, #fcc 60px, #fcc 90px);
+	color: Black;
+}
+.day-table .Canada:hover {
+	border-color: #f00;
+	background: repeating-linear-gradient(90deg, #eaa, #eaa 30px, #eee 30px, #eee 60px, #eaa 60px, #eaa 90px);
+	color: Black;
+}
+
 .Commentary { /* MediumSeaGreen = #3cb371 */
 	border-color: MediumSeaGreen;
 	background-color: MediumSeaGreen;

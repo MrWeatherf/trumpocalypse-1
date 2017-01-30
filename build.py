@@ -11,6 +11,7 @@ from sets import Set
 Tags = [
 	'AltFacts',
 	'BabyHands',
+	'Canada',
 	'Commentary',
 	'Ethics',
 	'GloriousLeader',
