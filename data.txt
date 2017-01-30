@@ -40,6 +40,11 @@
 #          ###    ###    ###    ###
 DAY 10: Sunday 29 January 2017
 
+TITLE: Jihadist groups hail Trump’s travel ban as a victory
+URL: https://www.washingtonpost.com/world/national-security/jihadist-groups-hail-trumps-travel-ban-as-a-victory/2017/01/29/50908986-e66d-11e6-b82f-687d6e6a3e7c_story.html
+TAGS: News
+DESC: One posting hailed the U.S. president as “the best caller to Islam,” while others predicted that Trump would soon launch a new war in the Middle East.
+
 TITLE: Republicans Begin to Break With President Trump
 URL: http://time.com/4652966/donald-trump-refugee-ban-executive-order-republicans/
 TAGS: News
