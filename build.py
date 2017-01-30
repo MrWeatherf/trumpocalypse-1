@@ -228,7 +228,7 @@ class Parser():
 		if tag == None or tag in self.day_tags:
 			self.outfile.write('<div class="day" id="%d">Day %d</div>\n' % (self.day, self.day))
 			self.outfile.write('<div class="date" id="%04d-%02d-%02d">%s</div>\n' % (self.year, Months[self.month], self.day_of_month, html_escape(self.date)))
-			self.outfile.write('<table class="day-table">\n')
+			self.outfile.write('<div class="day-table">\n')
 		
 			for e in self.day_entries:
 				title = e[0]
@@ -236,19 +236,20 @@ class Parser():
 				tags = e[2]
 				desc = e[3]
 				if tag == None or tag in tags:
-					self.outfile.write('<tr><td class="tag-box">')
+					self.outfile.write('<div class="row row_padding">')
+					self.outfile.write('<div class="col-md-3 tag-box">')
 					if tag == None:
 						base_path = ''
 					else:
 						base_path = '../../'
 					for t in tags:
 						self.outfile.write('<a href="%stag/%s/%s.html"><span class="tag %s">%s</span></a> ' % (base_path, t, self.base_name, t, t))
-					self.outfile.write('</td><td class="info-box">')
+					self.outfile.write('</div><div class="col-md-9 info-box">')
 					self.outfile.write('<div class="title"><a href="%s">%s</a></div>' % (html_escape(url), html_escape(title)))
 					self.outfile.write('<div class="desc">%s</div>' % html_escape(desc))
-					self.outfile.write('</td></tr>\n')
+					self.outfile.write('</div></div>\n')
 
-			self.outfile.write('</table>\n')
+			self.outfile.write('</div>\n')
 	
 	def record_entry(self):
 		if len(self.tags) == 0:
