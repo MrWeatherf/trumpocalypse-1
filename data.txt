@@ -167,7 +167,7 @@ URL: http://www.cnn.com/2017/01/28/politics/trump-calls-putin-world-leaders/
 TAGS: News Russia
 DESC: However, relations between Trump and his team and Russia have been under scrutiny following allegations that Moscow meddled in the US election last year.
 
-TITLE: Executive Order: ETHICS COMMITMENTS BY EXECUTIVE BRANCH APPOINTEES
+TITLE: Executive Order: Ethics Commitments by Executive Branch Appointees
 URL: https://www.whitehouse.gov/the-press-office/2017/01/28/executive-order-ethics-commitments-executive-branch-appointees
 TAGS: Ethics GloriousLeader
 
