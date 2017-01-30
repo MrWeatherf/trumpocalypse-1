@@ -56,6 +56,11 @@
 	border-width: 2px 0 2px 0;
 }
 
+.main-title a {
+	text-decoration: none;
+	color: Black;
+}
+
 .main-subtitle {
 	font-size: 24pt;
 	font-weight: bold;

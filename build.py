@@ -185,9 +185,10 @@ class Parser():
 			out.write('\t<title>Trumpocalypse - %s</title></head>\n' % tag)
 		out.write('\t<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">\n')
 		if tag == None:
-			out.write('\t<link rel="stylesheet" type="text/css" href="style.css"/>\n')
+			base_path = ''
 		else:
-			out.write('\t<link rel="stylesheet" type="text/css" href="../../style.css"/>\n')
+			base_path = '../../'
+		out.write('\t<link rel="stylesheet" type="text/css" href="%sstyle.css"/>\n' % base_path)
 
 		out.write('\t<script>\n')
 		out.write("\t\t(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n")
@@ -202,7 +203,7 @@ class Parser():
 		out.write('<body>\n')
 		out.write('<div class="container">\n')
 
-		out.write('<div class="main-title">The Trump Administration</div>\n')
+		out.write('<div class="main-title"><a href="%sindex.html">The Trump Administration</a></div>\n' % base_path)
 		out.write('<div class="main-subtitle">Day by Day</div>\n')
 		if tag != None:
 			out.write('<div class="main-entry-info"><span class="tag %s">%s</span></div>\n' % (tag, tag))
