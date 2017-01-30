@@ -18,6 +18,8 @@
 	margin: 30px 0 30px 0;
 }
 
+/* Calendar */
+
 .month-name {
 	text-align: center;
 	font-size: 14pt;
@@ -25,23 +27,24 @@
 	font-variant: small-caps;
 }
 
-.dom {
+.month-day {
 	text-align: center;
+	font-size: 12pt;
 	min-width: 25px;
 	padding: 2px;
 }
 
-.disabled {
-	color: #c0c0c0;
-}
-
-.dom a {
+.month-day a {
 	text-decoration: none;
 	color: Black;
 }
 
-.dom a:hover {
+.month-day a:hover {
 	font-weight: bold;
+}
+
+.disabled {
+	color: #c0c0c0;
 }
 
 /* Day by day view */
