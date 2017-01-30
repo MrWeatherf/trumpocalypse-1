@@ -31,6 +31,7 @@ Tags = [
 	'Science',
 	'ThanksObama',
 	'TheWall',
+	'TravelBan',
 	'Twitter',
 ]
 
