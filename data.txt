@@ -53,6 +53,11 @@ DESC: “But as I used to say to my staff,” he added, “if I can’t rely on 
 #          ###    ###    ###    ###
 DAY 11: Monday 30 January 2017
 
+TITLE: Sean Spicer is right. That five-year-old refugee has diabolical plans.
+URL: https://www.washingtonpost.com/blogs/compost/wp/2017/01/30/sean-spicer-is-right-that-five-year-old-refugee-has-diabolical-plans/
+TAGS: Commentary
+DESC: He has plans to commit awful acts of sabotage like flushing strange things down the toilet, because here there is a toilet to flush. He has plans to grow up to become the most terrifying thing in the world: an American.
+
 TITLE: The Immigration Ban is a Headfake, and We’re Falling For It
 URL: https://medium.com/@jakefuentes/the-immigration-ban-is-a-headfake-and-were-falling-for-it-b8910e78f0c5#.6026mrn55
 TAGS: Commentary
