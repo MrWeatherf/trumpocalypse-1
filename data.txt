@@ -1044,12 +1044,17 @@ DAY 3: Sunday 22 January 2017
 
 TITLE: Trump’s press secretary has been fighting with Dippin’ Dots for 5 years
 URL: http://www.avclub.com/article/trumps-new-press-secretary-five-year-running-feud--248859
-TAGS: Spicer
+TAGS: Spicer Misc
 DESC: Could he get through an entire five minute speech to the press without slipping in an attack on his arch-enemy Dippin’ Dots, The Ice Cream Of The Future?
 
 TITLE: White House Pushes ‘Alternative Facts.’ Here Are the Real Ones.
 URL: https://www.nytimes.com/2017/01/22/us/politics/president-trump-inauguration-crowd-white-house.html
 TAGS: AltFacts
+
+TITLE: You Would Do The Same Thing If An Old Witch Had Your Father’s Soul Trapped In A Lantern
+URL: http://www.theonion.com/blogpost/you-would-do-same-thing-if-old-witch-had-your-fath-55119
+TAGS: Conway Satire
+DESC: Do you actually think I enjoy appearing on television on behalf of a petty and profoundly unstable narcissist to defend his taped admissions of sexual assault?
 
 TITLE: it is a fact of history that nonviolence cannot function without threat of inevitable violence by the oppressed should nonviolent means fail
 URL: https://twitter.com/Synapsid/status/823091721940647936
