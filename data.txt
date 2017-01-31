@@ -26,6 +26,65 @@
 #          ###    ###    ###   #####
 DAY 12: Tuesday 31 January 2017
 
+TITLE: Former Nixon lawyer predicts Trump presidency 'will end in calamity'
+URL: http://www.politico.com/story/2017/01/john-dean-trump-presidency-234422
+TAGS: Commentary
+DESC: “The way the Trump presidency is beginning it is safe to say it will end in calamity,” Dean wrote. “It is almost a certainty. Even Republicans know this!”
+
+TITLE: Republican Paul Ryan caught on camera 'fuming he's 'wasting his f***ing time'' on Donald Trump's Muslim Ban
+URL: http://www.mirror.co.uk/news/world-news/republican-paul-ryan-caught-camera-9729805
+TAGS: TravelBan
+DESC: The House Speaker appeared to have been recorded ranting at aides after a fraught press conference on the chaos that has followed Trump's executive order.
+
+TITLE: i'm the president and i like to draw
+URL: https://twitter.com/trumpdraws
+TAGS: Twitter HaHa
+
+TITLE: Trump’s team is mad people call it a travel ‘ban,’ even though they’ve called it a ‘ban’ too
+URL: https://www.washingtonpost.com/news/the-fix/wp/2017/01/31/trumps-team-is-mad-people-are-calling-the-travel-ban-a-ban-even-though-they-also-called-it-a-ban/
+TAGS: Spicer TravelBan AltFacts
+DESC: “But it can't be ... a ban if you're letting a million people in, if 325,000 people from another country can't come in,” Spicer said. “That, by nature, is not a ban.”
+
+TITLE: How to Build an Autocracy
+URL: https://www.theatlantic.com/magazine/archive/2017/03/how-to-build-an-autocracy/513872/
+TAGS: Commentary
+DESC: What is spreading today is repressive kleptocracy, led by rulers motivated by greed rather than by the deranged idealism of Hitler or Stalin or Mao. Such rulers rely less on terror and more on rule-twisting, the manipulation of information, and the co-optation of elites.
+
+TITLE: Trump scraps signing of cybersecurity executive action
+URL: http://thehill.com/homenews/administration/317165-trump-scraps-signing-of-cybersecurity-executive-action
+TAGS: News Security
+DESC: It was an abrupt about face after the White House spent all day Tuesday plugging its plans to boost the nation's offensive and defensive cyber capabilities. 
+
+TITLE: LGBT worker protection stays under Trump
+URL: http://www.bbc.com/news/world-us-canada-38813135
+TAGS: News
+DESC: But LGBT-rights groups still question Mr Trump's commitment to their cause.
+
+TITLE: Senate panel's vote on Sessions delayed after contentious committee hearing
+URL: http://www.usatoday.com/story/news/2017/01/31/sessions-faces-senate-vote-trump-throws-doj-chaos/97275090/
+TAGS: News
+DESC: “What we saw last night is an example of what is at stake with this nomination”
+
+TITLE: After meeting with pharma lobbyists, Trump drops promise to negotiate drug prices
+URL: http://www.vox.com/policy-and-politics/2017/1/31/14453740/trump-medicare-prescription-drugs
+TAGS: News
+DESC: Instead of getting tough, Trump’s new plan is that he’s “going to be lowering taxes” and “getting rid of regulations.”
+
+TITLE: Trump Calls Drug Pricing ‘Astronomical’ and Promises Changes
+URL: https://www.bloomberg.com/politics/articles/2017-01-31/trump-meets-with-drugmakers-as-industry-fears-price-controls
+TAGS: News
+DESC: Trump has threatened to have the government negotiate prices directly with the industry on behalf of Medicare and Medicaid
+
+TITLE: The 'punch a Nazi' meme: what are the ethics of punching Nazis?
+URL: https://www.theguardian.com/science/brain-flapping/2017/jan/31/the-punch-a-nazi-meme-what-are-the-ethics-of-punching-nazis
+TAGS: Punch Nazi Ethics
+DESC: It’s possible to celebrate a Nazi feeling discomfort while disagreeing with the idea that punching is good.
+
+TITLE: Sources: Nearly 1,000 at State Department Officially Dissent on Immigration Order
+URL: http://www.voanews.com/a/over-a-thousand-state-dept-personnel-officially-dissent-to-immigration-order/3700399.html
+TAGS: News TravelBan
+DESC: “These are extraordinary times,” she added.
+
 TITLE: Democrats boycott confirmation hearings for Price and Mnuchin, blocking votes
 URL: https://www.washingtonpost.com/powerpost/senate-democrats-face-a-key-test-tuesday-amid-promises-to-stand-up-to-trump/2017/01/31/1685487a-e7bd-11e6-b82f-687d6e6a3e7c_story.html
 TAGS: News
@@ -57,6 +116,20 @@ DESC: “But as I used to say to my staff,” he added, “if I can’t rely on 
 #         #   #  #   #    #      #
 #          ###    ###    ###    ###
 DAY 11: Monday 30 January 2017
+
+TITLE: Kellyanne Conway is mad about ‘alternative facts’ blowup
+URL: https://www.washingtonpost.com/blogs/erik-wemple/wp/2017/01/30/kellyanne-conway-is-mad-about-alternative-facts-blowup/
+TAGS: Conway AltFacts
+DESC: Conway represents the man who sent his press secretary out on his second day in office to complain about portrayal of his inaugural crowd size.
+
+TITLE: President Bannon?
+URL: https://www.nytimes.com/2017/01/30/opinion/president-bannon.html
+TAGS: Commentary Bannon
+DESC: But we’ve never witnessed a political aide move as brazenly to consolidate power as Stephen Bannon
+
+TITLE: Sally Yates' house. *Knock at the door.* It's Barack Obama. W/an eye patch. Obama: I'm here to talk to you about the Avengers Initiative.
+URL: https://twitter.com/MikeRUnderwood/status/826267846988677121
+TAGS: HaHa
 
 TITLE: Sean Spicer is right. That five-year-old refugee has diabolical plans.
 URL: https://www.washingtonpost.com/blogs/compost/wp/2017/01/30/sean-spicer-is-right-that-five-year-old-refugee-has-diabolical-plans/
