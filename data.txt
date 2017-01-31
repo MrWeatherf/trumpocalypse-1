@@ -26,7 +26,12 @@
 #          ###    ###    ###   #####
 DAY 12: Tuesday 31 January 2017
 
-TITLE: WHILE TRUMP FIDDLES, PUTIN STEPS UP THE WAR IN UKRAINE
+TITLE: Democrats boycott confirmation hearings for Price and Mnuchin, blocking votes
+URL: https://www.washingtonpost.com/powerpost/senate-democrats-face-a-key-test-tuesday-amid-promises-to-stand-up-to-trump/2017/01/31/1685487a-e7bd-11e6-b82f-687d6e6a3e7c_story.html
+TAGS: News
+DESC: ...four years ago, Republicans boycotted confirmation hearings for Gina McCarthy to serve as former president Barack Obama’s interior secretary
+
+TITLE: While Trump Fiddles, Putin Steps Up The War In Ukraine
 URL: http://www.newsweek.com/while-trump-fiddles-putin-steps-war-ukraine-550603
 TAGS: News Russia
 DESC: Using artillery, tanks and rockets, combined Russian-separatist forces attacked Ukrainian forces along the front lines in eastern Ukraine on Sunday and early Monday morning, highlighting once again that the February 2015 ceasefire has failed.
