@@ -24,7 +24,22 @@
 #         #   #  #   #    #       #
 #         #   #  #   #    #     #
 #          ###    ###    ###   #####
-#DAY 12: Tuesday 31 January 2017
+DAY 12: Tuesday 31 January 2017
+
+TITLE: Parliament to debate Trump state visit after 1.6m sign petition
+URL: https://www.theguardian.com/politics/2017/jan/31/parliament-debate-donald-trump-state-visit-16m-sign-petition
+TAGS: News
+DESC: The petition states: “Donald Trump should be allowed to enter the UK in his capacity as head of the US government, but he should not be invited to make an official state visit because it would cause embarrassment to Her Majesty the Queen.”
+
+TITLE: Jeff Sessions Used To Think Sally Yates Should Ignore Presidential Orders
+URL: http://abovethelaw.com/2017/01/jeff-sessions-used-to-think-sally-yates-should-ignore-presidential-orders/
+TAGS: Commentary Irony
+DESC: Ironically, however, the question came from a deeply concerned Jeff Sessions who really had a bee in his bonnet about how critical it was for the DOJ to be prepared to defy improper directives.
+
+TITLE: Trump’s Falsehoods Make Foreign Leaders Ask: Can We Trust Him?
+URL: https://www.nytimes.com/2017/01/31/us/politics/trump-falsehoods-foreign-leaders-diplomacy.html
+TAGS: News
+DESC: “But as I used to say to my staff,” he added, “if I can’t rely on you to get the small things right, how can I count on you to do so on things that really matter?”
 
 #          ###    ###     #      #
 #         #   #  #   #   ##     ##
@@ -32,6 +47,16 @@
 #         #   #  #   #    #      #
 #          ###    ###    ###    ###
 DAY 11: Monday 30 January 2017
+
+TITLE: The Immigration Ban is a Headfake, and We’re Falling For It
+URL: https://medium.com/@jakefuentes/the-immigration-ban-is-a-headfake-and-were-falling-for-it-b8910e78f0c5#.6026mrn55
+TAGS: Commentary
+DESC: ...the administration is deliberately testing the limits of governmental checks and balances to set up a self-serving, dangerous consolidation of power.
+
+TITLE: Weak and Incompetent Leaders act like Strong Leaders
+URL: https://tompepinsky.com/2017/01/30/weak-and-incompetent-leaders-act-like-strong-leaders/
+TAGS: Commentary
+DESC: ...from the perspective of the outsider, weak leaders often act like strong leaders, and strong leaders often act like they are indifferent.
 
 TITLE: Trump's new acting attorney general will enforce immigration order
 URL: http://www.foxnews.com/politics/2017/01/30/trumps-new-acting-attorney-general-will-enforce-immigration-order.html
@@ -95,9 +120,14 @@ URL: http://www.usatoday.com/story/news/politics/2017/01/30/trumps-executive-act
 TAGS: Commentary
 DESC: Trump's party has control of Congress. He's just impatient.
 
+TITLE: WH tells career US diplomats who oppose Trump to get out
+URL: http://www.cnn.com/2017/01/30/politics/career-diplomats-dissent-memo/
+TAGS: Spicer News TravelBan
+DESC: Asked about a memo signed by dozens of State Department diplomats opposing the temporary ban [...], spokesman Sean Spicer encouraged the federal employees to "either get with the program or they can go."
+
 TITLE: State Department dissent memo: ‘We are better than this ban’
 URL: https://www.washingtonpost.com/news/josh-rogin/wp/2017/01/30/state-department-dissent-memo-we-are-better-than-this-ban/
-TAGS: News
+TAGS: News TravelBan
 DESC: The memo argues that the executive order is poorly conceived and poorly drafted and that its implementation will damage [...] the U.S. fight against terrorism and radicalization both at home and abroad.
 
 TITLE: Just wanted to point out that the White House press secretary now prints and holds up tweets the president has issues with
@@ -167,6 +197,11 @@ TITLE: @ACLU a Muslim family was handing these out to protestors at the DFW prot
 URL: https://twitter.com/samkumpe/status/825879368648028161
 TAGS: Twitter
 DESC: Thank y😀u f😀r Helping!!!
+
+TITLE: 1/WATCH: Extraordinary testimonial by Jared Kushner's grandmother, Holocaust survivor Rae Kushner, about the plight of WWII Jewish refugees.
+URL: https://twitter.com/jodyrosen/status/825619641494016001
+TAGS: Twitter TravelBan
+DESC: “But for the Jews the doors were closed. I never can understand this. Even our good president, Roosevelt, how come he kept the doors so closed to us for such a long time?”
 
 TITLE: A Clarifying Moment in American History
 URL: https://www.theatlantic.com/politics/archive/2017/01/a-clarifying-moment-in-american-history/514868/
@@ -528,6 +563,11 @@ TITLE: At least twice, Sean Spicer has accidentally tweeted the password to his 
 URL: https://boingboing.net/2017/01/26/at-least-twice-sean-spicer-ha.html
 TAGS: Security Spicer
 DESC: It's also a pretty shitty password.
+
+TITLE: West Wing leaker goes dark after pulling back the curtain: Trump "irrational", staff "demoralized"
+URL: http://www.dailykos.com/story/2017/1/26/1625349/-West-Wing-leaker-silenced-after-pulling-back-the-curtain-Trump-irrational-staff-demoralized
+TAGS: Commentary
+DESC: I'm a mid-level White House staffer and I can't believe what I signed up for.
 
 TITLE: Harper's Weekly Review
 URL: http://harpers.org/blog/2017/01/weekly-review-2/
