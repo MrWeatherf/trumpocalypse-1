@@ -26,6 +26,11 @@
 #          ###    ###    ###   #####
 DAY 12: Tuesday 31 January 2017
 
+TITLE: WHILE TRUMP FIDDLES, PUTIN STEPS UP THE WAR IN UKRAINE
+URL: http://www.newsweek.com/while-trump-fiddles-putin-steps-war-ukraine-550603
+TAGS: News Russia
+DESC: Using artillery, tanks and rockets, combined Russian-separatist forces attacked Ukrainian forces along the front lines in eastern Ukraine on Sunday and early Monday morning, highlighting once again that the February 2015 ceasefire has failed.
+
 TITLE: Parliament to debate Trump state visit after 1.6m sign petition
 URL: https://www.theguardian.com/politics/2017/jan/31/parliament-debate-donald-trump-state-visit-16m-sign-petition
 TAGS: UK News
