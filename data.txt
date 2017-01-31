@@ -33,9 +33,15 @@
 #          ###    ###    ###    ###
 DAY 11: Monday 30 January 2017
 
+TITLE: Washington is first state to sue Trump over immigration order
+URL: http://www.chicagotribune.com/news/nationworld/ct-washington-state-lawsuit-trump-travel-ban-20170130-story.html
+TAGS: News Lawsuit
+DESC: Inslee said he learned the hard way over the years "you do not back down to bullies."
+
 TITLE: Shock and alarm at Bannon’s new role
 URL: http://thehill.com/policy/national-security/316999-shock-and-alarm-at-bannons-new-role
 TAGS: News
+DESC: George W. Bush’s close adviser, Karl Rove, was never admitted to NSC meetings, according to his former chief of staff, Josh Bolten. 
 
 TITLE: Steve Bannon Is Making Sure There’s No White House Paper Trail, Says Intel Source
 URL: http://foreignpolicy.com/2017/01/30/steve-bannon-is-making-sure-theres-no-white-house-paper-trail-trump-president/
