@@ -36,6 +36,7 @@ Tags = [
 	'TheWall',
 	'TravelBan',
 	'Twitter',
+	'UK',
 ]
 
 DaysOfTheWeek = [

@@ -444,3 +444,15 @@
 	background-color: #30b4e4;
 	color: White;
 }
+
+.UK { /* RoyalBlue = #4169e1 */
+	border-color: RoyalBlue;
+	background-color: RoyalBlue;
+	color: White;
+}
+.day-table .UK:hover {
+	border-color: #6189ff;
+	background-color: #6189ff;
+	color: White;
+}
+
