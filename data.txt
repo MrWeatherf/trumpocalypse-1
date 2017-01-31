@@ -48,6 +48,11 @@ URL: http://foreignpolicy.com/2017/01/30/steve-bannon-is-making-sure-theres-no-w
 TAGS: Ethics
 DESC: He sees this as a deterioration of transparency and accountability.
 
+TITLE: Trump Insists That Now, More Than Ever, Americans Must Stand Strong In Face Of Empathy
+URL: http://www.theonion.com/article/trump-insists-now-more-ever-americans-must-stand-s-55181
+TAGS: Satire
+DESC: “Now, more than ever, we as a nation must remain steadfast in resisting the urge to understand the feelings and perspectives of others,” said Trump, adding that a rising tide of dangerous empathy could, if unchecked, quickly engulf the country in compassion.
+
 TITLE: AP: Trump's voter fraud expert registered in 3 states
 URL: https://apnews.com/80497cfb5f054c9b8c9e0f8f5ca30a62/AP:-Trump's-voter-fraud-expert-registered-in-3-states
 TAGS: HaHa
