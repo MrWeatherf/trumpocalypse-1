@@ -33,6 +33,10 @@
 #          ###    ###    ###    ###
 DAY 11: Monday 30 January 2017
 
+TITLE: Trump's new acting attorney general will enforce immigration order
+URL: http://www.foxnews.com/politics/2017/01/30/trumps-new-acting-attorney-general-will-enforce-immigration-order.html
+TAGS: News TravelBan
+
 TITLE: Washington is first state to sue Trump over immigration order
 URL: http://www.chicagotribune.com/news/nationworld/ct-washington-state-lawsuit-trump-travel-ban-20170130-story.html
 TAGS: News Lawsuit
@@ -40,12 +44,12 @@ DESC: Inslee said he learned the hard way over the years "you do not back down t
 
 TITLE: Shock and alarm at Bannon’s new role
 URL: http://thehill.com/policy/national-security/316999-shock-and-alarm-at-bannons-new-role
-TAGS: News
+TAGS: News Bannon
 DESC: George W. Bush’s close adviser, Karl Rove, was never admitted to NSC meetings, according to his former chief of staff, Josh Bolten. 
 
 TITLE: Steve Bannon Is Making Sure There’s No White House Paper Trail, Says Intel Source
 URL: http://foreignpolicy.com/2017/01/30/steve-bannon-is-making-sure-theres-no-white-house-paper-trail-trump-president/
-TAGS: Ethics
+TAGS: Ethics Bannon
 DESC: He sees this as a deterioration of transparency and accountability.
 
 TITLE: Trump Insists That Now, More Than Ever, Americans Must Stand Strong In Face Of Empathy
@@ -60,7 +64,7 @@ DESC: Trump has made an issue of people who are registered to vote in more than 
 
 TITLE: Donald Trump's team says 5-year-old boy was 'handcuffed and held' because he was a 'security threat' to the USA
 URL: http://www.mirror.co.uk/news/world-news/donald-trumps-team-says-5-9725070
-TAGS: Misc
+TAGS: Security
 DESC: “To assume that just because of someone’s age and gender that they don’t pose a threat would be misguided and wrong."
 
 TITLE: Statement on the Appointment of Dana Boente as Acting Attorney General
@@ -98,7 +102,7 @@ DESC: The memo argues that the executive order is poorly conceived and poorly dr
 
 TITLE: Just wanted to point out that the White House press secretary now prints and holds up tweets the president has issues with
 URL: https://twitter.com/AndreaWoo/status/826145871511351297
-TAGS: Twitter
+TAGS: Twitter Spicer
 
 TITLE: Trump signs executive order to drastically cut federal regs
 URL: http://www.foxnews.com/politics/2017/01/30/trump-signs-executive-order-to-drastically-cut-federal-regs.html
@@ -139,6 +143,11 @@ DESC: "...we will — as per chief Jim Hopper — punch some people in the face 
 #          ###    ###    ###    ###
 DAY 10: Sunday 29 January 2017
 
+TITLE: It took 3 years for George W. Bush to hit 50% disapproval. Trump is there after 8 days.
+URL: http://www.vox.com/policy-and-politics/2017/1/29/14432250/trump-disapproval-50-percent
+TAGS: Commentary
+DESC: While Trump entered office with record-low approval, he now stands at a dismal 42 percent approval
+
 TITLE: Trump’s Next Immigration Move to Hit Closer to Home for Tech
 URL: https://www.bloomberg.com/news/articles/2017-01-30/trump-s-next-move-on-immigration-to-hit-closer-to-home-for-tech
 TAGS: News
@@ -159,6 +168,11 @@ URL: https://twitter.com/samkumpe/status/825879368648028161
 TAGS: Twitter
 DESC: Thank y😀u f😀r Helping!!!
 
+TITLE: A Clarifying Moment in American History
+URL: https://www.theatlantic.com/politics/archive/2017/01/a-clarifying-moment-in-american-history/514868/
+TAGS: Commentary
+DESC: Precisely because the problem is one of temperament and character, it will not get better.
+
 TITLE: Republicans Begin to Break With President Trump
 URL: http://time.com/4652966/donald-trump-refugee-ban-executive-order-republicans/
 TAGS: News TravelBan
@@ -171,7 +185,7 @@ DESC: Others saw it as a wrecking operation, aimed at debilitating the state dep
 
 TITLE: Kellyanne Conway on President Trump's ambitious agenda
 URL: http://www.foxnews.com/transcript/2017/01/29/kellyanne-conway-on-president-trump-ambitious-agenda-sen-dick-durbin-on/
-TAGS: Commentary TravelBan
+TAGS: Conway Commentary TravelBan
 DESC: You know, I was stopped many times, weren’t you, after 9/11.  I didn't resemble, or share a name with or be part of any kind of terrorist conspiracy, but this is what we do to keep a nation safe.
 
 TITLE: IMPORTANT. Donald Trump filed with @FEC for 2020 reelection on January 20th, 2017. This is major for several reasons. /1
@@ -190,12 +204,12 @@ DESC: We are particularly concerned by reports that this order went into effect 
 
 TITLE: Trump's Immigration Fiasco Might Be More Premeditated Than We Think
 URL: http://www.motherjones.com/kevin-drum/2017/01/trumps-immigration-fiasco-might-be-more-premeditated-we-think
-TAGS: Commentary TravelBan
+TAGS: Commentary TravelBan Bannon
 DESC: In cases like this, the smart money is usually on incompetence, not malice. But this looks more like deliberate malice to me. Bannon wanted turmoil and condemnation.
 
 TITLE: Steve Bannon personally overruled DHS decision not to include green card holders in travel ban: CNN
 URL: http://www.rawstory.com/2017/01/steve-bannon-personally-overruled-dhs-decision-not-to-include-green-card-holders-in-travel-ban-cnn/
-TAGS: News TravelBan
+TAGS: News TravelBan Bannon
 
 TITLE: Only 1 suspect in deadly Quebec mosque shooting, police say
 URL: http://www.cbc.ca/news/canada/montreal/quebec-city-mosque-gun-shots-1.3957686
@@ -227,7 +241,7 @@ DESC: ...it’s also unheard of for government agencies like CBP to prevent peop
 
 TITLE: Spicer defends Bannon role at National Security Council
 URL: http://www.politico.com/story/2017/01/spicer-defends-bannon-role-at-national-security-council-234327
-TAGS: Misc
+TAGS: Spicer Bannon
 DESC: "He's got a tremendous understanding of the world and the geopolitical landscape that we have now," he said.
 
 TITLE: Giuliani: Trump asked me how to do a Muslim ban 'legally'
@@ -262,7 +276,7 @@ DESC: NBC is reporting that the document was not reviewed by DHS, the Justice De
 
 TITLE: Get used to it. @POTUS is a man of action and impact. Promises made, promises kept. Shock to the system. And he's just getting started
 URL: https://twitter.com/KellyannePolls/status/825358733945475073
-TAGS: Twitter
+TAGS: Twitter Conway
 DESC: —Kellyanne Conway
 
 TITLE: Trump says his immigration ban is ‘working out very nicely’
@@ -272,12 +286,12 @@ DESC: Trump denied that the order was meant to target Muslims and cited the scen
 
 TITLE: You nailed it. Period!
 URL: https://twitter.com/seanspicer/status/825565510418968578
-TAGS: Twitter HaHa AltFacts
+TAGS: Twitter HaHa Spicer AltFacts
 DESC: @SeanSpicer's role in the Trump administration will be to provide the American public with robust and clearly articulated misinformation.
 
 TITLE: Trump boots top officials — but includes Steve Bannon — in reshuffled National Security Council
 URL: https://www.rawstory.com/2017/01/trump-boots-top-officials-but-includes-steve-bannon-in-reshuffled-national-security-council/
-TAGS: News
+TAGS: News Bannon
 DESC: Unlike previous presidential administrations, Trump’s Saturday memo specified that the director of national intelligence and the chairman of the Joint Chiefs will only attend principals committee meetings that pertain to their specific “responsibilities and expertise.”
 
 TITLE: PM Trudeau says Canada welcomes refugees
@@ -442,7 +456,7 @@ TAGS: BabyHands
 
 TITLE: Kellyanne Conway: Calling Out Trump's Lies Is "Dangerous To The Democracy"
 URL: http://mediamatters.org/video/2017/01/27/kellyanne-conway-calling-out-trumps-lies-dangerous-democracy/215154
-TAGS: AltFacts
+TAGS: AltFacts Conway
 
 TITLE: This Dutch video on Trump has gone viral because, well, just watch it
 URL: http://mashable.com/2017/01/24/netherlands-trump-viral-video/
@@ -512,7 +526,7 @@ DESC: The US, a standard-bearer of democracy for the world, has become a ‘flaw
 
 TITLE: At least twice, Sean Spicer has accidentally tweeted the password to his official White House spokesman Twitter account
 URL: https://boingboing.net/2017/01/26/at-least-twice-sean-spicer-ha.html
-TAGS: Security
+TAGS: Security Spicer
 DESC: It's also a pretty shitty password.
 
 TITLE: Harper's Weekly Review
@@ -527,7 +541,7 @@ DESC: Don't blame Trump - He did everything he could to prove he was unfit to be
 
 TITLE: Trump Strategist Steve Bannon Says Media Should ‘Keep Its Mouth Shut’
 URL: https://www.nytimes.com/2017/01/26/business/media/stephen-bannon-trump-news-media.html
-TAGS: Misc
+TAGS: Bannon
 DESC: “I want you to quote this,” Mr. Bannon added. “The media here is the opposition party.”
 
 TITLE: While other outlets fact-check Trump, Infowars provides alternative facts
@@ -557,7 +571,7 @@ DESC: It’s not like she made them a pot roast or taught their kids algebra, fo
 
 TITLE: Hey Sean Spicer, what's up with that cryptic tweet?
 URL: http://mashable.com/2017/01/26/sean-spicer-cryptic-tweet/
-TAGS: Security
+TAGS: Security Spicer
 DESC: n9y25ah7
 
 TITLE: A Homebody Finds the Ultimate Home Office
@@ -641,7 +655,7 @@ DESC: Twitter feed called @AltNatParkSer gained about 170,000 followers overnigh
 
 TITLE: Steve Bannon registered to vote in two states despite Trump's cries of 'voter fraud'
 URL: https://www.theguardian.com/us-news/2017/jan/25/steve-bannon-voter-registration-trump-election-voter-fraud
-TAGS: HaHa
+TAGS: HaHa Bannon
 DESC: It is not in itself illegal to be registered to vote in two states.
 
 TITLE: I will be asking for a major investigation into VOTER FRAUD, including those registered to vote in two states, those who are illegal and....
@@ -700,7 +714,7 @@ DESC: Since Trump was inaugurated on Friday, the White House website has already
 
 TITLE: Report: Conway punched a man three times at inaugural ball
 URL: http://thehill.com/blogs/blog-briefing-room/news/315811-conway-allegedly-punched-a-man-three-times-at-inauguration-ball
-TAGS: Punch Punch Punch
+TAGS: Conway Punch Punch Punch
 DESC: ...witnesses saw Conway punch a man in the face at least three times at the exclusive Liberty Ball in Washington just hours after President Trump was sworn in.
 
 TITLE: A Rogue National Park Is Tweeting Out Climate Change Facts in Defiance of Donald Trump
@@ -753,7 +767,7 @@ TAGS: HaHa
 
 TITLE: Spicer digs in on Trump's illegal voting claim, as Ryan distances
 URL: http://www.foxnews.com/politics/2017/01/24/spicer-digs-in-on-trumps-illegal-voting-claim-as-ryan-distances.html
-TAGS: AltFacts
+TAGS: AltFacts Spicer
 DESC: Spicer did not provide hard data to back up the claim
 
 TITLE: Trump bans EPA employees from giving social media updates
@@ -795,7 +809,7 @@ DESC: I don't know any Donald Trump jokes. But you can ask me for a political jo
 
 TITLE: Stop being so mean to US president Trump, his spokesman tells the media in his first real press conference
 URL: https://qz.com/892878/stop-being-so-mean-to-president-trump-spokesman-sean-spicer-tells-the-media-in-his-first-real-press-conference/
-TAGS: News
+TAGS: News Spicer
 DESC: US president Donald Trump is being “demoralized” by the drumbeat of negative press
 
 TITLE: Why Trump's Staff Is Lying
@@ -805,7 +819,7 @@ DESC: One of the most striking features of the early Trump administration has be
 
 TITLE: inside the ball we see a fight between two guys in tuxes and then suddenly out of nowhere came trump adviser Kellyanne Conway
 URL: https://www.facebook.com/charles.gasparino.7/posts/10212183089111108
-TAGS: Punch
+TAGS: Conway Punch
 
 TITLE: Senate confirms Mike Pompeo to lead CIA
 URL: http://www.washingtontimes.com/news/2017/jan/23/mike-pompeo-confirmed-head-trumps-cia-senate/
@@ -828,7 +842,7 @@ DESC: The most immediate hurdle facing the lawsuit [...] whether the group has t
 
 TITLE: as noted by a FB friend, it might not be Obama's inaugural crowd size Trump envies
 URL: https://twitter.com/CheriJacobus/status/823755152406482944
-TAGS: Twitter HaHa BabyHands
+TAGS: Twitter HaHa BabyHands ThanksObama
 
 TITLE: Trump Abandons Trans-Pacific Partnership, Obama’s Signature Trade Deal
 URL: https://www.nytimes.com/2017/01/23/us/politics/tpp-trump-trade-nafta.html
@@ -840,7 +854,7 @@ TAGS: Twitter ILoveWomen
 
 TITLE: @seanspicer they didn't unfollow you.  they just alternately watched you.
 URL: https://twitter.com/scott_springer/status/823629068637786115
-TAGS: Twitter HaHa
+TAGS: Twitter Spicer HaHa
 
 TITLE: I am going to try to explain why there is so much outrage in the intelligence agencies about what Trump did on Saturday in his CIA speech...
 URL: https://twitter.com/kurteichenwald/status/823607638357397505
@@ -859,11 +873,11 @@ DESC: Social media postings sometimes provide an important window into a person�
 
 TITLE: Trump's Press Secretary Refuses to Say What The Unemployment Rate Is
 URL: http://www.vanityfair.com/news/2017/01/sean-spicer-unemployment
-TAGS: AltFacts
+TAGS: Spicer AltFacts
 
 TITLE: Trump's Press Secretary Tries For A Reset, But Goes On To Lament Negative Narrative
 URL: http://www.npr.org/2017/01/23/511289545/trumps-press-secretary-tries-for-a-reset-but-goes-on-to-lament-negative-narrativ
-TAGS: Misc
+TAGS: Spicer
 DESC: Spicer lamented what he called a "constant theme to undercut the tremendous support" that Trump has
 
 TITLE: Trump keeps campaign promise to abandon Trans-Pacific Partnership
@@ -902,7 +916,7 @@ DAY 3: Sunday 22 January 2017
 
 TITLE: Trump’s press secretary has been fighting with Dippin’ Dots for 5 years
 URL: http://www.avclub.com/article/trumps-new-press-secretary-five-year-running-feud--248859
-TAGS: Misc
+TAGS: Spicer
 DESC: Could he get through an entire five minute speech to the press without slipping in an attack on his arch-enemy Dippin’ Dots, The Ice Cream Of The Future?
 
 TITLE: White House Pushes ‘Alternative Facts.’ Here Are the Real Ones.
@@ -925,12 +939,12 @@ DESC: The foreign emoluments clause of the Constitution prohibits Trump from rec
 
 TITLE: Conway: 'Alternative Facts'
 URL: https://www.merriam-webster.com/news-trend-watch/conway-alternative-facts-20170122
-TAGS: AltFacts
+TAGS: Conway AltFacts
 DESC: Lookups for 'fact' spiked after Kellyanne Conway described false statements as 'alternative facts'
 
 TITLE: The traditional way of reporting on a president is dead. And Trump’s press secretary killed it.
 URL: https://www.washingtonpost.com/lifestyle/style/the-traditional-way-of-reporting-on-a-president-is-dead-and-trumps-press-secretary-killed-it/2017/01/22/75403a00-e0bf-11e6-a453-19ec4b3d09ba_story.html
-TAGS: Commentary
+TAGS: Spicer Commentary
 DESC: Anyone — citizen or journalist — who is surprised by false claims from the new inhabitant of the Oval Office hasn’t been paying attention.
 
 TITLE: Chris Wallace Grills Priebus: ‘How Does Arguing About Crowd Size’ Help the American People?
@@ -962,12 +976,12 @@ DESC: Michael Flynn, President Donald Trump's national security adviser, has bee
 
 TITLE: Donald Trump's team defends 'alternative facts' after widespread protests
 URL: https://www.theguardian.com/us-news/2017/jan/22/donald-trump-kellyanne-conway-inauguration-alternative-facts
-TAGS: News AltFacts
+TAGS: News Conway AltFacts
 DESC: Trump’s press secretary, Sean Spicer, used his first White House briefing to shout at journalists
 
 TITLE: Kellyanne Conway: Press secretary Sean Spicer used ‘alternative facts’ about crowd size
 URL: http://www.washingtontimes.com/news/2017/jan/22/kellyanne-conway-press-secretary-sean-spicer-used-/
-TAGS: News AltFacts
+TAGS: News Conway AltFacts
 DESC: Alternative facts? Four of the five facts he uttered were just not true. Look, alternative facts are not facts; they’re falsehoods.
 
 TITLE: Warren Ellis, On Whether Nazis Should Be Punched In The Face, Or Not
@@ -987,7 +1001,7 @@ DESC: For those Nazi-hating schadenfreude lovers, you now have your very own ant
 
 TITLE: Conway: Trump isn't going to release tax returns
 URL: http://thehill.com/homenews/administration/315530-conway-trump-isnt-going-to-release-tax-returns
-TAGS: News
+TAGS: News Conway
 DESC: Conway said during the interview Sunday that the public knows Trump and his family are complying with all the ethical rules regarding the president's business empire.
 
 TITLE: Watched protests yesterday but was under the impression that we just had an election! Why didn't these people vote? Celebs hurt cause badly.

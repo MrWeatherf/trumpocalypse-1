@@ -166,6 +166,19 @@
 	color: Black;
 }
 
+.Bannon {
+	border-color: Black;
+	border-left: none;
+	border-right: none;
+	background-color: #e0e0e0;
+	color: Black;
+}
+.day-table .Bannon:hover {
+	border-color: Black;
+	background-color: #d0d0d0;
+	color: Black;
+}
+
 .Canada {
 	border-color: #f00;
 	background: repeating-linear-gradient(90deg, #fcc, #fcc 30px, #fff 30px, #fff 60px, #fcc 60px, #fcc 90px);
@@ -185,6 +198,17 @@
 .day-table .Commentary:hover {
 	border-color: #5cd391;
 	background-color: #5cd391;
+	color: White;
+}
+
+.Conway { /* Plum = #dda0dd */
+	border-color: Plum;
+	background-color: Plum;
+	color: White;
+}
+.day-table .Conway:hover {
+	border-color: #bd80bd;
+	background-color: #bd80bd;
 	color: White;
 }
 
@@ -364,6 +388,17 @@
 	border-color: #20eaba;
 	background-color: #20eaba;
 	color: Black;
+}
+
+.Spicer { /* Tomato = #ff6347 */
+	border-color: Tomato;
+	background-color: Tomato;
+	color: White;
+}
+.day-table .Spicer:hover {
+	border-color: #df5337;
+	background-color: #df5337;
+	color: White;
 }
 
 .ThanksObama { /* Chocolate = #d2691e */
