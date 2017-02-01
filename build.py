@@ -8,37 +8,56 @@ import sys
 
 from sets import Set
 
-Tags = [
-	'AltFacts',
-	'BabyHands',
-	'Bannon',
-	'Canada',
-	'Commentary',
-	'Conway',
-	'Ethics',
-	'GloriousLeader',
-	'HaHa',
-	'Hate',
-	'ILoveWomen',
-	'Irony',
-	'Lawsuit',
-	'Mexico',
-	'Misc',
-	'Nazi',
-	'News',
-	'Punch',
-	'Russia',
-	'Satire',
-	'SCOTUS',
-	'Security',
-	'Science',
-	'Spicer',
-	'ThanksObama',
-	'TheWall',
-	'TravelBan',
-	'Twitter',
-	'UK',
+TagGroups = [
+	['Protagonist/Antagonist', [
+		'GloriousLeader',
+		]],
+	['Actors', [
+		'Bannon',
+		'Conway',
+		'Spicer',
+		'ThanksObama',
+		]],
+	['Country', [
+		'Canada',
+		'Mexico',
+		'Russia',
+		'UK',
+		]],
+	['Topics', [
+		'AltFacts',
+		'BabyHands',
+		'Ethics',
+		'ILoveWomen',
+		'Lawsuit',
+		'Nazi',
+		'Punch',
+		'SCOTUS',
+		'Security',
+		'Science',
+		'TheWall',
+		'TravelBan',
+		]],
+	['Category', [
+		'Commentary',
+		'Misc',
+		'News',
+		'Satire',
+		'Twitter',
+		]],
+	['Editorial', [
+		'HaHa',
+		'Hate',
+		'Irony',
+		]],
 ]
+
+# Build list of Tags from entries in TagGroups.
+Tags = []
+for tg in TagGroups:
+	(group, taglist) = tg
+	for t in taglist:
+		Tags.append(t)
 
 DaysOfTheWeek = [
 	'Sunday',
