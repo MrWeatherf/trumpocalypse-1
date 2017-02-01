@@ -71,6 +71,10 @@ URL: http://www.foxnews.com/politics/2017/01/31/trump-names-judge-gorsuch-as-sup
 TAGS: News SCOTUS
 DESC: Like Scalia, he is an originalist who believes judges should follow the text and original meaning of the Constitution.
 
+TITLE: Getting ready to deliver a VERY IMPORTANT DECISION!  8:00 P.M.
+URL: https://twitter.com/realDonaldTrump/status/826588658304217088
+TAGS: Twitter GloriousLeader
+
 TITLE: Former Nixon lawyer predicts Trump presidency 'will end in calamity'
 URL: http://www.politico.com/story/2017/01/john-dean-trump-presidency-234422
 TAGS: Commentary
