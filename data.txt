@@ -19,6 +19,11 @@
 #          ###    ###    ###   ####
 DAY 13: Wednesday 1 February 2017
 
+TITLE: Two GOP senators to vote 'no' on Betsy DeVos
+URL: http://thehill.com/homenews/senate/317379-gop-senator-to-vote-no-on-betsy-devos
+TAGS: News
+DESC: They are the first two Republicans to break with Trump on any of his Cabinet picks, and the votes could make it difficult for DeVos to win confirmation.
+
 TITLE: The honeymoon is over: Wall Street is finally taking Trump literally
 URL: http://www.marketwatch.com/story/the-honeymoon-is-over-wall-street-is-finally-taking-trump-literally-2017-02-01
 TAGS: Commentary
