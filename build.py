@@ -29,6 +29,7 @@ Tags = [
 	'Punch',
 	'Russia',
 	'Satire',
+	'SCOTUS',
 	'Security',
 	'Science',
 	'Spicer',
