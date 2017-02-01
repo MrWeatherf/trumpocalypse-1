@@ -17,7 +17,27 @@
 #         #   #  #   #    #      ##
 #         #   #  #   #    #        #
 #          ###    ###    ###   ####
-#DAY 13: Wednesday 1 February 2017
+DAY 13: Wednesday 1 February 2017
+
+TITLE: The honeymoon is over: Wall Street is finally taking Trump literally
+URL: http://www.marketwatch.com/story/the-honeymoon-is-over-wall-street-is-finally-taking-trump-literally-2017-02-01
+TAGS: Commentary
+DESC: “It’s amateur hour,” said Joe Brusuelas, chief economist at management consultancy RSM US. “Euro grossly overvalued? Repatriation of U.S. supply chain? That way lies perdition. Pun intended.”
+
+TITLE: Donald Trump and Steve Bannon's coup in the making
+URL: http://www.cnn.com/2017/02/01/opinions/bannon-trump-coup-opinion-ben-ghiat/index.html
+TAGS: Commentary Bannon
+DESC: Trump gained power legally but this week has provided many indications that his inner circle intends to shock or strike at the system, using the resulting spaces of chaos and flux to create a kind of government within the government: one beholden only to the chief executive.
+
+TITLE: Republicans change rules so Democrats cannot block controversial Trump Cabinet picks
+URL: http://www.independent.co.uk/news/world/americas/donald-trump-cabinet-picks-republicans-change-rules-democrats-a7557391.html
+TAGS: News
+DESC: The Senate Finance Committee approved Georgia GOP Rep Tom Price to become Health secretary and financier Steve Mnuchin to be Treasury secretary by a pair of 14-0 votes.
+
+TITLE: President Trump named in more than 50 federal lawsuits since taking office
+URL: http://www.nydailynews.com/news/politics/president-trump-named-50-lawsuits-office-article-1.2961180
+TAGS: Lawsuit
+DESC: By comparison, former President Barack Obama was named in 11 federal suits during his first 11 days in office
 
 #          ###    ###     #     ###
 #         #   #  #   #   ##    #   #
@@ -25,6 +45,11 @@
 #         #   #  #   #    #     #
 #          ###    ###    ###   #####
 DAY 12: Tuesday 31 January 2017
+
+TITLE: Who Is Neil Gorsuch, Trump's First Pick For The Supreme Court?
+URL: http://www.npr.org/2017/01/31/511850519/who-is-neil-gorsuch-trumps-first-pick-for-the-supreme-court
+TAGS: News SCOTUS
+DESC: Gorsuch sided in favor of "religious freedom" claims made by the Little Sisters of the Poor and the owners of the craft company Hobby Lobby, who challenged language in the Affordable Care Act that required them to pay for contraceptive coverage for employees.
 
 TITLE: Administration Orders Easement For Construction Of Dakota Access Pipeline
 URL: http://www.npr.org/sections/thetwo-way/2017/01/31/512763500/administration-orders-easement-for-construction-of-dakota-access-pipeline
@@ -43,7 +68,7 @@ DESC: But, he added "I'm not going to sit around and engage with people who have
 
 TITLE: Trump nominates Judge Gorsuch to Supreme Court
 URL: http://www.foxnews.com/politics/2017/01/31/trump-names-judge-gorsuch-as-supreme-court-choice.html
-TAGS: News
+TAGS: News SCOTUS
 DESC: Like Scalia, he is an originalist who believes judges should follow the text and original meaning of the Constitution.
 
 TITLE: Former Nixon lawyer predicts Trump presidency 'will end in calamity'
