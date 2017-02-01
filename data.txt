@@ -80,10 +80,9 @@ URL: http://www.politico.com/story/2017/01/john-dean-trump-presidency-234422
 TAGS: Commentary
 DESC: “The way the Trump presidency is beginning it is safe to say it will end in calamity,” Dean wrote. “It is almost a certainty. Even Republicans know this!”
 
-TITLE: Republican Paul Ryan caught on camera 'fuming he's 'wasting his f***ing time'' on Donald Trump's Muslim Ban
-URL: http://www.mirror.co.uk/news/world-news/republican-paul-ryan-caught-camera-9729805
-TAGS: TravelBan
-DESC: The House Speaker appeared to have been recorded ranting at aides after a fraught press conference on the chaos that has followed Trump's executive order.
+TITLE: No, Paul Ryan Was Not Caught by a Hot Mic Saying ‘Waste of My F*cking Time’
+URL: http://www.mediaite.com/online/no-paul-ryan-was-not-caught-by-a-hot-mic-saying-waste-of-my-fcking-time/
+TAGS: Misc
 
 TITLE: i'm the president and i like to draw
 URL: https://twitter.com/trumpdraws
