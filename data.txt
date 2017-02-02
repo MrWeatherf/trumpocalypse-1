@@ -13,6 +13,16 @@
 #          ###    ###    ###      #
 DAY 14: Thursday 2 February 2017
 
+TITLE: Donald Trump loosens sanctions preventing Russia intelligence agencies from cyberspying
+URL: http://www.independent.co.uk/news/world/americas/donald-trump-loosens-sanctions-russia-prevent-intelligence-agencies-cyberspying-hacking-a7559871.html
+TAGS: News Russia
+DESC: The FSB was the only Russian intelligence entity named in the amendment announced Thursday, leaving much of the emergency action taken by Mr Obama intact.
+
+TITLE: Press Secretary Sean Spicer Falsely Accuses Iran of Attacking U.S. Navy Vessel, an Act of War
+URL: https://theintercept.com/2017/02/02/press-secretary-sean-spicer-falsely-accuses-iran-of-attacking-u-s-navy-vessel-an-act-of-war/
+TAGS: Spicer News AltFacts
+DESC: “Iran has violated the Joint Resolution, that Iran’s additional hostile actions that it took against our Navy vessel are ones that we are very clear are not going to sit by and take”
+
 TITLE: When Villains Aren’t Super
 URL: https://medium.com/@yonatanzunger/when-villains-arent-super-f5646d81db6#.fl1nxwaz8
 TAGS: Commentary
