@@ -45,7 +45,7 @@ TAGS: Twitter HaHa
 
 TITLE: Do Donald Trump and Sean Spicer know who Frederick Douglass is? It’s not really clear.
 URL: http://www.vox.com/identities/2017/2/1/14476676/trump-spicer-frederick-douglass
-TAGS: Commentary
+TAGS: Commentary Spicer
 DESC: Douglass has been dead for more than 120 years.
 
 TITLE: Rex Tillerson Is Confirmed as Secretary of State Amid Record Opposition
