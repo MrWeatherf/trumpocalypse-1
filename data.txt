@@ -13,6 +13,16 @@
 #          ###    ###    ###      #
 DAY 14: Thursday 2 February 2017
 
+TITLE: Shouting match over Russia erupts at House hearing
+URL: http://thehill.com/policy/national-security/317553-oversight-heads-spar-over-russia-investigationhttp://thehill.com/policy/national-security/317553-oversight-heads-spar-over-russia-investigation
+TAGS: News Russia
+DESC: “It’s clear that politics have prevented this committee from being willing or able to do the necessary objective and nonpartisan oversight on the Russian attack”
+
+TITLE: Why Trump’s National Prayer Breakfast speech matters
+URL: http://www.msnbc.com/rachel-maddow-show/why-trumps-national-prayer-breakfast-speech-matters
+TAGS: Commentary
+DESC: Yes, the president used the National Prayer Breakfast to talk about television ratings for a reality show – which he remains the executive producer of – because everything at all times is about him and his career.
+
 TITLE: Donald Trump loosens sanctions preventing Russia intelligence agencies from cyberspying
 URL: http://www.independent.co.uk/news/world/americas/donald-trump-loosens-sanctions-russia-prevent-intelligence-agencies-cyberspying-hacking-a7559871.html
 TAGS: News Russia
@@ -76,6 +86,11 @@ TITLE: House Republicans Vote to End Rule Stopping Coal Mining Debris From Being
 URL: http://time.com/4657438/congressional-republicans-environmental-regulations-coal-streams/
 TAGS: News
 DESC: Rep. John Yarmuth, D-Ky., displayed a bottle of brownish water he said came from a constituent's well near a surface coal mine. He challenged lawmakers to drink from it and said the stream rule was one of the only safety measures protecting people in coal country.
+
+TITLE: Trump's Company Loses Lawsuit Filed By Golf Club Members
+URL: http://www.npr.org/sections/thetwo-way/2017/02/01/512928851/trumps-company-loses-lawsuit-filed-by-golf-club-members
+TAGS: News Lawsuit
+DESC: That meant Trump could hang on to tens of millions of dollars in deposits, helping turn around the club's finances. Although Trump lost in court, his hardball business tactics were effective.
 
 TITLE: Israel to build first new West Bank settlement since 1990s
 URL: http://www.reuters.com/article/us-israel-palestinians-outpost-idUSKBN15G3WO
@@ -200,6 +215,11 @@ URL: https://www.theguardian.com/environment/2017/jan/31/public-lands-sell-congr
 TAGS: News
 DESC: Due to a controversial change this month to the House of Representatives’ rules, the sale does not have to make money for the federal government.
 
+TITLE: Trump Versus Everyone
+URL: http://www.slate.com/articles/news_and_politics/jurisprudence/2017/02/a_comprehensive_guide_to_the_lawsuits_against_trump_s_executive_order.html
+TAGS: Lawsuit
+DESC: A comprehensive guide to the lawsuits against the president’s executive order.
+
 TITLE: Who Is Neil Gorsuch, Trump's First Pick For The Supreme Court?
 URL: http://www.npr.org/2017/01/31/511850519/who-is-neil-gorsuch-trumps-first-pick-for-the-supreme-court
 TAGS: News SCOTUS
@@ -318,6 +338,11 @@ DESC: “But as I used to say to my staff,” he added, “if I can’t rely on 
 #         #   #  #   #    #      #
 #          ###    ###    ###    ###
 DAY 11: Monday 30 January 2017
+
+TITLE: Iran tests ballistic missile in defiance of UN resolution, US officials say
+URL: http://www.foxnews.com/world/2017/01/30/iran-conducts-ballistic-missile-test-us-officials-say.html
+TAGS: News
+DESC: The Khorramshahr medium-range ballistic missile flew 600 miles before exploding, in a failed test of a reentry vehicle
 
 TITLE: Kellyanne Conway is mad about ‘alternative facts’ blowup
 URL: https://www.washingtonpost.com/blogs/erik-wemple/wp/2017/01/30/kellyanne-conway-is-mad-about-alternative-facts-blowup/
