@@ -19,6 +19,16 @@
 #          ###    ###    ###   ####
 DAY 13: Wednesday 1 February 2017
 
+TITLE: Leaked Draft of Trump’s Religious Freedom Order Reveals Sweeping Plans to Legalize Discrimination
+URL: https://www.thenation.com/article/leaked-draft-of-trumps-religious-freedom-order-reveals-sweeping-plans-to-legalize-discrimination/
+TAGS: News
+DESC:  The draft order seeks to create wholesale exemptions for people and organizations who claim religious or moral objections to same-sex marriage, premarital sex, abortion, and trans identity, and it seeks to curtail women’s access to contraception and abortion through the Affordable Care Act.
+
+TITLE: Former CIA director Petraeus warns that the current international order could 'fray' and 'collapse'
+URL: http://www.businessinsider.com/petraeus-world-order-collapse-trump-2017-2
+TAGS: News
+DESC: "It did not will itself into existence. We created it. Likewise, it is not naturally self-sustaining. We have sustained it. If we stop doing so, it will fray and, eventually, collapse."
+
 TITLE: On the same day Rex Tillerson is confirmed, the House votes to kill a transparency rule for oil companies
 URL: http://www.vox.com/2017/2/1/14477314/oil-companies-disclosure-rule-tillerson
 TAGS: News Ethics
