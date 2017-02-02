@@ -22,7 +22,7 @@ DAY 13: Wednesday 1 February 2017
 TITLE: Leaked Draft of Trump’s Religious Freedom Order Reveals Sweeping Plans to Legalize Discrimination
 URL: https://www.thenation.com/article/leaked-draft-of-trumps-religious-freedom-order-reveals-sweeping-plans-to-legalize-discrimination/
 TAGS: News
-DESC:  The draft order seeks to create wholesale exemptions for people and organizations who claim religious or moral objections to same-sex marriage, premarital sex, abortion, and trans identity, and it seeks to curtail women’s access to contraception and abortion through the Affordable Care Act.
+DESC: The draft order seeks to create wholesale exemptions for people and organizations who claim religious or moral objections to same-sex marriage, premarital sex, abortion, and trans identity, and it seeks to curtail women’s access to contraception and abortion through the Affordable Care Act.
 
 TITLE: Former CIA director Petraeus warns that the current international order could 'fray' and 'collapse'
 URL: http://www.businessinsider.com/petraeus-world-order-collapse-trump-2017-2
@@ -38,6 +38,15 @@ TITLE: State Rep. Fukumoto wants to leave Hawaii GOP
 URL: http://www.staradvertiser.com/2017/02/01/breaking-news/hawaii-rep-beth-fukumoto-leaving-the-republican-party/
 TAGS: News
 DESC: I’ve been asked by both my party and my caucus to commit to not criticizing the president for the remainder of his term and to take a more partisan approach to working in the Legislature. That is not a commitment I can make.
+
+TITLE: We go now, live, to Frederick Douglass to get his reaction. Frederick, you're being recognized more and more by people. What's your secret?
+URL: https://twitter.com/MikeBatesSBN/status/826815940356620290
+TAGS: Twitter HaHa
+
+TITLE: Do Donald Trump and Sean Spicer know who Frederick Douglass is? It’s not really clear.
+URL: http://www.vox.com/identities/2017/2/1/14476676/trump-spicer-frederick-douglass
+TAGS: Commentary
+DESC: Douglass has been dead for more than 120 years.
 
 TITLE: Rex Tillerson Is Confirmed as Secretary of State Amid Record Opposition
 URL: https://www.nytimes.com/2017/02/01/us/politics/rex-tillerson-secretary-of-state-confirmed.html
