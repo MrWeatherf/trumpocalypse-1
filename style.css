@@ -390,6 +390,17 @@
 	color: Black;
 }
 
+.SCOTUS {
+	border-color: #fcf;
+	background: repeating-linear-gradient(0deg, #fef 0%, #fcf 50%, #fef 100%);
+	color: Black;
+}
+.day-table .SCOTUS:hover {
+	border-color: #fcf;
+	background: repeating-linear-gradient(0deg, #ede 0%, #eae 50%, #ede 100%);
+	color: Black;
+}
+
 .Spicer { /* Tomato = #ff6347 */
 	border-color: Tomato;
 	background-color: Tomato;
@@ -447,12 +458,28 @@
 
 .UK { /* RoyalBlue = #4169e1 */
 	border-color: RoyalBlue;
-	background-color: RoyalBlue;
-	color: White;
+	background:
+		/* Red horizontal */
+		repeating-linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 40%, #fcc 40%, #fcc 60%, rgba(0,0,0,0) 60%, rgba(0,0,0,0) 100%),
+		/* White Red White vertical */
+		repeating-linear-gradient(90deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 35%, White 35%, #fcc 40%, #fcc 60%, White 65%, rgba(0,0,0,0) 65%, rgba(0,0,0,0) 100%),
+		/* White horizontal */
+		repeating-linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 35%, White 35%, White 65%, rgba(0,0,0,0) 65%, rgba(0,0,0,0) 100%),
+		/* White Red White diagonal */
+		repeating-linear-gradient(10deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 44%, White 44%, White 48%, #fcc 48%, #fcc 52%, White 52%, White 56%, rgba(0,0,0,0) 56%, rgba(0,0,0,0) 100%),
+		repeating-linear-gradient(-10deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 44%, White 44%, White 48%, #fcc 48%, #fcc 52%, White 52%, White 56%, rgba(0,0,0,0) 56%, rgba(0,0,0,0) 100%),
+		#ccf;
+	color: Black;
 }
 .day-table .UK:hover {
 	border-color: #6189ff;
-	background-color: #6189ff;
-	color: White;
+	background:
+		repeating-linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 40%, #eaa 40%, #eaa 60%, rgba(0,0,0,0) 60%, rgba(0,0,0,0) 100%),
+		repeating-linear-gradient(90deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 35%, #eee 35%, #eaa 40%, #eaa 60%, #eee 65%, rgba(0,0,0,0) 65%, rgba(0,0,0,0) 100%),
+		repeating-linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 35%, #eee 35%, #eee 65%, rgba(0,0,0,0) 65%, rgba(0,0,0,0) 100%),
+		repeating-linear-gradient(10deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 44%, #eee 44%, #eee 48%, #eaa 48%, #eaa 52%, #eee 52%, #eee 56%, rgba(0,0,0,0) 56%, rgba(0,0,0,0) 100%),
+		repeating-linear-gradient(-10deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 44%, #eee 44%, #eee 48%, #eaa 48%, #eaa 52%, #eee 52%, #eee 56%, rgba(0,0,0,0) 56%, rgba(0,0,0,0) 100%),
+		#aae;
+	color: Black;
 }
 
