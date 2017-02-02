@@ -10,7 +10,12 @@
 #         #   #  #   #    #     # #
 #         #   #  #   #    #    #####
 #          ###    ###    ###      #
-#DAY 14: Thursday 2 February 2017
+DAY 14: Thursday 2 February 2017
+
+TITLE: U.S.-Australia Rift Is Possible After Trump Ends Call With Prime Minister
+URL: https://www.nytimes.com/2017/02/02/us/politics/us-australia-trump-turnbull.html
+TAGS: News
+DESC: The flare-up — and conflicting characterizations of the call from Mr. Trump and Mr. Turnbull — threatened to do lasting damage to relations between the two countries and could drive Canberra closer to China
 
 #          ###    ###     #    #####
 #         #   #  #   #   ##       #
