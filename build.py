@@ -170,24 +170,25 @@ class Parser():
 			self.in_entry = True
 			return
 			
-		m = re.match(r'^URL: (?P<url>.+)$', line)
-		if m:
-			self.url = m.group('url')
-			return
+		if self.in_entry:
+			m = re.match(r'^URL: (?P<url>.+)$', line)
+			if m:
+				self.url = m.group('url')
+				return
 
-		m = re.match(r'^TAGS: (?P<tags>.+)$', line)
-		if m:
-			tags = m.group('tags').split(' ')
-			for t in tags:
-				if not t in self.tagFiles:
-					error('Invalid tag: %s' % t)
-			self.tags = tags
-			return
+			m = re.match(r'^TAGS: (?P<tags>.+)$', line)
+			if m:
+				tags = m.group('tags').split(' ')
+				for t in tags:
+					if not t in self.tagFiles:
+						error('Invalid tag: %s' % t)
+				self.tags = tags
+				return
 
-		m = re.match(r'^DESC: (?P<desc>.+)$', line)
-		if m:
-			self.desc = m.group('desc')
-			return
+			m = re.match(r'^DESC: (?P<desc>.+)$', line)
+			if m:
+				self.desc = m.group('desc')
+				return
 
 		error('Unrecognized line: %s' % line)
 					
