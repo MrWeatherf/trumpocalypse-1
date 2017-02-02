@@ -122,7 +122,7 @@ DESC: Like other banned abusive subreddits (r/fatpeoplehate and r/pizzagate to n
 
 TITLE: The White House tells me POTUS did not threaten to invade Mexico.
 URL: https://twitter.com/AndrewBeatty/status/826939895134507008
-TAGS: Twitter Mexico
+TAGS: Twitter Mexico AltFacts
 
 TITLE: US Threatens To Invade Mexico. No, Really
 URL: http://www.theamericanconservative.com/dreher/us-threatens-to-invade-mexico-no-really/
