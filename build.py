@@ -171,7 +171,7 @@ class Parser():
 		if m:
 			self.title = m.group('title')
 			if self.title[0:4] == 'http':
-				error('Invalid desc: %s' % self.title)
+				error('Invalid title: %s' % self.title)
 			self.in_entry = True
 			return
 			
