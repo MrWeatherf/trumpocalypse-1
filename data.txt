@@ -5,6 +5,25 @@
 #          ###    ###    ###   ####
 DAY 15: Friday 3 February 2017
 
+TITLE: How do we change our profile pictures to support the victims of the #BowlingGreenMassacre?
+URL: https://twitter.com/nycjayjay/status/827555331395960832
+TAGS: Twitter HaHa AltFacts
+
+TITLE: Trump administration imposes new sanctions on Iran over missile tests
+URL: http://www.foxnews.com/politics/2017/02/03/us-hits-13-people-dozen-companies-in-new-iran-sanctions.html
+TAGS: MiddleEast News
+DESC: The sanctions, coming in the first weeks of Trump's term, reflect his administration's desire to take a strong stance toward Iran from the start. 
+
+TITLE: Trump To Take Aim At Dodd-Frank, Investor Protections Rule In Executive Action
+URL: http://www.npr.org/2017/02/03/513224023/trump-to-take-aim-at-dodd-frank-investor-protections-rule-in-executive-action
+TAGS: News Ethics
+DESC: A second directive would call on the Department of Labor to defer implementation of an Obama-era rule, known as the Fiduciary Rule, requiring financial advisers to act in the best interests of their clients in retirement planning.
+
+TITLE: Big Boy. #PresidentBannon
+URL: https://twitter.com/PiaGuerra/status/825894457396514816
+TAGS: Twitter HaHa
+DESC: "That's it, who's a big boy now?" "I'm a big boy!"
+
 TITLE: Kellyanne Conway made up a fake terrorist attack to justify Trump’s “Muslim ban”
 URL: http://www.vox.com/world/2017/2/2/14494478/bowling-green-massacre
 TAGS: Conway AltFacts
