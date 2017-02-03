@@ -13,6 +13,36 @@
 #          ###    ###    ###      #
 DAY 14: Thursday 2 February 2017
 
+TITLE: After a massive backlash, a Republican yanks his bill to sell off public lands
+URL: http://www.vox.com/energy-and-environment/2017/2/2/14479462/chaffetz-public-lands-backlash
+TAGS: News
+DESC: But this week, Chaffetz decided to yank the bill after a fierce backlash from hunters, sportsmen and women, and conservationists on both the left and the right. Privatizing public land, it turns out, is a lot harder than it sounds.
+
+TITLE: McCain Steps In to Ease Tension With Australia Over Trump Insult
+URL: https://www.nytimes.com/2017/02/02/us/politics/trump-congress-tax-code.html
+TAGS: News
+DESC: “In short, Australia is one of America’s oldest friends and staunchest allies. We are united by ties of family and friendship, mutual interests and common values, and shared sacrifice in wartime.”
+
+TITLE: Trump vows to ‘totally destroy’ restrictions on churches’ support of candidates
+URL: https://www.washingtonpost.com/politics/trump-vows-to-totally-destroy-restrictions-on-churches-support-of-candidates/2017/02/02/fed9bad2-e981-11e6-bf6f-301b6b443624_story.html
+TAGS: News
+DESC: Trump said he would seek to overturn the Johnson Amendment, which prohibits tax-exempt nonprofits — including churches and other houses of worship — from “directly or indirectly” participating in a political candidate’s campaign.
+
+TITLE: Google, Apple, Facebook and Microsoft draft a joint letter opposing Trump’s travel ban
+URL: http://www.recode.net/2017/2/1/14480988/google-apple-facebook-joint-letter-opposing-trump-travel-ban
+TAGS: News
+DESC: Our nation’s compassion is a part of what makes it exceptional, and we are committed to helping your administration identify approaches for thorough screening without a blanket suspension of admissions under the U.S. Refugee Admissions program.
+
+TITLE: Trump picks up the phone, sets off diplomatic chaos
+URL: http://www.politico.com/story/2017/02/trump-foreign-policy-rhetoric-iran-australia-mexico-234531
+TAGS: Commentary
+DESC: Donald Trump is sowing diplomatic chaos around the world just two weeks into his presidency, as he feuds with world leaders and defends an unpredictable style that has alarmed friends and foes alike.
+
+TITLE: Donald Trump administration 'wants to cut white supremacism from counter-extremism programme'
+URL: http://www.independent.co.uk/news/world/americas/donald-trump-cut-white-supremacism-countering-violent-extremism-programme-neo-nazi-counter-extremism-a7558796.html
+TAGS: News
+DESC: Donald Trump’s administration is reportedly pushing to erase neo-Nazis and white supremacists from the US government’s counter-extremism programme by moving it to focus exclusively on Islamist terrorism.
+
 TITLE: Trump Executive Order Generator
 URL: http://hepwori.github.io/execorder/
 TAGS: HaHa
