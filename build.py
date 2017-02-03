@@ -167,6 +167,8 @@ class Parser():
 		m = re.match(r'^TITLE: (?P<title>.+)$', line)
 		if m:
 			self.title = m.group('title')
+			if self.title[0:4] == 'http':
+				error('Invalid desc: %s' % self.title)
 			self.in_entry = True
 			return
 			
@@ -174,6 +176,8 @@ class Parser():
 			m = re.match(r'^URL: (?P<url>.+)$', line)
 			if m:
 				self.url = m.group('url')
+				if self.url[0:4] != 'http':
+					error('Invalid url: %s' % self.url)
 				return
 
 			m = re.match(r'^TAGS: (?P<tags>.+)$', line)
