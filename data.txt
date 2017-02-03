@@ -5,6 +5,16 @@
 #          ###    ###    ###   ####
 DAY 15: Friday 3 February 2017
 
+TITLE: State Dept. says about 60,000 visas revoked due to travel ban; Justice Dept. atty says 100,000
+URL: https://www.washingtonpost.com/local/public-safety/government-reveals-over-100000-visas-revoked-due-to-travel-ban/2017/02/03/7d529eec-ea2c-11e6-b82f-687d6e6a3e7c_story.html
+TAGS: Lawsuit TravelBan
+DESC: “It’s quite clear that not all the thought went into it that should have gone into it”
+ 
+TITLE: Why the Bowling Green Nonmassacre Is a Favorite Example of Refugee Opponents
+URL: http://www.slate.com/blogs/the_slatest/2017/02/03/why_the_bowling_green_non_massacre_is_a_favorite_example_of_refugee_opponents.html
+TAGS: Commentary Conway
+DESC: The Bowling Green case is the best known example of refugees who should not have been admitted to the United States slipping through the cracks, though there have been numerous changes to the refugee vetting system since then.
+
 TITLE: Fearful Americans Stockpiling Facts Before Federal Government Comes To Take Them Away
 URL: http://www.theonion.com/article/fearful-americans-stockpiling-facts-federal-govern-55219
 TAGS: Satire
@@ -153,6 +163,11 @@ DESC: He’s also a flamboyant provocateur who has been denounced for propagatin
 TITLE: If U.C. Berkeley does not allow free speech and practices violence on innocent people with a different point of view - NO FEDERAL FUNDS?
 URL: https://twitter.com/realDonaldTrump/status/827112633224544256
 TAGS: Twitter GloriousLeader
+
+TITLE: Chaos erupts, protesters shut down Yiannopolous events, banks in downtown vandalized
+URL: http://www.berkeleyside.com/2017/02/02/chaos-erupts-protesters-shut-yiannopolous-events-banks-downtown-vandalized/
+TAGS: News
+DESC: Around 5:50 p.m., about 150 men and women in black clothing marched towards the plaza. Many were carrying heavy sticks with black and Communist-themed flags, their faces obscured with bandana masks and hats pulled low on their foreheads.
 
 TITLE: US military officials: Trump-ordered raid in Yemen that killed US Navy SEAL was approved 'without sufficient intelligence'
 URL: http://www.businessinsider.com/us-military-officials-trump-ordered-raid-in-yemen-that-killed-us-navy-seal-was-approved-without-sufficient-intelligence-2017-2
