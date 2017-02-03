@@ -13,8 +13,13 @@
 #          ###    ###    ###      #
 DAY 14: Thursday 2 February 2017
 
+TITLE: Trump Executive Order Generator
+URL: http://hepwori.github.io/execorder/
+TAGS: HaHa
+DESC: Click me. Edit me. Make me horrifying.
+
 TITLE: Shouting match over Russia erupts at House hearing
-URL: http://thehill.com/policy/national-security/317553-oversight-heads-spar-over-russia-investigationhttp://thehill.com/policy/national-security/317553-oversight-heads-spar-over-russia-investigation
+URL: http://thehill.com/policy/national-security/317553-oversight-heads-spar-over-russia-investigation
 TAGS: News Russia
 DESC: “It’s clear that politics have prevented this committee from being willing or able to do the necessary objective and nonpartisan oversight on the Russian attack”
 
