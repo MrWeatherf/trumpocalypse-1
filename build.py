@@ -21,13 +21,16 @@ TagGroups = [
 	['Country', [
 		'Canada',
 		'Mexico',
+		'MiddleEast',
 		'Russia',
 		'UK',
 		]],
 	['Topics', [
 		'AltFacts',
 		'BabyHands',
+		'Environment',
 		'Ethics',
+		'HealthCare',
 		'ILoveWomen',
 		'Lawsuit',
 		'Nazi',
