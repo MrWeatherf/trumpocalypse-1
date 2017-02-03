@@ -3,8 +3,17 @@
 #         #   #  #   #    #    ####
 #         #   #  #   #    #        #
 #          ###    ###    ###   ####
-#DAY 15: Friday 3 February 2017
+DAY 15: Friday 3 February 2017
 
+TITLE: Kellyanne Conway made up a fake terrorist attack to justify Trump’s “Muslim ban”
+URL: http://www.vox.com/world/2017/2/2/14494478/bowling-green-massacre
+TAGS: Conway AltFacts
+DESC: Conway claims that “most people don't know that because it didn't get covered.” Most people don’t know about it because it didn’t happen.
+
+TITLE: ATTACK AT THE LOUVRE: Machete-wielding man shouting ‘Allahu akbar’ stopped by soldier, police say
+URL: http://www.foxnews.com/world/2017/02/03/attack-at-louvre-machete-wielding-man-shouting-allahu-akbar-stopped-by-soldier-police-say.html
+TAGS: Hate
+DESC: The attacker had two machetes and was carrying two backpacks -- but there was no sign the bags held explosives, a police union official said.
 
 #          ###    ###     #       #
 #         #   #  #   #   ##      ##
@@ -15,7 +24,7 @@ DAY 14: Thursday 2 February 2017
 
 TITLE: Donald Trump warns Israel that new settlements ‘may not help’ achieve Middle East peace
 URL: http://www.telegraph.co.uk/news/2017/02/03/donald-trump-warns-israel-new-settlements-may-not-help-achieve/
-TAGS: News
+TAGS: News MiddleEast
 DESC: The statement could disappoint Israel's far-right which had hoped Mr Trump would give an unqualified green light on rapid settlement construction in the occupied West Bank and east Jerusalem
 
 TITLE: It's 14 days into the Trump presidency, and "normal Trump tantrum" is already a thing foreign leaders say
@@ -30,7 +39,7 @@ DESC: As the president and former owner of beauty pageants, Donald Trump is know
 
 TITLE: After a massive backlash, a Republican yanks his bill to sell off public lands
 URL: http://www.vox.com/energy-and-environment/2017/2/2/14479462/chaffetz-public-lands-backlash
-TAGS: News
+TAGS: News Environment
 DESC: But this week, Chaffetz decided to yank the bill after a fierce backlash from hunters, sportsmen and women, and conservationists on both the left and the right. Privatizing public land, it turns out, is a lot harder than it sounds.
 
 TITLE: McCain Steps In to Ease Tension With Australia Over Trump Insult
@@ -45,7 +54,7 @@ DESC: Trump said he would seek to overturn the Johnson Amendment, which prohibit
 
 TITLE: Google, Apple, Facebook and Microsoft draft a joint letter opposing Trump’s travel ban
 URL: http://www.recode.net/2017/2/1/14480988/google-apple-facebook-joint-letter-opposing-trump-travel-ban
-TAGS: News
+TAGS: News TravelBan
 DESC: Our nation’s compassion is a part of what makes it exceptional, and we are committed to helping your administration identify approaches for thorough screening without a blanket suspension of admissions under the U.S. Refugee Admissions program.
 
 TITLE: Trump picks up the phone, sets off diplomatic chaos
@@ -80,7 +89,7 @@ DESC: The FSB was the only Russian intelligence entity named in the amendment an
 
 TITLE: Press Secretary Sean Spicer Falsely Accuses Iran of Attacking U.S. Navy Vessel, an Act of War
 URL: https://theintercept.com/2017/02/02/press-secretary-sean-spicer-falsely-accuses-iran-of-attacking-u-s-navy-vessel-an-act-of-war/
-TAGS: Spicer News AltFacts
+TAGS: Spicer News MiddleEast AltFacts
 DESC: “Iran has violated the Joint Resolution, that Iran’s additional hostile actions that it took against our Navy vessel are ones that we are very clear are not going to sit by and take”
 
 TITLE: When Villains Aren’t Super
@@ -95,7 +104,7 @@ DESC: Bernstein also noted that the same Republican Party that assailed Democrat
 
 TITLE: Iran has been formally PUT ON NOTICE for firing a ballistic missile.Should have been thankful for the terrible deal the U.S. made with them!
 URL: https://twitter.com/realDonaldTrump/status/827118012784373760
-TAGS: Twitter GloriousLeader
+TAGS: Twitter GloriousLeader MiddleEast
 
 TITLE: It's a clash of free speech and hate speech as Yiannopoulos is shut down at UC Berkeley
 URL: http://www.latimes.com/local/lanow/la-me-yiannopoulos-trump-berkeley-20170202-story.html
@@ -108,7 +117,7 @@ TAGS: Twitter GloriousLeader
 
 TITLE: US military officials: Trump-ordered raid in Yemen that killed US Navy SEAL was approved 'without sufficient intelligence'
 URL: http://www.businessinsider.com/us-military-officials-trump-ordered-raid-in-yemen-that-killed-us-navy-seal-was-approved-without-sufficient-intelligence-2017-2
-TAGS: News
+TAGS: News MiddleEast
 DESC: As a result, three officials said, the attacking SEAL team found itself dropping onto a reinforced Al Qaeda base defended by landmines, snipers, and a larger-than-expected contingent of heavily armed Islamist extremists.
 
 TITLE: NATO calls on Russia to stop violence in Ukraine
@@ -134,7 +143,7 @@ DAY 13: Wednesday 1 February 2017
 
 TITLE: House Republicans Vote to End Rule Stopping Coal Mining Debris From Being Dumped in Streams
 URL: http://time.com/4657438/congressional-republicans-environmental-regulations-coal-streams/
-TAGS: News
+TAGS: News Environment
 DESC: Rep. John Yarmuth, D-Ky., displayed a bottle of brownish water he said came from a constituent's well near a surface coal mine. He challenged lawmakers to drink from it and said the stream rule was one of the only safety measures protecting people in coal country.
 
 TITLE: Trump's Company Loses Lawsuit Filed By Golf Club Members
@@ -144,7 +153,7 @@ DESC: That meant Trump could hang on to tens of millions of dollars in deposits,
 
 TITLE: Israel to build first new West Bank settlement since 1990s
 URL: http://www.reuters.com/article/us-israel-palestinians-outpost-idUSKBN15G3WO
-TAGS: News
+TAGS: News MiddleEast
 DESC: Most countries consider all Israeli settlements to be illegal. Israel disagrees, citing historical and political links to the land - which the Palestinians also assert - as well as security interests.
 
 TITLE: Leaked Draft of Trump’s Religious Freedom Order Reveals Sweeping Plans to Legalize Discrimination
@@ -237,7 +246,7 @@ DESC: The Senate Finance Committee approved Georgia GOP Rep Tom Price to become 
 
 TITLE: You know, they wouldn't let Obama seat a Supreme Court justice in his final year as president. So why do it for Trump in his?
 URL: https://twitter.com/nycjayjay/status/826896080616951808
-TAGS: Twitter HaHa
+TAGS: Twitter SCOTUS HaHa
 
 TITLE: President Trump named in more than 50 federal lawsuits since taking office
 URL: http://www.nydailynews.com/news/politics/president-trump-named-50-lawsuits-office-article-1.2961180
@@ -262,7 +271,7 @@ TAGS: Twitter SCOTUS HaHa
 
 TITLE: Republicans move to sell off 3.3m acres of national land, sparking rallies
 URL: https://www.theguardian.com/environment/2017/jan/31/public-lands-sell-congress-bureau-management-chaffetz
-TAGS: News
+TAGS: News Environment
 DESC: Due to a controversial change this month to the House of Representatives’ rules, the sale does not have to make money for the federal government.
 
 TITLE: Trump Versus Everyone
@@ -277,7 +286,7 @@ DESC: Gorsuch sided in favor of "religious freedom" claims made by the Little Si
 
 TITLE: Administration Orders Easement For Construction Of Dakota Access Pipeline
 URL: http://www.npr.org/sections/thetwo-way/2017/01/31/512763500/administration-orders-easement-for-construction-of-dakota-access-pipeline
-TAGS: News
+TAGS: News Environment
 DESC: The Standing Rock Sioux Tribe has fought against construction of the pipeline for months, with members and supporters living on the site, trying to block construction. The tribe said it will continue its battle
 
 TITLE: The Downfall of a Top Russian Cyber Spy
@@ -339,12 +348,12 @@ DESC: “What we saw last night is an example of what is at stake with this nomi
 
 TITLE: After meeting with pharma lobbyists, Trump drops promise to negotiate drug prices
 URL: http://www.vox.com/policy-and-politics/2017/1/31/14453740/trump-medicare-prescription-drugs
-TAGS: News
+TAGS: News HealthCare
 DESC: Instead of getting tough, Trump’s new plan is that he’s “going to be lowering taxes” and “getting rid of regulations.”
 
 TITLE: Trump Calls Drug Pricing ‘Astronomical’ and Promises Changes
 URL: https://www.bloomberg.com/politics/articles/2017-01-31/trump-meets-with-drugmakers-as-industry-fears-price-controls
-TAGS: News
+TAGS: News HealthCare
 DESC: Trump has threatened to have the government negotiate prices directly with the industry on behalf of Medicare and Medicaid
 
 TITLE: The 'punch a Nazi' meme: what are the ethics of punching Nazis?
@@ -391,7 +400,7 @@ DAY 11: Monday 30 January 2017
 
 TITLE: Iran tests ballistic missile in defiance of UN resolution, US officials say
 URL: http://www.foxnews.com/world/2017/01/30/iran-conducts-ballistic-missile-test-us-officials-say.html
-TAGS: News
+TAGS: News MiddleEast
 DESC: The Khorramshahr medium-range ballistic missile flew 600 miles before exploding, in a failed test of a reentry vehicle
 
 TITLE: Kellyanne Conway is mad about ‘alternative facts’ blowup
@@ -415,7 +424,7 @@ DESC: He has plans to commit awful acts of sabotage like flushing strange things
 
 TITLE: The Immigration Ban is a Headfake, and We’re Falling For It
 URL: https://medium.com/@jakefuentes/the-immigration-ban-is-a-headfake-and-were-falling-for-it-b8910e78f0c5#.6026mrn55
-TAGS: Commentary
+TAGS: Commentary TravelBan
 DESC: ...the administration is deliberately testing the limits of governmental checks and balances to set up a self-serving, dangerous consolidation of power.
 
 TITLE: Weak and Incompetent Leaders act like Strong Leaders
@@ -429,7 +438,7 @@ TAGS: News TravelBan
 
 TITLE: Washington is first state to sue Trump over immigration order
 URL: http://www.chicagotribune.com/news/nationworld/ct-washington-state-lawsuit-trump-travel-ban-20170130-story.html
-TAGS: News Lawsuit
+TAGS: News Lawsuit TravelBan
 DESC: Inslee said he learned the hard way over the years "you do not back down to bullies."
 
 TITLE: Shock and alarm at Bannon’s new role
@@ -550,12 +559,12 @@ DESC: His administration has drafted an executive order aimed at overhauling the
 
 TITLE: US Navy SEAL killed, 3 injured in raid on Al Qaeda in Yemen
 URL: http://www.foxnews.com/world/2017/01/29/yemeni-officials-us-raid-with-troops-kills-3-alleged-senior-al-qaida-leaders.html
-TAGS: News
+TAGS: News MiddleEast
 DESC: The raid on Al Qaeda headquarters was the first counterterrorism offensive under President Trump aimed at gathering intelligence about the militant group
 
 TITLE: Jihadist groups hail Trump’s travel ban as a victory
 URL: https://www.washingtonpost.com/world/national-security/jihadist-groups-hail-trumps-travel-ban-as-a-victory/2017/01/29/50908986-e66d-11e6-b82f-687d6e6a3e7c_story.html
-TAGS: News TravelBan
+TAGS: News TravelBan MiddleEast
 DESC: One posting hailed the U.S. president as “the best caller to Islam,” while others predicted that Trump would soon launch a new war in the Middle East.
 
 TITLE: Trial Balloon for a Coup?
@@ -739,7 +748,7 @@ DESC: ...the police were letting only people with airplane tickets onto the publ
 
 TITLE: FBI Uncovers Al-Qaeda Plot To Just Sit Back And Enjoy Collapse Of United States
 URL: http://www.theonion.com/article/fbi-uncovers-al-qaeda-plot-to-just-sit-back-and-en-35788
-TAGS: Satire
+TAGS: Satire MiddleEast
 DESC: “And unfortunately, based on information we have from intelligence assets on the ground, this plot is already well under way”
 
 TITLE: Green card holders from Trump-restricted countries may not be allowed into US
@@ -772,7 +781,7 @@ DESC: "There is no evidence that refugees—the most thoroughly vetted of all pe
 
 TITLE: President Trump is right. I built a wall along Israel's southern border. It stopped all illegal immigration. Great success. Great idea 🇮🇱🇺🇸
 URL: https://twitter.com/netanyahu/status/825371795972825089
-TAGS: Twitter TheWall
+TAGS: Twitter TheWall MiddleEast
 DESC: —Benjamin Netanyahu
 
 TITLE: On a busy Saturday, Trump to call world leaders and sign more orders
@@ -818,7 +827,7 @@ DESC: ...they are choosing to remain anonymous and continue tweeting out facts a
 
 TITLE: In leaked audio, Republicans destroy their own public talking points on Obamacare
 URL: https://www.washingtonpost.com/blogs/plum-line/wp/2017/01/27/in-leaked-audio-republicans-destroy-their-own-public-talking-points-on-obamacare/
-TAGS: News ThanksObama
+TAGS: News ThanksObama HealthCare
 DESC: Now, to be clear, these private comments reveal Republicans actually wrestling with the policy challenges that repeal (and replace) will create, which is a good thing as far as it goes.
 
 TITLE: Trump’s Lies vs. Your Brain
@@ -895,7 +904,7 @@ DESC: The wrong Teresa: Teresa May is a soft porn actress
 
 TITLE: Republicans Quietly Admit There Will Be No Obamacare Replacement
 URL: http://nymag.com/daily/intelligencer/2017/01/gop-quietly-admits-there-will-be-no-obamacare-replacement.html
-TAGS: News ThanksObama
+TAGS: News ThanksObama HealthCare
 DESC: There appears to be no consensus on anything.
 
 TITLE: The leaks coming out of the Trump White House cast the president as a clueless child
@@ -1050,7 +1059,7 @@ DESC: Donald Trump on torture: “I will always abide by the law”
 
 TITLE: Trump administration tells EPA to cut climate page from website
 URL: http://www.reuters.com/article/us-usa-trump-epa-climatechange-idUSKBN15906G
-TAGS: News
+TAGS: News Environment
 DESC: If the website goes dark, years of work we have done on climate change will disappear
 
 TITLE: Trump hangs portrait of Andrew Jackson in Oval Office
@@ -1065,7 +1074,7 @@ DESC: If the full identity of the new owners of the Rosneft stake is a mystery, 
 
 TITLE: More National Parks employees appear to taunt Trump on Twitter
 URL: http://www.cnbc.com/2017/01/25/national-parks-employees-are-still-going-rogue-on-twitter.html
-TAGS: News
+TAGS: News Environment
 DESC: Twitter feed called @AltNatParkSer gained about 170,000 followers overnight, and was also publishing information about climate change and other issues
 
 TITLE: Steve Bannon registered to vote in two states despite Trump's cries of 'voter fraud'
@@ -1124,7 +1133,7 @@ DAY 5: Tuesday 24 January 2017
 
 TITLE: NASA Releases Climate Change Images As Trump Still Claims It Doesn't Exist
 URL: http://www.houstonpress.com/news/nasa-releases-climate-change-images-as-trump-still-claims-it-doesnt-exist-9135052
-TAGS: News Science
+TAGS: News Science Environment
 DESC: Since Trump was inaugurated on Friday, the White House website has already wiped away all mention of climate change.
 
 TITLE: Report: Conway punched a man three times at inaugural ball
@@ -1134,7 +1143,7 @@ DESC: ...witnesses saw Conway punch a man in the face at least three times at th
 
 TITLE: A Rogue National Park Is Tweeting Out Climate Change Facts in Defiance of Donald Trump
 URL: http://time.com/4645927/badlands-national-park-climate-change-tweets/
-TAGS: Twitter Science
+TAGS: Twitter Science Environment
 DESC: The U.S. Department of Interior was ordered to suspend operations of its Twitter accounts after the National Park Service's official account retweeted two posts that were unflattering toward the Trump administration.
 
 TITLE: #AlternateFacts pizza
@@ -1187,12 +1196,12 @@ DESC: Spicer did not provide hard data to back up the claim
 
 TITLE: Trump bans EPA employees from giving social media updates
 URL: http://thehill.com/policy/energy-environment/315876-trump-bans-epa-employees-from-giving-social-media-updates
-TAGS: News Science
+TAGS: News Science Environment
 DESC: EPA memo says agency is not allowed to issue press releases, add new content on websites, or post on social media
 
 TITLE: Trump to sign orders reviving pipeline projects, sources say
 URL: http://www.foxnews.com/politics/2017/01/24/trump-to-sign-orders-reviving-pipeline-projects-sources-say.html
-TAGS: News
+TAGS: News Environment
 DESC: The moves are likely to spark a new fight with environmentalists.
 
 TITLE: Trump retains FBI Director James Comey, sources say
