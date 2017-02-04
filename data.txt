@@ -59,7 +59,7 @@ TAGS: Twitter GloriousLeader
 TITLE: U.S. Customs give airlines green light to board all visa-holders after Seattle ruling
 URL: http://www.reuters.com/article/us-usa-trump-immigration-airlines-idUSKBN15J04Z
 TAGS: TravelBan
-DESC: the U.S. agency told airlines to operate just as they had before the order
+DESC: ...the U.S. agency told airlines to operate just as they had before the order
 
 #          ###    ###     #    #####
 #         #   #  #   #   ##    #
@@ -76,7 +76,7 @@ DESC: At airports across the country, tens of thousands of Americans protested a
 TITLE: Trump’s Yuge Week Two - What mattered, and what didn’t.
 URL: http://www.politico.com/magazine/story/2017/02/president-trump-second-week-grade-major-decisions-policies-214733
 TAGS: Commentary
-DESC: the main theme of his even wilder second week was that it’s hard to keep track of all the true signs of dramatic change when they’re all getting jumbled together.
+DESC: ...the main theme of his even wilder second week was that it’s hard to keep track of all the true signs of dramatic change when they’re all getting jumbled together.
 
 TITLE: Trust Records Show Trump Is Still Closely Tied to His Empire
 URL: https://www.nytimes.com/2017/02/03/us/politics/donald-trump-business.html
