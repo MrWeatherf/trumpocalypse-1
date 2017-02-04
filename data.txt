@@ -56,6 +56,11 @@ TITLE: The opinion of this so-called judge, which essentially takes law-enforcem
 URL: https://twitter.com/realDonaldTrump/status/827867311054974976
 TAGS: Twitter GloriousLeader TravelBan
 
+TITLE: German magazine sparks furor with cover of Trump beheading Statue of Liberty
+URL: http://www.foxnews.com/world/2017/02/04/german-magazine-sparks-furor-with-cover-trump-beheading-statue-liberty.html
+TAGS: Commentary
+DESC: The magazine Der Spiegel has ignited controversy in Germany and elsewhere with a cover illustration that depicts President Trump as an ISIS executioner, brandishing a bloody knife in one hand and the head of Lady Liberty in the other
+
 TITLE: DeVos opposition snowballs into avalanche
 URL: http://www.politico.com/story/2017/02/betsy-devos-opposition-confirmation-234640
 TAGS: News
