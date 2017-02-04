@@ -62,30 +62,40 @@ for tg in TagGroups:
 	for t in taglist:
 		Tags.append(t)
 
-DaysOfTheWeek = [
-	'Sunday',
-	'Monday',
-	'Tuesday',
-	'Wednesday',
-	'Thursday',
-	'Friday',
-	'Saturday',
+DaysOfTheWeek_Map = {
+	'Sunday': 0,
+	'Monday': 1,
+	'Tuesday': 2,
+	'Wednesday': 3,
+	'Thursday': 4,
+	'Friday': 5,
+	'Saturday': 6,
+}
+
+Months = [
+	'January',
+	'February',
+	'March',
+	'April',
+	'May',
+	'June',
+	'July',
+	'August',
+	'September',
+	'October',
+	'November',
+	'December',
 ]
 
-Months = {
-	'January': 1,
-	'February': 2,
-	'March': 3,
-	'April': 4,
-	'May': 5,
-	'June': 6,
-	'July': 7,
-	'August': 8,
-	'September': 9,
-	'October': 10,
-	'November': 11,
-	'December': 12,
-}
+# Build map of month name -> month index (1..12).
+Months_Map = {}
+index = 1
+for m in Months:
+	Months_Map[m] = index
+	index += 1
+
+# Days in each month (index 1..12).
+MonthDays = [0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
 
 def error(msg):
 	print 'Error: %s' % (msg)
@@ -103,8 +113,11 @@ class Parser():
 		self.in_day = False
 		self.in_entry = False
 
-		self.day = 0
-		self.date = ''
+		self.day = None
+		self.date = None
+		
+		self.first_date = None
+		self.last_date = None
 		
 		self.reset_day()
 
@@ -144,6 +157,97 @@ class Parser():
 		self.url = ''
 		self.tags = []
 		self.desc = ''		
+	
+	def write_calendar(self):
+		try:
+			out = open('calendar.html', 'w')
+		except IOError as e:
+			error('Unable to open "calendar.html" for writing: %s' % e)
+		
+		print self.first_date
+		print self.last_date
+		
+		first_year = 2017
+		first_month = 1
+		first_day = 20
+		last_year = 2017
+		last_month = 2
+		last_day = 4
+		last_display_month = 3
+		
+		base_path = ''
+		self.write_html_header(out, 'Trumpocalypse', base_path)
+		self.write_title(out, base_path, 'month')
+		out.write('\n')
+
+		# Starting day of week for Jan 2017.
+		start_day_of_week = 0
+		
+		for year in xrange(first_year, last_year+1):
+			if year == first_year:
+				m_start = first_month
+			else:
+				m_start = 1
+			if year == last_year:
+				m_end = last_display_month
+			else:
+				m_end = 12
+				
+			out.write('<div class="year">%d</div>\n' % year)
+			out.write('\n')
+			out.write('<div class="row">\n')
+		
+			for m in range(m_start, m_end+1):
+				out.write('\t<div class="col-md-4">\n')
+				d_start = 1
+				d_end = MonthDays[m]
+				if year == first_year and m == first_month:
+					d_start = first_day
+				if year == last_year and m == last_month:
+					d_end = last_day
+				if year == last_year and m > last_month:
+					d_start = 0
+					d_end = 0
+				self.write_calendar_month(out, year, m, start_day_of_week, MonthDays[m], d_start, d_end)
+				start_day_of_week += MonthDays[m]
+				start_day_of_week %= 7
+				out.write('\t</div>\n')
+
+			out.write('</div>\n')
+			out.write('\n')
+		
+		self.write_html_footer(out)
+		out.close()
+
+	def write_calendar_month(self, out, year, month, start_day_of_week, num_days, start_day, end_day):
+		print year, month, start_day_of_week, num_days, start_day
+		out.write('\t\t<table class="month-div">\n')
+		out.write('\t\t<tr><td colspan=7><span class="month-name" id="%04d-%02d">%s</span></td></tr>\n' % (year, month, Months[month-1]))
+		out.write('\t\t<tr>\n')
+
+		column = 0
+		day = 1
+		
+		for x in range(0, start_day_of_week):
+			out.write('\t\t\t<td class="month-day disabled">  </td>\n')
+			column += 1
+
+		for day in range(1, num_days+1):
+			if day < start_day or day > end_day:
+				out.write('\t\t\t<td class="month-day disabled">%2d</td>\n' % day)
+			else:
+				out.write('\t\t\t<td class="month-day"><a href="year1.html#%04d-%02d-%02d">%2d</a></td>\n' % (year, month, day, day))
+			column += 1
+			if column % 7 == 0:
+				out.write('\t\t</tr>\n')
+				out.write('\t\t<tr>\n')
+		
+		for x in range(column % 7, 7):
+			out.write('\t\t\t<td class="month-day disabled">  </td>\n')
+
+		out.write('\t\t</tr>\n')
+		out.write('\t\t</table>\n')
+
 	
 	# Process an entire line from the file.
 	def process_line(self, line):
@@ -199,27 +303,27 @@ class Parser():
 
 		error('Unrecognized line: %s' % line)
 					
-	def write_html_header(self):
-		self.write_html_header_for_tag(None, self.outfile_all)
+	def write_html_headers(self):
+		base_path = ''
+		self.write_html_header(self.outfile_all, 'Trumpocalypse', base_path)
+		self.write_title(self.outfile_all, base_path, 'day')
+		
+		base_path = '../../'
 		for t in Tags:
-			self.write_html_header_for_tag(t, self.tagFiles[t])
-	
-	def write_html_header_for_tag(self, tag, out):
+			out = self.tagFiles[t]
+			self.write_html_header(out, 'Trumpocalypse - %s' % t, base_path)
+			self.write_title(out, base_path, 'day')
+			out.write('<div class="main-entry-info"><span class="tag %s">%s</span></div>\n' % (t, t))
+
+	def write_html_header(self, out, title, base_path):
 		out.write('<!DOCTYPE html>\n')
 		out.write('<html lang="en">\n')
 		out.write('<head>\n')
 		out.write('\t<meta charset="utf-8">\n')
 		out.write('\t<meta http-equiv="X-UA-Compatible" content="IE=edge">\n')
 		out.write('\t<meta name="viewport" content="width=device-width, initial-scale=1">\n')
-		if tag == None:
-			out.write('\t<title>Trumpocalypse</title></head>\n')
-		else:
-			out.write('\t<title>Trumpocalypse - %s</title></head>\n' % tag)
+		out.write('\t<title>%s</title></head>\n' % title)
 		out.write('\t<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">\n')
-		if tag == None:
-			base_path = ''
-		else:
-			base_path = '../../'
 		out.write('\t<link rel="stylesheet" type="text/css" href="%sstyle.css"/>\n' % base_path)
 
 		out.write('\t<script>\n')
@@ -235,21 +339,25 @@ class Parser():
 		out.write('<body>\n')
 		out.write('<div class="container">\n')
 
-		out.write('<div class="main-title"><a href="%sindex.html">The Trump Administration</a></div>\n' % base_path)
-		out.write('<div class="main-subtitle">Day by Day</div>\n')
-		if tag != None:
-			out.write('<div class="main-entry-info"><span class="tag %s">%s</span></div>\n' % (tag, tag))
-
-	def write_html_footer(self):
-		self.write_html_footer_for_tag(None, self.outfile_all)
+	def write_html_footers(self):
+		self.write_html_footer(self.outfile_all)
 		for t in Tags:
-			self.write_html_footer_for_tag(t, self.tagFiles[t])
+			self.write_html_footer(self.tagFiles[t])
 
-	def write_html_footer_for_tag(self, tag, out):
+	def write_html_footer(self, out):
 		out.write('</div>\n')
 		out.write('</body>\n')
 		out.write('</html>\n')
 	
+	def write_title(self, out, base_path, type):
+		out.write('<div class="main-title"><a href="%sindex.html">The Trump Administration</a></div>\n' % base_path)
+		if type == 'day':
+			out.write('<div class="main-subtitle">Day by Day</div>\n')
+		elif type == 'month':
+			out.write('<div class="main-subtitle">Month by Month</div>\n')
+		else:
+			error('Unexpected title type: %s' % type)
+
 	def write_day(self):
 		self.outfile = self.outfile_all
 		self.write_day_with_tag(None)
@@ -261,7 +369,7 @@ class Parser():
 	def write_day_with_tag(self, tag):
 		if tag == None or tag in self.day_tags:
 			self.outfile.write('<div class="day" id="%d">Day %d</div>\n' % (self.day, self.day))
-			self.outfile.write('<div class="date" id="%04d-%02d-%02d">%s</div>\n' % (self.year, Months[self.month], self.day_of_month, html_escape(self.date)))
+			self.outfile.write('<div class="date" id="%04d-%02d-%02d">%s</div>\n' % (self.year, Months_Map[self.month], self.day_of_month, html_escape(self.date)))
 			self.outfile.write('<div class="day-table">\n')
 		
 			for e in self.day_entries:
@@ -296,6 +404,16 @@ class Parser():
 		if self.in_day:
 			self.day_end()
 
+		if self.last_date == None:
+			self.last_date = date
+		self.first_date = date
+			
+		prev_day = self.day
+		if self.date == None:
+			prev_date = None
+		else:
+			prev_date = self.date.split()
+		
 		self.day = day
 		self.date = date
 		
@@ -305,11 +423,22 @@ class Parser():
 		self.month = date[2]
 		self.year = int(date[3])
 		
-		if not self.day_of_week in DaysOfTheWeek:
+		if prev_day != None and prev_day != day + 1:
+			error('Missing day: %d doesn\'t immediately preceed %d' % (day, prev_day))
+		if prev_date != None:
+			prev_day_of_month = int(prev_date[1])
+			if prev_day_of_month != 1 and prev_day_of_month != self.day_of_month + 1:
+				error('Bad day of month: %d doesn\'t immediately preceed %d' % (self.day_of_month, prev_day_of_month))
+
+			prev_dow = prev_date[0]
+			if DaysOfTheWeek_Map[prev_dow] != (DaysOfTheWeek_Map[self.day_of_week] + 1) % 7:
+				error('Bad day of week: %s doesn\'t immediately preceed %s' % (self.day_of_week, prev_dow))
+			
+		if not self.day_of_week in DaysOfTheWeek_Map:
 			error('Invalid day of week: %s' % line)
 		if self.day_of_month < 1 or self.day_of_month > 31:
 			error('Invalid day of month: %s' % line)
-		if not self.month in Months:
+		if not self.month in Months_Map:
 			error('Invalid month: %s' % line)
 		if self.year < 2017 or self.year > 2017:
 			error('Invalid year: %s' % line)
@@ -323,7 +452,7 @@ class Parser():
 		self.in_day = False
 
 	def process(self):
-		self.write_html_header()
+		self.write_html_headers()
 
 		for line in self.infile:
 			line = line.strip()
@@ -333,16 +462,20 @@ class Parser():
 			self.record_entry()
 		self.day_end()
 
-		self.write_html_footer()
+		self.write_html_footers()
 
 		self.infile.close()
+		self.close_output_files()
 
 	def close_output_files(self):
 		self.outfile_all.close()
+		for t in Tags:
+			self.tagFiles[t].close()
 	
 def main():
 	parser = Parser('data.txt', 'year1')
 	parser.process()
+	parser.write_calendar()
 	
 if __name__ == '__main__':
 	main()
