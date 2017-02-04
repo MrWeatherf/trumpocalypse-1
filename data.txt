@@ -5,6 +5,20 @@
 #          ###    ###    ###   ####
 DAY 15: Friday 3 February 2017
 
+TITLE: Trump Says He Cut Wall Street Reform Because His “Friends” Need Money
+URL: http://www.vanityfair.com/news/2017/02/trump-says-he-cut-wall-street-reform-because-his-friends-need-money
+TAGS: News
+DESC: “I have so many people, friends of mine, that have nice businesses, they can’t borrow money”
+
+TITLE: Video released by Pentagon to prove Donald Trump's deadly Yemen raid was successful is a decade old and available online
+URL: http://www.telegraph.co.uk/news/2017/02/03/video-released-pentagon-prove-donald-trumps-deadly-yemen-raid/
+TAGS: MiddleEast News
+DESC: "The videos aren't particularly noteworthy, it's no news that these videos exist, nor is the content remarkable," he said. "They could have likely found the same sort of guides by browsing LiveLeak for a few hours."
+
+TITLE: We must keep "evil" out of our country!
+URL: https://twitter.com/realDonaldTrump/status/827655062835052544
+TAGS: Twitter GloriousLeader Irony
+
 TITLE: Federal judge in Seattle puts nationwide halt to Trump’s immigration order
 URL: http://www.seattletimes.com/seattle-news/politics/federal-judge-in-seattle-halts-trumps-immigration-order/
 TAGS: News TravelBan Lawsuit
@@ -54,7 +68,7 @@ URL: http://www.vox.com/world/2017/2/2/14494478/bowling-green-massacre
 TAGS: Conway AltFacts
 DESC: Conway claims that “most people don't know that because it didn't get covered.” Most people don’t know about it because it didn’t happen.
 
-TITLE: ATTACK AT THE LOUVRE: Machete-wielding man shouting ‘Allahu akbar’ stopped by soldier, police say
+TITLE: Attack At The Louvre: Machete-wielding man shouting ‘Allahu akbar’ stopped by soldier, police say
 URL: http://www.foxnews.com/world/2017/02/03/attack-at-louvre-machete-wielding-man-shouting-allahu-akbar-stopped-by-soldier-police-say.html
 TAGS: Hate
 DESC: The attacker had two machetes and was carrying two backpacks -- but there was no sign the bags held explosives, a police union official said.
