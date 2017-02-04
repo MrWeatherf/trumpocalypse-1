@@ -47,6 +47,15 @@
 #          ###    ###    ###    ###
 DAY 16: Saturday 4 February 2017
 
+TITLE: Homeland Security suspends travel ban
+URL: http://www.cnn.com/2017/02/03/politics/federal-judge-temporarily-halts-trump-travel-ban-nationwide-ag-says/
+TAGS: News TravelBan
+DESC: President Donald Trump's government moved swiftly Saturday to comply with a federal judge's order halting his immigration ban -- even as Trump denounced the judge.
+
+TITLE: The opinion of this so-called judge, which essentially takes law-enforcement away from our country, is ridiculous and will be overturned!
+URL: https://twitter.com/realDonaldTrump/status/827867311054974976
+TAGS: Twitter GloriousLeader TravelBan
+
 TITLE: DeVos opposition snowballs into avalanche
 URL: http://www.politico.com/story/2017/02/betsy-devos-opposition-confirmation-234640
 TAGS: News
