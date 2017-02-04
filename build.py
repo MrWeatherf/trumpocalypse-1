@@ -347,12 +347,18 @@ class Parser():
 	
 	def write_title(self, out, base_path, type):
 		out.write('<div class="main-title"><a href="%sindex.html">The Trump Administration</a></div>\n' % base_path)
+		out.write('<div class="main-subtitle-box">\n')
 		if type == 'day':
+			out.write('<div class="main-subtitle-side"><a href="%scalendar.html">Month</a></div>\n' % base_path)
 			out.write('<div class="main-subtitle">Day by Day</div>\n')
+			out.write('<div class="main-subtitle-side"><a href="#">Tag</a></div>\n')
 		elif type == 'month':
+			out.write('<div class="main-subtitle-side"><a href="%sindex.html">Day</a></div>\n' % base_path)
 			out.write('<div class="main-subtitle">Month by Month</div>\n')
+			out.write('<div class="main-subtitle-side"><a href="#">Tag</a></div>\n')
 		else:
 			error('Unexpected title type: %s' % type)
+		out.write('</div>\n')
 
 	def write_day(self):
 		self.outfile = self.outfile_all
