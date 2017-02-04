@@ -164,9 +164,6 @@ class Parser():
 		except IOError as e:
 			error('Unable to open "calendar.html" for writing: %s' % e)
 		
-		print self.first_date
-		print self.last_date
-		
 		first_year = 2017
 		first_month = 1
 		first_day = 20
@@ -220,7 +217,6 @@ class Parser():
 		out.close()
 
 	def write_calendar_month(self, out, year, month, start_day_of_week, num_days, start_day, end_day):
-		print year, month, start_day_of_week, num_days, start_day
 		out.write('\t\t<table class="month-div">\n')
 		out.write('\t\t<tr><td colspan=7><span class="month-name" id="%04d-%02d">%s</span></td></tr>\n' % (year, month, Months[month-1]))
 		out.write('\t\t<tr>\n')
