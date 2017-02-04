@@ -5,6 +5,11 @@
 #          ###    ###    ###   ####
 DAY 15: Friday 3 February 2017
 
+TITLE: Federal judge in Seattle puts nationwide halt to Trump’s immigration order
+URL: http://www.seattletimes.com/seattle-news/politics/federal-judge-in-seattle-halts-trumps-immigration-order/
+TAGS: News TravelBan Lawsuit
+DESC: And the lawsuit, the judge said, has substantial likelihood of success in its underlying challenge to the constitutionality of the order.
+
 TITLE: State Dept. says about 60,000 visas revoked due to travel ban; Justice Dept. atty says 100,000
 URL: https://www.washingtonpost.com/local/public-safety/government-reveals-over-100000-visas-revoked-due-to-travel-ban/2017/02/03/7d529eec-ea2c-11e6-b82f-687d6e6a3e7c_story.html
 TAGS: Lawsuit TravelBan
