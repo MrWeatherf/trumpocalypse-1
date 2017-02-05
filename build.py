@@ -164,13 +164,23 @@ class Parser():
 		except IOError as e:
 			error('Unable to open "calendar.html" for writing: %s' % e)
 		
-		first_year = 2017
-		first_month = 1
-		first_day = 20
-		last_year = 2017
-		last_month = 2
-		last_day = 4
-		last_display_month = 3
+		if self.first_date:
+			date = self.first_date.split()
+			first_day = int(date[1])
+			first_month = Months_Map[date[2]]
+			first_year = int(date[3])
+		else:
+			error('Invalid start date. Cannot create calendar')
+
+		if self.last_date:
+			date = self.last_date.split()
+			last_day = int(date[1])
+			last_month = Months_Map[date[2]]
+			last_year = int(date[3])
+		else:
+			error('Invalid last date. Cannot create calendar')
+			
+		last_display_month = last_month + (last_month + 2) % 3
 		
 		base_path = ''
 		self.write_html_header(out, 'Trumpocalypse', base_path)
