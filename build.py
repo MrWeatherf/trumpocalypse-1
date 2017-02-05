@@ -270,6 +270,7 @@ class Parser():
 			tags = g[1]
 
 			out.write('<div class="tag-heading">%s</div>\n' % html_escape(group_name))
+			out.write('<div class="day-table">\n')
 
 			for t in tags:
 				tagName = t[0]		
@@ -280,6 +281,8 @@ class Parser():
 				out.write('</div><div class="col-md-9 info-box">')
 				out.write('<div class="desc">%s</div>' % html_escape(tagInfo))
 				out.write('</div></div>\n')
+
+			out.write('</div>\n')
 
 		self.write_html_footer(out)
 		out.close()
