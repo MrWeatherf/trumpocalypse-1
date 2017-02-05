@@ -571,7 +571,7 @@ DESC: What is spreading today is repressive kleptocracy, led by rulers motivated
 
 TITLE: Trump scraps signing of cybersecurity executive action
 URL: http://thehill.com/homenews/administration/317165-trump-scraps-signing-of-cybersecurity-executive-action
-TAGS: Security
+TAGS: TheCyber
 DESC: It was an abrupt about face after the White House spent all day Tuesday plugging its plans to boost the nation's offensive and defensive cyber capabilities. 
 
 TITLE: LGBT worker protection stays under Trump
@@ -701,7 +701,7 @@ DESC: Trump has made an issue of people who are registered to vote in more than 
 
 TITLE: Donald Trump's team says 5-year-old boy was 'handcuffed and held' because he was a 'security threat' to the USA
 URL: http://www.mirror.co.uk/news/world-news/donald-trumps-team-says-5-9725070
-TAGS: Security
+TAGS: TravelBan
 DESC: “To assume that just because of someone’s age and gender that they don’t pose a threat would be misguided and wrong."
 
 TITLE: Statement on the Appointment of Dana Boente as Acting Attorney General
@@ -1188,7 +1188,7 @@ DESC: The US, a standard-bearer of democracy for the world, has become a ‘flaw
 
 TITLE: At least twice, Sean Spicer has accidentally tweeted the password to his official White House spokesman Twitter account
 URL: https://boingboing.net/2017/01/26/at-least-twice-sean-spicer-ha.html
-TAGS: Security Spicer
+TAGS: TheCyber Spicer
 DESC: It's also a pretty shitty password.
 
 TITLE: West Wing leaker goes dark after pulling back the curtain: Trump "irrational", staff "demoralized"
@@ -1238,7 +1238,7 @@ DESC: It’s not like she made them a pot roast or taught their kids algebra, fo
 
 TITLE: Hey Sean Spicer, what's up with that cryptic tweet?
 URL: http://mashable.com/2017/01/26/sean-spicer-cryptic-tweet/
-TAGS: Security Spicer
+TAGS: TheCyber Spicer
 DESC: n9y25ah7
 
 TITLE: A Homebody Finds the Ultimate Home Office
@@ -1292,7 +1292,7 @@ TAGS: News
 
 TITLE: Trump's most senior staff use a private email server
 URL: https://www.engadget.com/2017/01/25/trumps-most-senior-staff-use-a-private-email-server/
-TAGS: Security
+TAGS: TheCyber
 DESC: This is the same RNC email server that mysteriously disappeared 22 million messages during George W Bush's administration
 
 TITLE: Trump says intelligence officials tell him torture works
@@ -1350,7 +1350,7 @@ TAGS: Twitter
 
 TITLE: Trump is reportedly still using his unsecured Android phone
 URL: http://www.theverge.com/2017/1/25/14386524/trump-unsecure-android-phone-report
-TAGS: Security
+TAGS: TheCyber
 DESC: Trump did have kind words for the security of the White House phones, saying “words just explode in the air.”
 
 TITLE: This is what Trump voters said when asked to compare his inauguration crowd with Obama’s
