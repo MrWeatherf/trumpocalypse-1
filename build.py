@@ -353,6 +353,7 @@ class Parser():
 				out = self.tagFiles[tagName]
 				self.write_html_header(out, 'Trumpocalypse - %s' % tagName, base_path)
 				self.write_title(out, base_path, 'day')
+				out.write('<div class="tag-page-tagname">%s</div>\n' % tagName)
 				out.write('<div class="tag-page-tag"><span class="tag %s">%s</span></div>\n' % (tagName, tagName))
 				out.write('<div class="tag-page-info">%s</div>\n' % tagInfo)
 
@@ -396,14 +397,14 @@ class Parser():
 		if type == 'day':
 			out.write('<div class="main-subtitle-side"><a href="%scalendar.html">Month</a></div>\n' % base_path)
 			out.write('<div class="main-subtitle">Day by Day</div>\n')
-			out.write('<div class="main-subtitle-side"><a href="%stags.html">Tag</a></div>\n' % base_path)
+			out.write('<div class="main-subtitle-side"><a href="%stags.html">Tags</a></div>\n' % base_path)
 		elif type == 'month':
 			out.write('<div class="main-subtitle-side"><a href="%sindex.html">Day</a></div>\n' % base_path)
 			out.write('<div class="main-subtitle">Month by Month</div>\n')
-			out.write('<div class="main-subtitle-side"><a href="%stags.html">Tag</a></div>\n' % base_path)
+			out.write('<div class="main-subtitle-side"><a href="%stags.html">Tags</a></div>\n' % base_path)
 		elif type == 'tag':
 			out.write('<div class="main-subtitle-side"><a href="%sindex.html">Day</a></div>\n' % base_path)
-			out.write('<div class="main-subtitle">By Tag</div>\n')
+			out.write('<div class="main-subtitle">Tags</div>\n')
 			out.write('<div class="main-subtitle-side"><a href="%scalendar.html">Month</a></div>\n' % base_path)
 		else:
 			error('Unexpected title type: %s' % type)
