@@ -103,7 +103,7 @@ DESC: If Rogin’s reporting is accurate, it indicates that Bannon seems have lo
 
 TITLE: Homeland Security suspends travel ban
 URL: http://www.cnn.com/2017/02/03/politics/federal-judge-temporarily-halts-trump-travel-ban-nationwide-ag-says/
-TAGS: News TravelBan
+TAGS: TravelBan
 DESC: President Donald Trump's government moved swiftly Saturday to comply with a federal judge's order halting his immigration ban -- even as Trump denounced the judge.
 
 TITLE: The opinion of this so-called judge, which essentially takes law-enforcement away from our country, is ridiculous and will be overturned!
@@ -167,7 +167,7 @@ DESC: “I have so many people, friends of mine, that have nice businesses, they
 
 TITLE: Video released by Pentagon to prove Donald Trump's deadly Yemen raid was successful is a decade old and available online
 URL: http://www.telegraph.co.uk/news/2017/02/03/video-released-pentagon-prove-donald-trumps-deadly-yemen-raid/
-TAGS: MiddleEast News
+TAGS: MiddleEast
 DESC: "The videos aren't particularly noteworthy, it's no news that these videos exist, nor is the content remarkable," he said. "They could have likely found the same sort of guides by browsing LiveLeak for a few hours."
 
 TITLE: We must keep "evil" out of our country!
@@ -176,7 +176,7 @@ TAGS: Twitter GloriousLeader Irony
 
 TITLE: Federal judge in Seattle puts nationwide halt to Trump’s immigration order
 URL: http://www.seattletimes.com/seattle-news/politics/federal-judge-in-seattle-halts-trumps-immigration-order/
-TAGS: News TravelBan Lawsuit
+TAGS: TravelBan Lawsuit
 DESC: And the lawsuit, the judge said, has substantial likelihood of success in its underlying challenge to the constitutionality of the order.
 
 TITLE: State Dept. says about 60,000 visas revoked due to travel ban; Justice Dept. atty says 100,000
@@ -200,7 +200,7 @@ TAGS: Twitter HaHa AltFacts
 
 TITLE: Trump administration imposes new sanctions on Iran over missile tests
 URL: http://www.foxnews.com/politics/2017/02/03/us-hits-13-people-dozen-companies-in-new-iran-sanctions.html
-TAGS: MiddleEast News
+TAGS: MiddleEast
 DESC: The sanctions, coming in the first weeks of Trump's term, reflect his administration's desire to take a strong stance toward Iran from the start. 
 
 TITLE: Trump To Take Aim At Dodd-Frank, Investor Protections Rule In Executive Action
@@ -252,7 +252,7 @@ DESC: The radio host said he also believed Trump ran for president solely to get
 
 TITLE: Donald Trump warns Israel that new settlements ‘may not help’ achieve Middle East peace
 URL: http://www.telegraph.co.uk/news/2017/02/03/donald-trump-warns-israel-new-settlements-may-not-help-achieve/
-TAGS: News MiddleEast
+TAGS: MiddleEast
 DESC: The statement could disappoint Israel's far-right which had hoped Mr Trump would give an unqualified green light on rapid settlement construction in the occupied West Bank and east Jerusalem
 
 TITLE: It's 14 days into the Trump presidency, and "normal Trump tantrum" is already a thing foreign leaders say
@@ -267,7 +267,7 @@ DESC: As the president and former owner of beauty pageants, Donald Trump is know
 
 TITLE: After a massive backlash, a Republican yanks his bill to sell off public lands
 URL: http://www.vox.com/energy-and-environment/2017/2/2/14479462/chaffetz-public-lands-backlash
-TAGS: News Environment
+TAGS: Environment
 DESC: But this week, Chaffetz decided to yank the bill after a fierce backlash from hunters, sportsmen and women, and conservationists on both the left and the right. Privatizing public land, it turns out, is a lot harder than it sounds.
 
 TITLE: McCain Steps In to Ease Tension With Australia Over Trump Insult
@@ -282,7 +282,7 @@ DESC: Trump said he would seek to overturn the Johnson Amendment, which prohibit
 
 TITLE: Google, Apple, Facebook and Microsoft draft a joint letter opposing Trump’s travel ban
 URL: http://www.recode.net/2017/2/1/14480988/google-apple-facebook-joint-letter-opposing-trump-travel-ban
-TAGS: News TravelBan
+TAGS: TravelBan
 DESC: Our nation’s compassion is a part of what makes it exceptional, and we are committed to helping your administration identify approaches for thorough screening without a blanket suspension of admissions under the U.S. Refugee Admissions program.
 
 TITLE: Trump picks up the phone, sets off diplomatic chaos
@@ -302,7 +302,7 @@ DESC: Click me. Edit me. Make me horrifying.
 
 TITLE: Shouting match over Russia erupts at House hearing
 URL: http://thehill.com/policy/national-security/317553-oversight-heads-spar-over-russia-investigation
-TAGS: News Russia
+TAGS: Russia
 DESC: “It’s clear that politics have prevented this committee from being willing or able to do the necessary objective and nonpartisan oversight on the Russian attack”
 
 TITLE: Why Trump’s National Prayer Breakfast speech matters
@@ -312,12 +312,12 @@ DESC: Yes, the president used the National Prayer Breakfast to talk about televi
 
 TITLE: Donald Trump loosens sanctions preventing Russia intelligence agencies from cyberspying
 URL: http://www.independent.co.uk/news/world/americas/donald-trump-loosens-sanctions-russia-prevent-intelligence-agencies-cyberspying-hacking-a7559871.html
-TAGS: News Russia
+TAGS: Russia
 DESC: The FSB was the only Russian intelligence entity named in the amendment announced Thursday, leaving much of the emergency action taken by Mr Obama intact.
 
 TITLE: Press Secretary Sean Spicer Falsely Accuses Iran of Attacking U.S. Navy Vessel, an Act of War
 URL: https://theintercept.com/2017/02/02/press-secretary-sean-spicer-falsely-accuses-iran-of-attacking-u-s-navy-vessel-an-act-of-war/
-TAGS: Spicer News MiddleEast AltFacts
+TAGS: Spicer MiddleEast AltFacts
 DESC: “Iran has violated the Joint Resolution, that Iran’s additional hostile actions that it took against our Navy vessel are ones that we are very clear are not going to sit by and take”
 
 TITLE: When Villains Aren’t Super
@@ -350,12 +350,12 @@ DESC: Around 5:50 p.m., about 150 men and women in black clothing marched toward
 
 TITLE: US military officials: Trump-ordered raid in Yemen that killed US Navy SEAL was approved 'without sufficient intelligence'
 URL: http://www.businessinsider.com/us-military-officials-trump-ordered-raid-in-yemen-that-killed-us-navy-seal-was-approved-without-sufficient-intelligence-2017-2
-TAGS: News MiddleEast
+TAGS: MiddleEast
 DESC: As a result, three officials said, the attacking SEAL team found itself dropping onto a reinforced Al Qaeda base defended by landmines, snipers, and a larger-than-expected contingent of heavily armed Islamist extremists.
 
 TITLE: NATO calls on Russia to stop violence in Ukraine
 URL: http://www.aljazeera.com/news/2017/02/nato-calls-russia-stop-violence-ukraine-170202054257166.html
-TAGS: News Russia
+TAGS: Russia
 DESC: Ukraine and NATO accuse Russia of providing troops and weapons to support separatist rebels in the country's east in a conflict that has killed 10,000 people since April 2014. Moscow denies that.
 
 TITLE: U.S.-Australia Rift Is Possible After Trump Ends Call With Prime Minister
@@ -376,7 +376,7 @@ DAY 13: Wednesday 1 February 2017
 
 TITLE: House Republicans Vote to End Rule Stopping Coal Mining Debris From Being Dumped in Streams
 URL: http://time.com/4657438/congressional-republicans-environmental-regulations-coal-streams/
-TAGS: News Environment
+TAGS: Environment
 DESC: Rep. John Yarmuth, D-Ky., displayed a bottle of brownish water he said came from a constituent's well near a surface coal mine. He challenged lawmakers to drink from it and said the stream rule was one of the only safety measures protecting people in coal country.
 
 TITLE: Since the media doesn’t seem to care, here are the victims of the Quebec mosque attack
@@ -386,12 +386,12 @@ DESC: The suspect, Canadian Alexandre Bissonnette, has reportedly been identifie
 
 TITLE: Trump's Company Loses Lawsuit Filed By Golf Club Members
 URL: http://www.npr.org/sections/thetwo-way/2017/02/01/512928851/trumps-company-loses-lawsuit-filed-by-golf-club-members
-TAGS: News Lawsuit
+TAGS: Lawsuit
 DESC: That meant Trump could hang on to tens of millions of dollars in deposits, helping turn around the club's finances. Although Trump lost in court, his hardball business tactics were effective.
 
 TITLE: Israel to build first new West Bank settlement since 1990s
 URL: http://www.reuters.com/article/us-israel-palestinians-outpost-idUSKBN15G3WO
-TAGS: News MiddleEast
+TAGS: MiddleEast
 DESC: Most countries consider all Israeli settlements to be illegal. Israel disagrees, citing historical and political links to the land - which the Palestinians also assert - as well as security interests.
 
 TITLE: Leaked Draft of Trump’s Religious Freedom Order Reveals Sweeping Plans to Legalize Discrimination
@@ -406,7 +406,7 @@ DESC: I can affirm that whoever wrote Trump’s executive order blocking refugee
 
 TITLE: Trump Says ‘Go Nuclear’ as Democrats Gird for Gorsuch Fight
 URL: https://www.nytimes.com/2017/02/01/us/politics/neil-gorsuch-supreme-court-trump.html
-TAGS: News SCOTUS
+TAGS: SCOTUS
 DESC: Democrats intend to repeatedly remind the public about the Republicans’ treatment of Merrick B. Garland, President Barack Obama’s nominee to fill the vacant seat last year, who was blocked from even receiving a hearing.
 
 TITLE: Former CIA director Petraeus warns that the current international order could 'fray' and 'collapse'
@@ -449,7 +449,7 @@ TAGS: Twitter Mexico AltFacts
 
 TITLE: US Threatens To Invade Mexico. No, Really
 URL: http://www.theamericanconservative.com/dreher/us-threatens-to-invade-mexico-no-really/
-TAGS: News Mexico
+TAGS: Mexico
 DESC: “You have a bunch of bad hombres down there. You aren’t doing enough to stop them. I think your military is scared. Our military isn’t, so I just might send them down to take care of it.”
 
 TITLE: My senator's local office is not answering his phone, and his voicemail seems to be full.
@@ -509,7 +509,7 @@ TAGS: Twitter SCOTUS HaHa
 
 TITLE: Republicans move to sell off 3.3m acres of national land, sparking rallies
 URL: https://www.theguardian.com/environment/2017/jan/31/public-lands-sell-congress-bureau-management-chaffetz
-TAGS: News Environment
+TAGS: Environment
 DESC: Due to a controversial change this month to the House of Representatives’ rules, the sale does not have to make money for the federal government.
 
 TITLE: Trump Versus Everyone
@@ -519,12 +519,12 @@ DESC: A comprehensive guide to the lawsuits against the president’s executive 
 
 TITLE: Who Is Neil Gorsuch, Trump's First Pick For The Supreme Court?
 URL: http://www.npr.org/2017/01/31/511850519/who-is-neil-gorsuch-trumps-first-pick-for-the-supreme-court
-TAGS: News SCOTUS
+TAGS: SCOTUS
 DESC: Gorsuch sided in favor of "religious freedom" claims made by the Little Sisters of the Poor and the owners of the craft company Hobby Lobby, who challenged language in the Affordable Care Act that required them to pay for contraceptive coverage for employees.
 
 TITLE: Administration Orders Easement For Construction Of Dakota Access Pipeline
 URL: http://www.npr.org/sections/thetwo-way/2017/01/31/512763500/administration-orders-easement-for-construction-of-dakota-access-pipeline
-TAGS: News Environment
+TAGS: Environment
 DESC: The Standing Rock Sioux Tribe has fought against construction of the pipeline for months, with members and supporters living on the site, trying to block construction. The tribe said it will continue its battle
 
 TITLE: The Downfall of a Top Russian Cyber Spy
@@ -539,7 +539,7 @@ DESC: But, he added "I'm not going to sit around and engage with people who have
 
 TITLE: Trump nominates Judge Gorsuch to Supreme Court
 URL: http://www.foxnews.com/politics/2017/01/31/trump-names-judge-gorsuch-as-supreme-court-choice.html
-TAGS: News SCOTUS
+TAGS: SCOTUS
 DESC: Like Scalia, he is an originalist who believes judges should follow the text and original meaning of the Constitution.
 
 TITLE: Getting ready to deliver a VERY IMPORTANT DECISION!  8:00 P.M.
@@ -571,7 +571,7 @@ DESC: What is spreading today is repressive kleptocracy, led by rulers motivated
 
 TITLE: Trump scraps signing of cybersecurity executive action
 URL: http://thehill.com/homenews/administration/317165-trump-scraps-signing-of-cybersecurity-executive-action
-TAGS: News Security
+TAGS: Security
 DESC: It was an abrupt about face after the White House spent all day Tuesday plugging its plans to boost the nation's offensive and defensive cyber capabilities. 
 
 TITLE: LGBT worker protection stays under Trump
@@ -586,12 +586,12 @@ DESC: “What we saw last night is an example of what is at stake with this nomi
 
 TITLE: After meeting with pharma lobbyists, Trump drops promise to negotiate drug prices
 URL: http://www.vox.com/policy-and-politics/2017/1/31/14453740/trump-medicare-prescription-drugs
-TAGS: News HealthCare
+TAGS: HealthCare
 DESC: Instead of getting tough, Trump’s new plan is that he’s “going to be lowering taxes” and “getting rid of regulations.”
 
 TITLE: Trump Calls Drug Pricing ‘Astronomical’ and Promises Changes
 URL: https://www.bloomberg.com/politics/articles/2017-01-31/trump-meets-with-drugmakers-as-industry-fears-price-controls
-TAGS: News HealthCare
+TAGS: HealthCare
 DESC: Trump has threatened to have the government negotiate prices directly with the industry on behalf of Medicare and Medicaid
 
 TITLE: The 'punch a Nazi' meme: what are the ethics of punching Nazis?
@@ -601,7 +601,7 @@ DESC: It’s possible to celebrate a Nazi feeling discomfort while disagreeing w
 
 TITLE: Sources: Nearly 1,000 at State Department Officially Dissent on Immigration Order
 URL: http://www.voanews.com/a/over-a-thousand-state-dept-personnel-officially-dissent-to-immigration-order/3700399.html
-TAGS: News TravelBan
+TAGS: TravelBan
 DESC: “These are extraordinary times,” she added.
 
 TITLE: Democrats boycott confirmation hearings for Price and Mnuchin, blocking votes
@@ -611,12 +611,12 @@ DESC: ...four years ago, Republicans boycotted confirmation hearings for Gina Mc
 
 TITLE: While Trump Fiddles, Putin Steps Up The War In Ukraine
 URL: http://www.newsweek.com/while-trump-fiddles-putin-steps-war-ukraine-550603
-TAGS: News Russia
+TAGS: Russia
 DESC: Using artillery, tanks and rockets, combined Russian-separatist forces attacked Ukrainian forces along the front lines in eastern Ukraine on Sunday and early Monday morning, highlighting once again that the February 2015 ceasefire has failed.
 
 TITLE: Parliament to debate Trump state visit after 1.6m sign petition
 URL: https://www.theguardian.com/politics/2017/jan/31/parliament-debate-donald-trump-state-visit-16m-sign-petition
-TAGS: UK News
+TAGS: UK
 DESC: The petition states: “Donald Trump should be allowed to enter the UK in his capacity as head of the US government, but he should not be invited to make an official state visit because it would cause embarrassment to Her Majesty the Queen.”
 
 TITLE: Jeff Sessions Used To Think Sally Yates Should Ignore Presidential Orders
@@ -638,7 +638,7 @@ DAY 11: Monday 30 January 2017
 
 TITLE: Iran tests ballistic missile in defiance of UN resolution, US officials say
 URL: http://www.foxnews.com/world/2017/01/30/iran-conducts-ballistic-missile-test-us-officials-say.html
-TAGS: News MiddleEast
+TAGS: MiddleEast
 DESC: The Khorramshahr medium-range ballistic missile flew 600 miles before exploding, in a failed test of a reentry vehicle
 
 TITLE: Kellyanne Conway is mad about ‘alternative facts’ blowup
@@ -672,11 +672,11 @@ DESC: ...from the perspective of the outsider, weak leaders often act like stron
 
 TITLE: Trump's new acting attorney general will enforce immigration order
 URL: http://www.foxnews.com/politics/2017/01/30/trumps-new-acting-attorney-general-will-enforce-immigration-order.html
-TAGS: News TravelBan
+TAGS: TravelBan
 
 TITLE: Washington is first state to sue Trump over immigration order
 URL: http://www.chicagotribune.com/news/nationworld/ct-washington-state-lawsuit-trump-travel-ban-20170130-story.html
-TAGS: News Lawsuit TravelBan
+TAGS: Lawsuit TravelBan
 DESC: Inslee said he learned the hard way over the years "you do not back down to bullies."
 
 TITLE: Shock and alarm at Bannon’s new role
@@ -711,7 +711,7 @@ DESC: The acting Attorney General, Sally Yates, has betrayed the Department of J
 
 TITLE: Acting Attorney General Sally Yates Tells Justice Department Not to Defend President Trump's Immigration Ban
 URL: http://time.com/4654533/acting-attorney-general-sally-yates-immigration-ban-donald-trump/
-TAGS: News TravelBan
+TAGS: TravelBan
 DESC: "I am responsible for ensuring that the positions we take in court remain consistent with this institution's solemn obligation to always seek justice and stand for what is right,"
 
 TITLE: A ‘rogue’ group of staffers is tweeting secrets from the White House
@@ -734,12 +734,12 @@ DESC: Trump's party has control of Congress. He's just impatient.
 
 TITLE: WH tells career US diplomats who oppose Trump to get out
 URL: http://www.cnn.com/2017/01/30/politics/career-diplomats-dissent-memo/
-TAGS: Spicer News TravelBan
+TAGS: Spicer TravelBan
 DESC: Asked about a memo signed by dozens of State Department diplomats opposing the temporary ban [...], spokesman Sean Spicer encouraged the federal employees to "either get with the program or they can go."
 
 TITLE: State Department dissent memo: ‘We are better than this ban’
 URL: https://www.washingtonpost.com/news/josh-rogin/wp/2017/01/30/state-department-dissent-memo-we-are-better-than-this-ban/
-TAGS: News TravelBan
+TAGS: TravelBan
 DESC: The memo argues that the executive order is poorly conceived and poorly drafted and that its implementation will damage [...] the U.S. fight against terrorism and radicalization both at home and abroad.
 
 TITLE: Just wanted to point out that the White House press secretary now prints and holds up tweets the president has issues with
@@ -758,7 +758,7 @@ DESC: ...he warned that the nation is facing a moment of “tremendous danger”
 
 TITLE: The very long list of Republicans in Congress who have taken no position on Trump's refugee ban
 URL: http://www.vox.com/2017/1/29/14427466/republican-congress-silent-trump-refugee
-TAGS: News TravelBan
+TAGS: TravelBan
 
 TITLE: Google Doodle commemorates Japanese-American activist who fought internment
 URL: http://www.theverge.com/2017/1/30/14437844/google-doodle-fred-korematsu-japanese-internment
@@ -797,12 +797,12 @@ DESC: His administration has drafted an executive order aimed at overhauling the
 
 TITLE: US Navy SEAL killed, 3 injured in raid on Al Qaeda in Yemen
 URL: http://www.foxnews.com/world/2017/01/29/yemeni-officials-us-raid-with-troops-kills-3-alleged-senior-al-qaida-leaders.html
-TAGS: News MiddleEast
+TAGS: MiddleEast
 DESC: The raid on Al Qaeda headquarters was the first counterterrorism offensive under President Trump aimed at gathering intelligence about the militant group
 
 TITLE: Jihadist groups hail Trump’s travel ban as a victory
 URL: https://www.washingtonpost.com/world/national-security/jihadist-groups-hail-trumps-travel-ban-as-a-victory/2017/01/29/50908986-e66d-11e6-b82f-687d6e6a3e7c_story.html
-TAGS: News TravelBan MiddleEast
+TAGS: TravelBan MiddleEast
 DESC: One posting hailed the U.S. president as “the best caller to Islam,” while others predicted that Trump would soon launch a new war in the Middle East.
 
 TITLE: Trial Balloon for a Coup?
@@ -827,7 +827,7 @@ DESC: Precisely because the problem is one of temperament and character, it will
 
 TITLE: Republicans Begin to Break With President Trump
 URL: http://time.com/4652966/donald-trump-refugee-ban-executive-order-republicans/
-TAGS: News TravelBan
+TAGS: TravelBan
 DESC: By Sunday evening, more than a dozen GOP members of Congress had spoken out against Trump’s executive order on immigration.
 
 TITLE: Trump's state department purge sparks worries of 'know-nothing approach' to foreign policy
@@ -851,7 +851,7 @@ TAGS: Twitter GloriousLeader Irony
 
 TITLE: Statement by Senators McCain & Graham on Excutive Order on Immigration
 URL: http://www.mccain.senate.gov/public/index.cfm/2017/1/statement-by-senators-mccain-graham-on-executive-order-on-immigration
-TAGS: News TravelBan
+TAGS: TravelBan
 DESC: We are particularly concerned by reports that this order went into effect with little to no consultation with the Departments of State, Defense, Justice, and Homeland Security.
 
 TITLE: Trump's Immigration Fiasco Might Be More Premeditated Than We Think
@@ -861,7 +861,7 @@ DESC: In cases like this, the smart money is usually on incompetence, not malice
 
 TITLE: Steve Bannon personally overruled DHS decision not to include green card holders in travel ban: CNN
 URL: http://www.rawstory.com/2017/01/steve-bannon-personally-overruled-dhs-decision-not-to-include-green-card-holders-in-travel-ban-cnn/
-TAGS: News TravelBan Bannon
+TAGS: TravelBan Bannon
 
 TITLE: Only 1 suspect in deadly Quebec mosque shooting, police say
 URL: http://www.cbc.ca/news/canada/montreal/quebec-city-mosque-gun-shots-1.3957686
@@ -875,7 +875,7 @@ DESC: Why, then, does Trump’s first week and a half in office seem so surprisi
 
 TITLE: White House Official, in Reversal, Says Green Card Holders Won’t Be Barred
 URL: https://www.nytimes.com/2017/01/29/us/politics/white-house-official-in-reversal-says-green-card-holders-wont-be-barred.html
-TAGS: News TravelBan
+TAGS: TravelBan
 
 TITLE: "Everyone suffered in the Holocaust, including the Jewish people," said @Reince Priebus on @MeetThePress, the understatement of the century.
 URL: https://twitter.com/elizabethics/status/825732613587496962
@@ -888,7 +888,7 @@ DESC: How such a policy would be implemented remains under discussion.
 
 TITLE: Trump’s Border Patrol Defies Judge, U.S. Senator at Dulles Airport as His First Constitutional Crisis Unfolds
 URL: http://www.thedailybeast.com/articles/2017/01/29/trump-s-border-patrol-defies-judge-u-s-senator-at-dulles-airport-at-his-first-constitutional-crisis-unfolds.html
-TAGS: News TravelBan
+TAGS: TravelBan
 DESC: ...it’s also unheard of for government agencies like CBP to prevent people who have the legal right to live in the U.S. from seeing their lawyers. And that’s what was happening.
 
 TITLE: Spicer defends Bannon role at National Security Council
@@ -898,7 +898,7 @@ DESC: "He's got a tremendous understanding of the world and the geopolitical lan
 
 TITLE: Giuliani: Trump asked me how to do a Muslim ban 'legally'
 URL: http://thehill.com/homenews/administration/316726-giuliani-trump-asked-me-how-to-do-a-muslim-ban-legally
-TAGS: News TravelBan
+TAGS: TravelBan
 DESC: "And what we did was we focused on, instead of religion, danger," Giuliani said.
 
 TITLE: Somebody with aptitude and conviction should buy the FAKE NEWS and failing @nytimes and either run it correctly or let it fold with dignity!
@@ -933,7 +933,7 @@ DESC: —Kellyanne Conway
 
 TITLE: Trump says his immigration ban is ‘working out very nicely’
 URL: https://www.yahoo.com/news/trump-my-immigration-ban-is-working-out-very-nicely-010501350.html
-TAGS: News TravelBan
+TAGS: TravelBan
 DESC: Trump denied that the order was meant to target Muslims and cited the scenes at American airports as evidence that the ban is a success.
 
 TITLE: You nailed it. Period!
@@ -948,7 +948,7 @@ DESC: Unlike previous presidential administrations, Trump’s Saturday memo spec
 
 TITLE: PM Trudeau says Canada welcomes refugees
 URL: https://www.washingtonpost.com/world/the_americas/pm-trudeau-says-canada-will-take-refugees/2017/01/28/bb270054-e5aa-11e6-a419-eefe8eff0835_story.html
-TAGS: News Canada
+TAGS: Canada
 
 TITLE: Republican redistricting is taking a beating in the courts, right now
 URL: https://www.washingtonpost.com/news/the-fix/wp/2017/01/28/republican-redistricting-is-taking-a-beating-in-the-courts-right-now/
@@ -957,7 +957,7 @@ DESC: Wisconsin is one of the most gerrymandered states in the nation.
 
 TITLE: Trump and Putin discuss stabilizing ties, Kremlin says
 URL: http://www.cnn.com/2017/01/28/politics/trump-calls-putin-world-leaders/
-TAGS: News Russia
+TAGS: Russia
 DESC: However, relations between Trump and his team and Russia have been under scrutiny following allegations that Moscow meddled in the US election last year.
 
 TITLE: Executive Order: Ethics Commitments by Executive Branch Appointees
@@ -966,7 +966,7 @@ TAGS: Ethics GloriousLeader
 
 TITLE: Federal judge stays deportations under Trump Muslim country travel ban
 URL: https://www.theguardian.com/us-news/2017/jan/28/federal-judge-stays-deportations-trump-muslim-executive-order
-TAGS: News TravelBan
+TAGS: TravelBan
 DESC: The stay will last at least until a hearing scheduled for 21 February
 
 TITLE: Full Replay: Donald Trump And Theresa May Hold A Joint Press Conference
@@ -981,7 +981,7 @@ DESC: Trump’s executive order has led to the flagrantly unconstitutional deten
 
 TITLE: Protest Grows ‘Out of Nowhere’ at Kennedy Airport After Iraqis Are Detained
 URL: https://www.nytimes.com/2017/01/28/nyregion/jfk-protests-trump-refugee-ban.html
-TAGS: News TravelBan
+TAGS: TravelBan
 DESC: ...the police were letting only people with airplane tickets onto the public transportation system.
 
 TITLE: FBI Uncovers Al-Qaeda Plot To Just Sit Back And Enjoy Collapse Of United States
@@ -991,11 +991,11 @@ DESC: “And unfortunately, based on information we have from intelligence asset
 
 TITLE: Green card holders from Trump-restricted countries may not be allowed into US
 URL: http://www.cnn.com/2017/01/28/politics/green-card-donald-trump-travel-ban/index.html
-TAGS: News TravelBan
+TAGS: TravelBan
 
 TITLE: Trump's Immigration Ban Sets In Causing Chaos, Fear And Protests In U.S. And Abroad
 URL: http://www.npr.org/sections/thetwo-way/2017/01/28/512158238/arrivals-to-u-s-blocked-and-detained-as-trumps-immigration-freeze-sets-in
-TAGS: News TravelBan
+TAGS: TravelBan
 DESC: "doesn't include any countries from which radicalized Muslims have actually killed Americans in the U.S. since Sept. 11, 2001."
 
 TITLE: Hours after Trump signs Muslim ban, Texas mosque goes up in flames
@@ -1004,17 +1004,17 @@ TAGS: Hate
 
 TITLE: Countries where Trump does business are not hit by new travel restrictions
 URL: https://www.washingtonpost.com/politics/countries-where-trump-does-business-are-not-hit-by-new-travel-restrictions/2017/01/28/dd40535a-e56b-11e6-a453-19ec4b3d09ba_story.html
-TAGS: News Ethics TravelBan
+TAGS: Ethics TravelBan
 DESC: Trump is now facing questions about whether he designed the new rules with his own business at least partly in mind.
 
 TITLE: Full text of Trump's executive order on 7-nation ban, refugee suspension
 URL: http://edition.cnn.com/2017/01/28/politics/text-of-trump-executive-order-nation-ban-refugees/
-TAGS: News TravelBan
+TAGS: TravelBan
 DESC: Those countries were named in a 2016 law concerning immigration visas as "countries of concern."
 
 TITLE: Here Comes The First Suit Challenging Trump's "Muslim Ban"
 URL: http://www.motherjones.com/politics/2017/01/lawsuit-muslim-ban
-TAGS: Lawsuit News TravelBan
+TAGS: Lawsuit TravelBan
 DESC: "There is no evidence that refugees—the most thoroughly vetted of all people entering our nation—are a threat to national security"
 
 TITLE: President Trump is right. I built a wall along Israel's southern border. It stopped all illegal immigration. Great success. Great idea 🇮🇱🇺🇸
@@ -1040,7 +1040,7 @@ DAY 8: Friday 27 January 2017
 
 TITLE: Trump's latest executive order: Banning people from 7 countries and more
 URL: http://www.cnn.com/2017/01/27/politics/donald-trump-refugees-executive-order/index.html
-TAGS: News TravelBan
+TAGS: TravelBan
 DESC: Trump banned citizens of seven Muslim-majority countries from entering the US for at least the next 90 days.
 
 TITLE: Trump’s Yuge Week One - What really mattered, and what didn’t.
@@ -1050,7 +1050,7 @@ DESC: With a flurry of provocative executive orders, surreal events, unapologeti
 
 TITLE: Mystery death of ex-KGB chief linked to MI6 spy's dossier on Donald Trump
 URL: http://www.telegraph.co.uk/news/2017/01/27/mystery-death-ex-kgb-chief-linked-mi6-spys-dossier-donald-trump/
-TAGS: News Russia
+TAGS: Russia
 DESC: The death of Erovinkin has prompted speculation it is linked to Mr Steele’s explosive dossier, which was made public earlier this month.
 
 TITLE: The President of the United States Explicitly Endorses Torture — a Crime Against Humanity
@@ -1070,7 +1070,7 @@ DESC: ...they are choosing to remain anonymous and continue tweeting out facts a
 
 TITLE: In leaked audio, Republicans destroy their own public talking points on Obamacare
 URL: https://www.washingtonpost.com/blogs/plum-line/wp/2017/01/27/in-leaked-audio-republicans-destroy-their-own-public-talking-points-on-obamacare/
-TAGS: News ThanksObama HealthCare
+TAGS: ThanksObama HealthCare
 DESC: Now, to be clear, these private comments reveal Republicans actually wrestling with the policy challenges that repeal (and replace) will create, which is a good thing as far as it goes.
 
 TITLE: Trump’s Lies vs. Your Brain
@@ -1147,7 +1147,7 @@ DESC: The wrong Teresa: Teresa May is a soft porn actress
 
 TITLE: Republicans Quietly Admit There Will Be No Obamacare Replacement
 URL: http://nymag.com/daily/intelligencer/2017/01/gop-quietly-admits-there-will-be-no-obamacare-replacement.html
-TAGS: News ThanksObama HealthCare
+TAGS: ThanksObama HealthCare
 DESC: There appears to be no consensus on anything.
 
 TITLE: The leaks coming out of the Trump White House cast the president as a clueless child
@@ -1157,7 +1157,7 @@ DESC: Time and again, the image of Trump pushed by his “aides” is one of a c
 
 TITLE: Memos: CEO of Russia's state oil company offered Trump adviser, allies a cut of huge deal if sanctions were lifted
 URL: http://www.businessinsider.com/carter-page-trump-russia-igor-sechin-dossier-2017-1
-TAGS: News Russia Ethics
+TAGS: Russia Ethics
 DESC: A dossier with unverified claims about President Donald Trump's ties to Russia...
 
 TITLE: Anti-abortion marchers celebrate a new era under Trump
@@ -1233,7 +1233,7 @@ DESC: ...moved the hands of the clock 30 seconds nearer to midnight, the closest
 
 TITLE: Trump’s Budget Pick Didn’t Pay Taxes on His Nanny Because He Didn’t Think She Was Doing Real Work
 URL: http://www.slate.com/blogs/xx_factor/2017/01/25/trump_s_budget_pick_didn_t_pay_taxes_on_his_nanny_because_he_didn_t_think.html
-TAGS: News Ethics
+TAGS: Ethics
 DESC: It’s not like she made them a pot roast or taught their kids algebra, for heaven’s sake.
 
 TITLE: Hey Sean Spicer, what's up with that cryptic tweet?
@@ -1283,7 +1283,7 @@ DAY 6: Wednesday 25 January 2017
 
 TITLE: Trump announces new White House ethics team
 URL: https://www.washingtonpost.com/politics/trump-announces-new-white-house-ethics-team/2017/01/25/85e66dce-e354-11e6-ba11-63c4b4fb5a63_story.html
-TAGS: News HaHa Ethics
+TAGS: HaHa Ethics
 DESC: Some ethics watchdogs were skeptical.
 
 TITLE: Germany will abolish law against insulting foreign heads of state
@@ -1302,7 +1302,7 @@ DESC: Donald Trump on torture: “I will always abide by the law”
 
 TITLE: Trump administration tells EPA to cut climate page from website
 URL: http://www.reuters.com/article/us-usa-trump-epa-climatechange-idUSKBN15906G
-TAGS: News Environment
+TAGS: Environment
 DESC: If the website goes dark, years of work we have done on climate change will disappear
 
 TITLE: Trump hangs portrait of Andrew Jackson in Oval Office
@@ -1312,12 +1312,12 @@ DESC: Jackson’s legacy is also rife with controversy. He signed the Indian Rem
 
 TITLE: How Russia sold its oil jewel: without saying who bought it
 URL: http://www.reuters.com/article/us-russia-rosneft-privatisation-insight-idUSKBN1582OH
-TAGS: News Russia
+TAGS: Russia
 DESC: If the full identity of the new owners of the Rosneft stake is a mystery, so too is the complete source of the funds with which they bought it.
 
 TITLE: More National Parks employees appear to taunt Trump on Twitter
 URL: http://www.cnbc.com/2017/01/25/national-parks-employees-are-still-going-rogue-on-twitter.html
-TAGS: News Environment
+TAGS: Environment
 DESC: Twitter feed called @AltNatParkSer gained about 170,000 followers overnight, and was also publishing information about climate change and other issues
 
 TITLE: Steve Bannon registered to vote in two states despite Trump's cries of 'voter fraud'
@@ -1350,7 +1350,7 @@ TAGS: Twitter
 
 TITLE: Trump is reportedly still using his unsecured Android phone
 URL: http://www.theverge.com/2017/1/25/14386524/trump-unsecure-android-phone-report
-TAGS: News Security
+TAGS: Security
 DESC: Trump did have kind words for the security of the White House phones, saying “words just explode in the air.”
 
 TITLE: This is what Trump voters said when asked to compare his inauguration crowd with Obama’s
@@ -1376,7 +1376,7 @@ DAY 5: Tuesday 24 January 2017
 
 TITLE: NASA Releases Climate Change Images As Trump Still Claims It Doesn't Exist
 URL: http://www.houstonpress.com/news/nasa-releases-climate-change-images-as-trump-still-claims-it-doesnt-exist-9135052
-TAGS: News Science Environment
+TAGS: Science Environment
 DESC: Since Trump was inaugurated on Friday, the White House website has already wiped away all mention of climate change.
 
 TITLE: Report: Conway punched a man three times at inaugural ball
@@ -1439,12 +1439,12 @@ DESC: Spicer did not provide hard data to back up the claim
 
 TITLE: Trump bans EPA employees from giving social media updates
 URL: http://thehill.com/policy/energy-environment/315876-trump-bans-epa-employees-from-giving-social-media-updates
-TAGS: News Science Environment
+TAGS: Science Environment
 DESC: EPA memo says agency is not allowed to issue press releases, add new content on websites, or post on social media
 
 TITLE: Trump to sign orders reviving pipeline projects, sources say
 URL: http://www.foxnews.com/politics/2017/01/24/trump-to-sign-orders-reviving-pipeline-projects-sources-say.html
-TAGS: News Environment
+TAGS: Environment
 DESC: The moves are likely to spark a new fight with environmentalists.
 
 TITLE: Trump retains FBI Director James Comey, sources say
@@ -1606,7 +1606,7 @@ DESC: —Chelsea Clinton
 
 TITLE: CREW Sues Trump Over Emoluments
 URL: http://www.citizensforethics.org/press-release/crew-sues-trump-emoluments/
-TAGS: News Lawsuit
+TAGS: Lawsuit
 DESC: The foreign emoluments clause of the Constitution prohibits Trump from receiving anything of value from foreign governments, including foreign government-owned businesses, without the approval of Congress.
 
 TITLE: Conway: 'Alternative Facts'
@@ -1643,17 +1643,17 @@ TAGS: Twitter ThanksObama
 
 TITLE: U.S. Eyes Michael Flynn’s Links to Russia
 URL: http://www.wsj.com/articles/u-s-eyes-michael-flynns-links-to-russia-1485134942
-TAGS: News Russia
+TAGS: Ethics Russia
 DESC: Michael Flynn, President Donald Trump's national security adviser, has been the subject of U.S. counterintelligence investigations over his past communications with Russia's ambassador to the U.S.
 
 TITLE: Donald Trump's team defends 'alternative facts' after widespread protests
 URL: https://www.theguardian.com/us-news/2017/jan/22/donald-trump-kellyanne-conway-inauguration-alternative-facts
-TAGS: News Conway AltFacts
+TAGS: Conway AltFacts
 DESC: Trump’s press secretary, Sean Spicer, used his first White House briefing to shout at journalists
 
 TITLE: Kellyanne Conway: Press secretary Sean Spicer used ‘alternative facts’ about crowd size
 URL: http://www.washingtontimes.com/news/2017/jan/22/kellyanne-conway-press-secretary-sean-spicer-used-/
-TAGS: News Conway AltFacts
+TAGS: Conway AltFacts
 DESC: Alternative facts? Four of the five facts he uttered were just not true. Look, alternative facts are not facts; they’re falsehoods.
 
 TITLE: Warren Ellis, On Whether Nazis Should Be Punched In The Face, Or Not
@@ -1761,7 +1761,7 @@ DAY 1: Friday 20 January 2017
 
 TITLE: Donald Trump Just Replaced the White House Climate Website With…This
 URL: http://www.motherjones.com/environment/2017/01/donald-trump-climate-white-house-website
-TAGS: News ThanksObama
+TAGS: ThanksObama
 DESC: The requested page '/energy/climate-change' could not be found.
 
 TITLE: Crowning Achievement: Donald Trump Has Just Accomplished His Lifelong Goal Of Kicking The Nation’s Most Powerful Black Family Out Of Their House
