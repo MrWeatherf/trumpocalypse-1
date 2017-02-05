@@ -52,6 +52,10 @@ URL: http://www.nbcnews.com/politics/donald-trump/global-demonstrations-over-tru
 TAGS: TravelBan
 DESC: A protest was also held in West Palm Beach, Florida, on Saturday afternoon — just across the water from Mar-A-Lago, the Trump-owned resort where the president was working out of over the weekend.
 
+TITLE: MAKE AMERICA GREAT AGAIN!
+URL: https://twitter.com/realDonaldTrump/status/827885966509604865
+TAGS: Twitter GloriousLeader
+
 TITLE: Report: Steve Bannon Had to Be Reminded He Wasn’t the President Amidst Travel Ban Infighting
 URL: http://nymag.com/daily/intelligencer/2017/02/report-bannon-had-to-be-reminded-he-wasnt-the-president.html
 TAGS: Bannon
@@ -95,6 +99,11 @@ DAY 15: Friday 3 February 2017
 TITLE: Saddened and sickened by Frederick Douglass' silence surrounding the Bowling Green Massacre.
 URL: https://twitter.com/natasharothwell/status/827393205372981250
 TAGS: Twitter HaHa
+
+TITLE: Ivanka Trump and Jared Kushner worked to sink LGBT order
+URL: http://www.politico.com/story/2017/02/ivanka-trump-jared-kushner-lgbt-order-234617
+TAGS: News
+DESC: But two sources close to Kushner and Ivanka Trump, who have a record of supporting gay rights, said the couple favored putting out a clear statement from the president, promising to uphold the 2014 Obama executive order
 
 TITLE: Harpers's Weekly Review
 URL: http://harpers.org/blog/2017/02/weekly-review-3/
