@@ -38,7 +38,22 @@
 #         #   #  #   #    #       #
 #         #   #  #   #    #      #
 #          ###    ###    ###     #
-#DAY 17: Sunday 5 February 2017
+DAY 17: Sunday 5 February 2017
+
+TITLE: Appeals court denies Trump request to immediately reinstate travel ban
+URL: http://www.foxnews.com/politics/2017/02/05/appeals-court-denies-trump-request-to-immediately-reinstate-travel-ban.html
+TAGS: TravelBan Lawsuit
+DESC: The higher court's denial of an immediate stay means the legal battles will continue for days at least.
+
+TITLE: Trump defends Putin over Russia killings allegations
+URL: http://www.bbc.com/news/world-us-canada-38872328
+TAGS: Russia
+DESC: "There are a lot of killers. We've got a lot of killers. What do you think? Our country's so innocent?"
+
+TITLE: Travel Ban Keeps Scientists Out of the Lab
+URL: http://www.npr.org/sections/goatsandsoda/2017/02/05/513317158/travel-ban-keeps-scientists-out-of-the-lab
+TAGS: Science
+DESC: "The head of the world academy of sciences, which is headquartered in Trieste, Italy, sent a letter saying he is canceling his plans because he is Sudanese and didn't expect to be able to travel"
 
 #          ###    ###     #     ###
 #         #   #  #   #   ##    #
@@ -46,6 +61,26 @@
 #         #   #  #   #    #    #   #
 #          ###    ###    ###    ###
 DAY 16: Saturday 4 February 2017
+
+TITLE: 14 Versions Of Trump’s Presidency, From #MAGA To Impeachment
+URL: https://fivethirtyeight.com/features/14-versions-of-trumps-presidency-from-maga-to-impeachment/
+TAGS: Commentary
+DESC: The goal is not necessarily to assess the relative likelihood of each scenario so much as to keep an open mind so you’re not so surprised when events don’t develop quite as you’d expected.
+
+TITLE: Why Nobody Cares the President Is Lying
+URL: https://www.nytimes.com/2017/02/04/opinion/sunday/why-nobody-cares-the-president-is-lying.html
+TAGS: Commentary AltFacts 
+DESC: The real danger is that, inundated with “alternative facts,” many voters will simply shrug, asking, “What is truth?” — and not wait for an answer.
+
+TITLE: Republicans face anger over Obamacare repeal during town halls
+URL: http://www.politico.com/story/2017/02/republicans-obamacare-repeal-town-halls-234651
+TAGS: HealthCare
+DESC: Republican leaders say they’re still trying to push through a repeal of Obamacare while approving major parts of a replacement plan by early March. But there are deep disagreements among GOP lawmakers about how much of Obamacare they should salvage
+
+TITLE: Fact Checking This Week In The Trump Administration
+URL: http://www.npr.org/2017/02/04/513348780/fact-checking-this-week-in-the-trump-administration
+TAGS: Commentary AltFacts
+DESC: It's only the second week of the Trump administration, but there has been a continued tension with facts.
 
 TITLE: Global Demonstrations Over Trump’s Policies Heat Up Amid Anger Over Travel Ban
 URL: http://www.nbcnews.com/politics/donald-trump/global-demonstrations-over-trump-s-policies-heat-amid-anger-over-n716831
@@ -200,6 +235,11 @@ URL: http://www.npr.org/2017/02/02/513126985/house-votes-to-overturn-obama-rule-
 TAGS: News
 DESC: The National Rifle Association had pushed for the repeal, and Republicans argued it infringed upon Second Amendment rights by denying due process.
 
+TITLE: Scientists Organize Their Own March on Washington
+URL: http://www.voanews.com/a/scientist-march-on-washington/3704560.html
+TAGS: Science
+DESC: “This long-simmering history of anti-science is on a freight train that’s barreling down on all of us”
+
 TITLE: Howard Stern: Trump wants to be loved, presidency will be 'detrimental' to his mental health
 URL: http://money.cnn.com/2017/02/02/media/kfile-stern-on-trump/index.html
 TAGS: Commentary
@@ -333,6 +373,11 @@ TITLE: House Republicans Vote to End Rule Stopping Coal Mining Debris From Being
 URL: http://time.com/4657438/congressional-republicans-environmental-regulations-coal-streams/
 TAGS: News Environment
 DESC: Rep. John Yarmuth, D-Ky., displayed a bottle of brownish water he said came from a constituent's well near a surface coal mine. He challenged lawmakers to drink from it and said the stream rule was one of the only safety measures protecting people in coal country.
+
+TITLE: Since the media doesn’t seem to care, here are the victims of the Quebec mosque attack
+URL: http://deadstate.org/since-the-media-doesnt-seem-to-care-here-are-the-victims-of-the-quebec-mosque-attack/
+TAGS: Canada
+DESC: The suspect, Canadian Alexandre Bissonnette, has reportedly been identified as a white nationalist
 
 TITLE: Trump's Company Loses Lawsuit Filed By Golf Club Members
 URL: http://www.npr.org/sections/thetwo-way/2017/02/01/512928851/trumps-company-loses-lawsuit-filed-by-golf-club-members
@@ -1651,6 +1696,11 @@ TITLE: Over 1 million protesters across the US marched for women’s rights in a
 URL: https://qz.com/891589/womensmarch-over-a-million-protesters-across-the-us-marched-for-womens-rights-saturday-in-a-rebuke-to-president-trump/
 TAGS: News
 DESC: The numbers were far higher than expected in many big cities, and the attendance in Washington, DC alone was estimated 500,000, double the audience for Trump’s inauguration.
+
+TITLE: Did Donald Trump Remove a MLK Bust from the Oval Office?
+URL: http://www.snopes.com/mlk-bust-oval-office/
+TAGS: Misc
+DESC: A Time magazine reporter erroneously tweeted that a bust of civil rights icon Martin Luther King, Jr. was removed from display in the Oval Office
 
 TITLE: 11 of the Most Creative Remixes of a White Nationalist Getting Punched in the Face
 URL: http://observer.com/2017/01/richard-spencer-punch-inauguration-twitter/
