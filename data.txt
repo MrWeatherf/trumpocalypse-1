@@ -55,6 +55,11 @@ URL: http://www.npr.org/sections/goatsandsoda/2017/02/05/513317158/travel-ban-ke
 TAGS: Science
 DESC: "The head of the world academy of sciences, which is headquartered in Trieste, Italy, sent a letter saying he is canceling his plans because he is Sudanese and didn't expect to be able to travel"
 
+TITLE: ‘SNL’: Melissa McCarthy Skewers White House Press Sec. Sean Spicer
+URL: http://www.nbcnews.com/pop-culture/tv/snl-melissa-mccarthy-skewers-white-house-press-sec-sean-spicer-n716951
+TAGS: Commentary Spicer HaHa
+DESC: In a surprise cameo, McCarthy mimicked Spicer's famously combative first appearance with the White House press corps, where he angrily took issue with reports about the size of the crowd at Trump's inauguration.
+
 #          ###    ###     #     ###
 #         #   #  #   #   ##    #
 #         #   #  #   #    #    ####
