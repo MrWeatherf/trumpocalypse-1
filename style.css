@@ -107,6 +107,20 @@
 	margin: 10px 0 20px 0;
 }
 
+.tag-page-tag {
+	font-size: 14pt;
+	text-align: center;
+	margin: 10px 0 5px 0;
+}
+
+.tag-page-info {
+	font-size: 10pt;
+	font-style: italic;
+	text-align: center;
+	max-width: 500px;
+	margin: 0 auto 20px auto;
+}
+
 .day {
 	font-size: 20pt;
 	font-weight: bold;
@@ -121,13 +135,27 @@
 	margin: 0 0 10px 0;
 }
 
+.tag-heading {
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: center;
+	margin: 30px 0 10px 0;
+}
+
 @media screen and (min-width : 992px) {
+	.tag_row_padding {
+		padding: 8px !important;
+	}
 	.row_padding {
 		padding: 2px !important;
 	}
 	.tag-box {
 		justify-content: flex-end !important;
 	}
+}
+
+.tag-row_padding {
+	padding: 20px 0 0 0;
 }
 
 .row_padding {

@@ -18,10 +18,10 @@ TagGroups = [
 		['Spicer', "Sean Spicer, White House Press Secretary and Communications Director for the Administration."],
 		['ThanksObama', "Barack Obama, the 44th President of the United States. Notably not part of the current Administration."],
 		]],
-	['Country', [
+	['Countries', [
 		['Canada', "Our neighbour to the north. This tag is also used for anything relating to Hockey, Maple Syrup, and Tim Hortons."],
 		['Mexico', "Our neighbor to the south."],
-		['MiddleEast', "Any of the countries located in the middle part of 'The East', including (but not limited to), Israel, Iran, Iraq, Yemen."],
+		['MiddleEast', "Any of the countries located in the Middle East, including (but not limited to), Israel, Iran, Iraq, Yemen."],
 		['Russia', "Vladimir Putin and Vodka. And probably oil."],
 		['UK', "The United Kingdom. Or Great Britain (England, Scotland, Wales) and the northern bits of Ireland. Plus maybe some other areas like Jersey and Guernsey (cows!). It's all so confusing."],
 		]],
@@ -30,6 +30,7 @@ TagGroups = [
 		['BabyHands', "Silly items relating to the discussion of Trump's hands and his over-reactions."],
 		['Environment', "Anything related to the environment, the EPA and climate change."],
 		['Ethics', "The conflicts of interest held by the various members of the Administration."],
+		['Hate', "Hate crimes and terrorism."],
 		['HealthCare', "The aftermath of the Affordable Care Act."],
 		['ILoveWomen', "He truly does. And he shows it in so many ways..."],
 		['Lawsuit', "Legal action relating to the Administration."],
@@ -41,16 +42,15 @@ TagGroups = [
 		['TheWall', "Relating to the proposed border wall between the US and Mexico."],
 		['TravelBan', "The ban (sorry 'not-really-a-ban') on immigrants from some Middle East countries."],
 		]],
-	['General Category', [
+	['General Categories', [
 		['Commentary', "General commentary about previous news items."],
 		['Misc', "Minor 'news' that's not quite as newsworthy as things tagged with 'News'."],
 		['News', "General news that doesn't fit into a more specific category."],
 		['Satire', "Obvious satire. As opposed to what's actually happening in the government."],
 		['Twitter', "Tweets."],
 		]],
-	['Editorial', [
+	['Editorial Tags', [
 		['HaHa', "Things that are funny - either intentionally or not."],
-		['Hate', "Hate crimes and terrorism."],
 		['Irony', "Like rain on your wedding day."],
 		]],
 ]
@@ -269,12 +269,12 @@ class Parser():
 			group_name = g[0]
 			tags = g[1]
 
-			out.write('<div class="date">%s</div>\n' % html_escape(group_name))
+			out.write('<div class="tag-heading">%s</div>\n' % html_escape(group_name))
 
 			for t in tags:
 				tagName = t[0]		
 				tagInfo = t[1]	
-				out.write('<div class="row row_padding">')
+				out.write('<div class="row tag_row_padding">')
 				out.write('<div class="col-md-3 tag-box">')
 				out.write('<a href="tag/%s/%s.html"><span class="tag %s">%s</span></a> ' % (tagName, self.base_name, tagName, tagName))
 				out.write('</div><div class="col-md-9 info-box">')
@@ -344,11 +344,17 @@ class Parser():
 		self.write_title(self.outfile_all, base_path, 'day')
 		
 		base_path = '../../'
-		for t in Tags:
-			out = self.tagFiles[t]
-			self.write_html_header(out, 'Trumpocalypse - %s' % t, base_path)
-			self.write_title(out, base_path, 'day')
-			out.write('<div class="main-entry-info"><span class="tag %s">%s</span></div>\n' % (t, t))
+		for g in TagGroups:
+			tags = g[1]
+			for t in tags:
+				tagName = t[0]		
+				tagInfo = t[1]	
+
+				out = self.tagFiles[tagName]
+				self.write_html_header(out, 'Trumpocalypse - %s' % tagName, base_path)
+				self.write_title(out, base_path, 'day')
+				out.write('<div class="tag-page-tag"><span class="tag %s">%s</span></div>\n' % (tagName, tagName))
+				out.write('<div class="tag-page-info">%s</div>\n' % tagInfo)
 
 	def write_html_header(self, out, title, base_path):
 		out.write('<!DOCTYPE html>\n')
