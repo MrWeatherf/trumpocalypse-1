@@ -432,17 +432,6 @@
 	color: White;
 }
 
-.Security { /* Plum = #dda0dd */
-	border-color: Plum;
-	background-color: Plum;
-	color: Black;
-}
-.day-table .Security:hover {
-	border-color: #bd80bd;
-	background-color: #bd80bd;
-	color: Black;
-}
-
 .Science { /* MediumSpringGreen = #00fa9a */
 	border-color: #00ca9a;
 	background-color: #00ca9a;
@@ -485,6 +474,17 @@
 	border-color: #a23900;
 	background-color: #a23900;
 	color: White;
+}
+
+.TheCyber { /* Plum = #dda0dd */
+	border-color: Plum;
+	background-color: Plum;
+	color: Black;
+}
+.day-table .TheCyber:hover {
+	border-color: #bd80bd;
+	background-color: #bd80bd;
+	color: Black;
 }
 
 .TheWall {
