@@ -40,6 +40,29 @@
 #          ###    ###    ###     #
 DAY 17: Sunday 5 February 2017
 
+TITLE: Trump’s F.C.C. Quickly Targets Net Neutrality Rules
+URL: https://www.nytimes.com/2017/02/05/technology/trumps-fcc-quickly-targets-net-neutrality-rules.html
+TAGS: TheCyber
+DESC: “The public wants an F.C.C. that helps people. Instead, it got one that does favors for the powerful corporations that its chairman used to work for.”
+
+TITLE: I got this.
+URL: https://www.instagram.com/p/BQHEHzDjat0/
+TAGS: HaHa TravelBan
+
+TITLE: GOP Congressman Overwhelmed by ACA-Supporting Constituents
+URL: http://nymag.com/daily/intelligencer/2017/01/gop-congressman-overwhelmed-by-aca-supporting-constituents.html
+TAGS: HealthCare
+DESC: Representative Mike Coffman [...] was overwhelmed by constituents at his own constituent-event in the town of Aurora on Saturday, so much so that he ultimately opted to sneak out of the event early rather than face the as many as 100 disgruntled people still waiting to speak with him.
+
+TITLE: Just cannot  believe a judge would put our country in such peril. If something happens blame him and court system. People pouring in. Bad!
+URL: https://twitter.com/realDonaldTrump/status/828342202174668800
+TAGS: Twitter GloriousLeader
+
+TITLE: Pelosi calls for probe of possible Russian blackmail of Trump
+URL: http://www.politico.com/story/2017/02/pelosi-trump-russia-234664
+TAGS: Russia Ethics
+DESC:  "I think we have to have an investigation by the FBI into his financial, personal and political connections to Russia, and we want to see his tax returns, so we can have truth in the relationship between Putin, whom he admires, and Donald Trump."
+
 TITLE: Appeals court denies Trump request to immediately reinstate travel ban
 URL: http://www.foxnews.com/politics/2017/02/05/appeals-court-denies-trump-request-to-immediately-reinstate-travel-ban.html
 TAGS: TravelBan Lawsuit
@@ -71,6 +94,11 @@ TITLE: 14 Versions Of Trump’s Presidency, From #MAGA To Impeachment
 URL: https://fivethirtyeight.com/features/14-versions-of-trumps-presidency-from-maga-to-impeachment/
 TAGS: Commentary
 DESC: The goal is not necessarily to assess the relative likelihood of each scenario so much as to keep an open mind so you’re not so surprised when events don’t develop quite as you’d expected.
+
+TITLE: Bowling Green Massacre Memorial Sign 😁
+URL: https://twitter.com/AgentOrchid/status/828051564124188672
+TAGS: Twitter HaHa
+DESC: Citizens of every nationality wept as the truth died that day.
 
 TITLE: Why Nobody Cares the President Is Lying
 URL: https://www.nytimes.com/2017/02/04/opinion/sunday/why-nobody-cares-the-president-is-lying.html
