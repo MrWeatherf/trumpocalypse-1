@@ -439,7 +439,10 @@ class Parser():
 						base_path = '../../'
 					for t in tags:
 						out.write('<a href="%stag/%s/%s.html"><span class="tag %s">%s</span></a> ' % (base_path, t, self.base_name, t, t))
-					out.write('</div><div class="col-md-9 info-box">')
+					extra = ''
+					if 'GloriousLeader' in tags and 'Twitter' in tags:
+						extra = ' trumptweet'
+					out.write('</div><div class="col-md-9 info-box%s">' % extra)
 					out.write('<div class="title"><a href="%s">%s</a></div>' % (html_escape(url), html_escape(title)))
 					out.write('<div class="desc">%s</div>' % html_escape(desc))
 					out.write('</div></div>\n')
