@@ -224,7 +224,7 @@
 	color: White;
 }
 
-.Australia .flip {
+.Australia {
 	border-color: White;
 	background: repeating-linear-gradient(0deg, Green, Green 10px, Gold 10px, Gold 20px);
 	color: Black;
