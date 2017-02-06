@@ -33,6 +33,31 @@
 #          ###    ###    ###    ###
 DAY 18: Monday 6 February 2017
 
+TITLE: All eyes on 9th Circuit Court of Appeals in battle over Trump's travel ban
+URL: http://www.cnn.com/2017/02/06/politics/9th-circuit-court-of-appeals-trump-travel-ban/
+TAGS: TravelBan Lawsuit
+DESC: The issue in front of the court at the moment is not whether or not Trump's travel ban is constitutional, but whether it will remain suspended for now.
+
+TITLE: Trump: Leaked transcripts of Mexico, Australia calls 'disgraceful'
+URL: http://www.foxnews.com/politics/2017/02/06/trump-leaked-transcripts-mexico-australia-calls-disgraceful.html
+TAGS: Mexico
+DESC: Trump said that media reports of what appeared to be angry exchanges between him and the two foreign leaders had been mischaracterized, and insisted that he had “positive” relations with both countries and their leaders.
+
+TITLE: Tom Price has his finger on the Obamacare destruct button
+URL: http://www.politico.com/story/2017/02/tom-price-obamacare-234668
+TAGS: HealthCare
+DESC: Price’s earliest moves are expected to target parts of Obamacare that he’s condemned for the better part of a decade. [...] provisions that require insurers to offer customers a minimum set of benefits, as well as an Obama-era standard mandating contraceptive coverage as a preventive health benefit.
+
+TITLE: Bracing for Trump's Revenge
+URL: https://www.theatlantic.com/politics/archive/2017/02/trumps-enemies-list/513449/
+TAGS: Commentary
+DESC: For many Republican politicos who were critical of Trump during the campaign, the fear of personal retribution from the leader of the free world is softened somewhat by their unwavering conviction of his incompetence.
+
+TITLE: Report: Trump not fully briefed on exec order that gave Bannon seat at NSC meetings
+URL: http://www.foxnews.com/politics/2017/02/06/report-trump-not-fully-briefed-on-exec-order-that-gave-bannon-seat-at-nsc-meetings.html
+TAGS: Bannon
+DESC: Trump was frustrated over the executive order and reportedly demanded to be looped in on the executive orders earlier in the drafting process.
+
 TITLE: Any negative polls are fake news, just like the CNN, ABC, NBC polls in the election. Sorry, people want border security and extreme vetting.
 URL: https://twitter.com/realDonaldTrump/status/828574430800539648
 TAGS: Twitter GloriousLeader
