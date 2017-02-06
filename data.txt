@@ -33,6 +33,11 @@
 #          ###    ###    ###    ###
 DAY 18: Monday 6 February 2017
 
+TITLE: Spicer: Melissa McCarthy 'could dial back' SNL impression
+URL: http://thehill.com/blogs/in-the-know/in-the-know/318039-spicer-melissa-mccarthy-could-dial-back-snl-impression
+TAGS: Spicer
+DESC: “There’s a streak of meanness now that they’ve crossed over to mean."
+
 TITLE: All eyes on 9th Circuit Court of Appeals in battle over Trump's travel ban
 URL: http://www.cnn.com/2017/02/06/politics/9th-circuit-court-of-appeals-trump-travel-ban/
 TAGS: TravelBan Lawsuit
