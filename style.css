@@ -199,20 +199,6 @@
 	margin: 0 2px 2px 2px;
 }
 
-.flip {
-    white-space: nowrap;
-    position: absolute;
-    bottom: 50px;
-    right: 100px; /* offset from right */
-    z-index: 1;
-    transform-origin: right bottom;
-    transform: rotate(180deg);
-}
-
-.greyout {
-    background: rgba(0, 0, 0, 0.5);
-}
-
 .tag {
 	font-family: 'Arial Narrow', Arial, sans-serif;
 	display: inline-block;
@@ -242,11 +228,15 @@
 	border-color: White;
 	background: repeating-linear-gradient(0deg, Green, Green 10px, Gold 10px, Gold 20px);
 	color: Black;
+	transform-origin: right bottom;
+    	transform: rotate(180deg);
 }
 .day-table .Australia:hover {
 	border-color: Blue;
 	background: repeating-linear-gradient(0deg, Green, Green 10px, Gold 10px, Gold 20px);
 	color: Black;
+	transform-origin: right bottom;
+	transform: rotate(180deg);
 }
 
 .BabyHands { /* Pink = #ffc0cb; MistyRose = #fee4e1 */
