@@ -31,7 +31,11 @@
 #         #   #  #   #    #     ###
 #         #   #  #   #    #    #   #
 #          ###    ###    ###    ###
-#DAY 18: Monday 6 February 2017
+DAY 18: Monday 6 February 2017
+
+TITLE: Any negative polls are fake news, just like the CNN, ABC, NBC polls in the election. Sorry, people want border security and extreme vetting.
+URL: https://twitter.com/realDonaldTrump/status/828574430800539648
+TAGS: Twitter GloriousLeader
 
 #          ###    ###     #    #####
 #         #   #  #   #   ##        #
@@ -39,6 +43,16 @@
 #         #   #  #   #    #      #
 #          ###    ###    ###     #
 DAY 17: Sunday 5 February 2017
+
+TITLE: Trump and Staff Rethink Tactics After Stumbles
+URL: https://www.nytimes.com/2017/02/05/us/politics/trump-white-house-aides-strategy.html
+TAGS: Commentary
+DESC: Another change will be a new set of checks on the previously unfettered power enjoyed by Mr. Bannon and the White House policy director, Stephen Miller
+
+TITLE: Trump Is Attacking Any Institution That Challenges Him
+URL: https://www.theatlantic.com/politics/archive/2017/02/trump-is-attacking-any-institution-that-challenges-him/515727/
+TAGS: Commentary
+DESC: ...this approach began, not by accident, with an assault on the press and intelligence community, two entities in American society that traditional provide the verified facts that are the basis for policy decisions.
 
 TITLE: Trump’s F.C.C. Quickly Targets Net Neutrality Rules
 URL: https://www.nytimes.com/2017/02/05/technology/trumps-fcc-quickly-targets-net-neutrality-rules.html
